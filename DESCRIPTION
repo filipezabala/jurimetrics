@@ -1,0 +1,17 @@
+Package: jurimetrics
+Type: Package
+Title: General Purpouse Tools for Jurimetrics
+Version: 0.0.0.9000
+Author@R: c(person("Filipe", "J. Zabala", email = "filipe.zabala@gmail.com", role = c("aut","cre")), person("Fabiano", "F. Silveira", email = "fabiano.feijo.silveira@gmail.com", role = "aut"))
+URL: http://www.aclassica.com
+BugReports: https://github.com/filipezabala/jurimetrics/issues
+Description: General purpouse tools for Jurimetrics. Gathers tools to solve 
+    problems concerning legal issues.
+Depends: R (>= 3.6.1)
+Imports:
+    fpp2,
+    tidyverse
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1

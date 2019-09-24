@@ -15,7 +15,8 @@
 #' @param train The (initial) percentage of the time series to be used to train the models. Must be \code{0 < train < 1}.
 #' @param steps Number of steps to forecast. If \code{NULL}, uses the number of points not used in training (testing points). Can't be less than the number of testing points.
 #' @param max.points Limits the maximum number of points to be used in modeling. Uses the last \code{max.points} points of the series.
-#' @param graph Logical. Should the graphics be displayed?
+#' @param show.main.graph Logical. Should the main graphic (with the final model) be displayed?
+#' @param show.sec.graph Logical. Should the secondary graphics (with the training models) be displayed?
 #' @param PI Prediction Interval used in nnar models. Must take long time processing.
 # #' @param lim Limit to maxima/minima observed.
 #' @return The predicted time series using the model that minimizes the forecasting mean square error.
@@ -37,12 +38,14 @@
 #' y <- ts(count_year_month$count, start = c(2000,1), frequency = 12)
 #' fits(y, train = 0.8, steps = 24)
 #' @export
-fits <- function(x, train = 0.8, steps = NULL,
-                 max.points = 500, graf = T, PI = F){
-  ini <- Sys.time()
+fits <- function(x, train = 0.8,
+  steps = NULL,
+  max.points = 500,
+  show.main.graph = T,
+  show.sec.graph = F,
+  PI = F){
 
-  # libraries
-  # suppressMessages(library(fpp2))
+  ini <- Sys.time()
 
   # filtering max.points
   n0 <- length(x)
@@ -108,8 +111,6 @@ fits <- function(x, train = 0.8, steps = NULL,
     fcast <- forecast(fit, h=steps, PI = PI)
   }
 
-  # train/test plots (if graf = T)
-  if(graf){
   # train/test plots
   if(show.sec.graph){
     par(mfrow=c(2,2))
@@ -119,16 +120,12 @@ fits <- function(x, train = 0.8, steps = NULL,
     plot(fcast.nn); points(c(rep(NA,i), x[xTest]))
   }
 
-  # main plot
+  # main plot (best model)
   if(show.main.graph){
-    # best model plot
-    par(mfrow=c(1,1))
-    plot(fcast)
     print(autoplot(fcast) + theme_dark())
     # par(mfrow=c(1,1))
     # plot(fcast)
   }
-
 
 
   # mean squared error (best fit residuals)

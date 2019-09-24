@@ -125,7 +125,24 @@ fits <- function(x, train = 0.8,
 
   # main plot (best model)
   if(show.main.graph){
-    print(autoplot(fcast) + theme_dark())
+    print(autoplot(fcast) +
+        # theme_dark() +
+        theme(
+          panel.background = element_rect(fill = "grey50", colour = NA), # bg of the panel
+          plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+          panel.grid = element_line(colour = "grey42"),
+          panel.grid.major = element_line(size = rel(0.5)), # get rid of major grid
+          panel.grid.minor = element_line(size = rel(0.5)), # get rid of minor grid
+          strip.background = element_rect(fill = "transparent", colour = NA),
+          legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+          legend.box.background = element_rect(fill = "transparent") # get rid of legend panel bg
+
+
+          # axis.ticks = element_line(colour = "grey20", size = rel(0.5)),
+          # legend.key = element_rect(fill = "grey50", colour = NA),
+          # strip.background = element_rect(fill = "grey15", colour = NA),
+          )
+      )
     # par(mfrow=c(1,1))
     # plot(fcast)
   }

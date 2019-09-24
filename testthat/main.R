@@ -18,7 +18,9 @@ devtools::document()
 
 # loading jurimetrics
 devtools::load_all()
+devtools::install_github('filipezabala/jurimetrics', force = T)
 # roxygen2::roxygenize()
+search()
 
 
 

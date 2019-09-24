@@ -36,9 +36,7 @@
 #' data(count_year_month)
 #' y <- ts(count_year_month$count, start = c(2000,1), frequency = 12)
 #' fits(y, train = 0.8, steps = 24)
-
-
-# Function
+#' @export
 fits <- function(x, train = 0.8, steps = NULL,
                  max.points = 500, graf = T, PI = F){
   ini <- Sys.time()

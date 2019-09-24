@@ -22,5 +22,9 @@ devtools::install_github('filipezabala/jurimetrics', force = T)
 # roxygen2::roxygenize()
 search()
 
+# installing and attaching jurimetrics
+devtools::install_github('filipezabala/jurimetrics', force = T)
+library(jurimetrics)
+
 
 

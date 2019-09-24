@@ -110,16 +110,26 @@ fits <- function(x, train = 0.8, steps = NULL,
 
   # train/test plots (if graf = T)
   if(graf){
+  # train/test plots
+  if(show.sec.graph){
     par(mfrow=c(2,2))
     plot(fcast.aa); points(c(rep(NA,i), x[xTest]))
     plot(fcast.ets); points(c(rep(NA,i), x[xTest]))
     plot(fcast.tb); points(c(rep(NA,i), x[xTest]))
     plot(fcast.nn); points(c(rep(NA,i), x[xTest]))
+  }
 
+  # main plot
+  if(show.main.graph){
     # best model plot
     par(mfrow=c(1,1))
     plot(fcast)
+    print(autoplot(fcast) + theme_dark())
+    # par(mfrow=c(1,1))
+    # plot(fcast)
   }
+
+
 
   # mean squared error (best fit residuals)
   # mse.fit.best <- mean(residuals(fit)^2)

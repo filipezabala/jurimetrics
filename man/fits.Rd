@@ -32,6 +32,8 @@ library(fpp2)
 
 fits(livestock)
 fits(livestock, graf = F)
+fits(livestock, show.sec.graph = T)
+fits(livestock, show.main.graph = F)
 fits(h02, .9)
 fits(gas)
 
@@ -41,6 +43,10 @@ fits(y, train = 0.8, steps = 24)
 }
 \references{
 Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp2.
+
+https://robjhyndman.com/talks/Google-Oct2015-part1.pdf
+
+https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/
 
 Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics. arXiv.org...
 }

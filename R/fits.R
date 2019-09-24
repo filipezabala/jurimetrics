@@ -17,6 +17,7 @@
 #' @param max.points Limits the maximum number of points to be used in modeling. Uses the last \code{max.points} points of the series.
 #' @param show.main.graph Logical. Should the main graphic (with the final model) be displayed?
 #' @param show.sec.graph Logical. Should the secondary graphics (with the training models) be displayed?
+#' @param show.value Logical. Should the values be displayed?
 #' @param PI Prediction Interval used in nnar models. Must take long time processing.
 # #' @param lim Limit to maxima/minima observed.
 #' @return The predicted time series using the model that minimizes the forecasting mean square error.
@@ -30,7 +31,8 @@
 #' library(fpp2)
 #'
 #' fits(livestock)
-#' fits(livestock, graf = F)
+#' fits(livestock, show.main.graph = F)
+#' fits(livestock, show.value = F)
 #' fits(h02, .9)
 #' fits(gas)
 #'
@@ -43,6 +45,7 @@ fits <- function(x, train = 0.8,
   max.points = 500,
   show.main.graph = T,
   show.sec.graph = F,
+  show.value = T,
   PI = F){
 
   ini <- Sys.time()
@@ -127,12 +130,13 @@ fits <- function(x, train = 0.8,
     # plot(fcast)
   }
 
-
   # mean squared error (best fit residuals)
   # mse.fit.best <- mean(residuals(fit)^2)
 
   # presenting results
-  return(list(fcast = fcast,
-              runtime = print(Sys.time()-ini),
-              mse.pred = mse.pred))
+  if(show.value){
+    return(list(fcast = fcast,
+      runtime = print(Sys.time()-ini),
+      mse.pred = mse.pred))
+  }
 }

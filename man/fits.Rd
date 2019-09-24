@@ -5,7 +5,7 @@
 \title{Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.}
 \usage{
 fits(x, train = 0.8, steps = NULL, max.points = 500,
-  show.main.graph = T, show.sec.graph = F, PI = F)
+  show.main.graph = T, show.sec.graph = F, show.value = T, PI = F)
 }
 \arguments{
 \item{x}{A vector or ts object.}
@@ -20,6 +20,8 @@ fits(x, train = 0.8, steps = NULL, max.points = 500,
 
 \item{show.sec.graph}{Logical. Should the secondary graphics (with the training models) be displayed?}
 
+\item{show.value}{Logical. Should the values be displayed?}
+
 \item{PI}{Prediction Interval used in nnar models. Must take long time processing.}
 }
 \value{
@@ -33,7 +35,8 @@ library(jurimetrics)
 library(fpp2)
 
 fits(livestock)
-fits(livestock, graf = F)
+fits(livestock, show.main.graph = F)
+fits(livestock, show.value = F)
 fits(h02, .9)
 fits(gas)
 

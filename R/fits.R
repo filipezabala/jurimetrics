@@ -138,7 +138,7 @@ fits <- function(x, train = 0.8,
   # presenting results
   if(show.value){
     return(list(fcast = fcast,
-      runtime = Sys.time()-ini,
-      mse.pred = mse.pred))
+      mse.pred = mse.pred,
+      runtime = Sys.time()-ini))
   }
 }

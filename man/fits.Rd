@@ -34,11 +34,9 @@ Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.
 }
 \examples{
 library(jurimetrics)
-library(fpp2)
 
 fits(livestock)
-fits(livestock, show.main.graph = F, show.sec.graph = T)
-fits(livestock, show.value = F)
+fits(livestock, show.main.graph = F, show.sec.graph = T, show.value = F)
 fits(h02, .9)
 fits(gas)
 

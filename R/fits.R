@@ -117,17 +117,17 @@ fits <- function(x, train = 0.8,
   }
 
   # main plot (best model)
-  else if(show.main.graph){
+  if(show.main.graph){
     print(autoplot(fcast) +
         theme(
           panel.background = element_rect(fill = "grey50", colour = NA),
           plot.background = element_rect(fill = "transparent", color = NA),
-          panel.grid = element_line(colour = "grey42"),
-          panel.grid.major = element_line(size = rel(0.5)),
-          panel.grid.minor = element_line(size = rel(0.5)),
           strip.background = element_rect(fill = "transparent", colour = NA),
           legend.background = element_rect(fill = "transparent"),
-          legend.box.background = element_rect(fill = "transparent")
+          legend.box.background = element_rect(fill = "transparent"),
+          panel.grid = element_line(colour = "grey42"),
+          panel.grid.major = element_line(size = rel(0.5)),
+          panel.grid.minor = element_line(size = rel(0.5))
           )
       )
   }
@@ -138,7 +138,7 @@ fits <- function(x, train = 0.8,
   # presenting results
   if(show.value){
     return(list(fcast = fcast,
-      runtime = print(Sys.time()-ini),
+      runtime = Sys.time()-ini,
       mse.pred = mse.pred))
   }
 }

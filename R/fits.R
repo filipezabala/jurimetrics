@@ -1,38 +1,31 @@
-# References
-# https://robjhyndman.com/talks/Google-Oct2015-part1.pdf
-# https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/
-# https://otexts.org/fpp2/
-
-# Installig, updating and opening packages
-# packs <- c('fpp2')
-# new.packages <- packs[!(packs %in% installed.packages()[,"Package"])]
-# if(length(new.packages)) install.packages(packs, dep=TRUE)
-# update.packages(checkBuilt = TRUE, ask = FALSE)
-
 #' Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.
 #'
 #' @param x A vector or ts object.
 #' @param train The (initial) percentage of the time series to be used to train the models. Must be \code{0 < train < 1}.
 #' @param steps Number of steps to forecast. If \code{NULL}, uses the number of points not used in training (testing points). Can't be less than the number of testing points.
-#' @param max.points Limits the maximum number of points to be used in modeling. Uses the last \code{max.points} points of the series.
+#' @param max.points Limits the maximum number of points to be used in modeling. Uses the first \code{max.points} points of the series.
 #' @param show.main.graph Logical. Should the main graphic (with the final model) be displayed?
 #' @param show.sec.graph Logical. Should the secondary graphics (with the training models) be displayed?
 #' @param show.value Logical. Should the values be displayed?
 #' @param PI Prediction Interval used in nnar models. Must take long time processing.
 # #' @param lim Limit to maxima/minima observed.
-#' @return The predicted time series using the model that minimizes the forecasting mean square error.
+#' @return \code{$fcast} predicted time series using the model that minimizes the forecasting mean square error.
+#' \code{$runtime} running time.
+#' \code{mse.pred} mean squared error of prediction. Used to decide the best model.
 #' @import fpp2
 #' @references
 #' Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp2.
 #'
+#' https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/
+#'
+#' https://robjhyndman.com/talks/Google-Oct2015-part1.pdf
+#'
 #' Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics. arXiv.org...
 #' @examples
 #' library(jurimetrics)
-#' library(fpp2)
 #'
 #' fits(livestock)
-#' fits(livestock, show.main.graph = F)
-#' fits(livestock, show.value = F)
+#' fits(livestock, show.main.graph = F, show.sec.graph = T, show.value = F)
 #' fits(h02, .9)
 #' fits(gas)
 #'
@@ -124,27 +117,19 @@ fits <- function(x, train = 0.8,
   }
 
   # main plot (best model)
-  if(show.main.graph){
+  else if(show.main.graph){
     print(autoplot(fcast) +
-        # theme_dark() +
         theme(
-          panel.background = element_rect(fill = "grey50", colour = NA), # bg of the panel
-          plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+          panel.background = element_rect(fill = "grey50", colour = NA),
+          plot.background = element_rect(fill = "transparent", color = NA),
           panel.grid = element_line(colour = "grey42"),
-          panel.grid.major = element_line(size = rel(0.5)), # get rid of major grid
-          panel.grid.minor = element_line(size = rel(0.5)), # get rid of minor grid
+          panel.grid.major = element_line(size = rel(0.5)),
+          panel.grid.minor = element_line(size = rel(0.5)),
           strip.background = element_rect(fill = "transparent", colour = NA),
-          legend.background = element_rect(fill = "transparent"), # get rid of legend bg
-          legend.box.background = element_rect(fill = "transparent") # get rid of legend panel bg
-
-
-          # axis.ticks = element_line(colour = "grey20", size = rel(0.5)),
-          # legend.key = element_rect(fill = "grey50", colour = NA),
-          # strip.background = element_rect(fill = "grey15", colour = NA),
+          legend.background = element_rect(fill = "transparent"),
+          legend.box.background = element_rect(fill = "transparent")
           )
       )
-    # par(mfrow=c(1,1))
-    # plot(fcast)
   }
 
   # mean squared error (best fit residuals)

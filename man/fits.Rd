@@ -14,7 +14,7 @@ fits(x, train = 0.8, steps = NULL, max.points = 500,
 
 \item{steps}{Number of steps to forecast. If \code{NULL}, uses the number of points not used in training (testing points). Can't be less than the number of testing points.}
 
-\item{max.points}{Limits the maximum number of points to be used in modeling. Uses the last \code{max.points} points of the series.}
+\item{max.points}{Limits the maximum number of points to be used in modeling. Uses the first \code{max.points} points of the series.}
 
 \item{show.main.graph}{Logical. Should the main graphic (with the final model) be displayed?}
 
@@ -25,7 +25,9 @@ fits(x, train = 0.8, steps = NULL, max.points = 500,
 \item{PI}{Prediction Interval used in nnar models. Must take long time processing.}
 }
 \value{
-The predicted time series using the model that minimizes the forecasting mean square error.
+\code{$fcast} predicted time series using the model that minimizes the forecasting mean square error.
+\code{$runtime} running time.
+\code{mse.pred} mean squared error of prediction. Used to decide the best model.
 }
 \description{
 Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.
@@ -35,7 +37,7 @@ library(jurimetrics)
 library(fpp2)
 
 fits(livestock)
-fits(livestock, show.main.graph = F)
+fits(livestock, show.main.graph = F, show.sec.graph = T)
 fits(livestock, show.value = F)
 fits(h02, .9)
 fits(gas)
@@ -46,6 +48,10 @@ fits(y, train = 0.8, steps = 24)
 }
 \references{
 Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp2.
+
+https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/
+
+https://robjhyndman.com/talks/Google-Oct2015-part1.pdf
 
 Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics. arXiv.org...
 }

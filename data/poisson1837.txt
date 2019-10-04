@@ -1,5 +1,5 @@
 year accused convicted rate group
-1825 6652 4037 0.6068 france
+1825 6652 4037 0.6068 France
 1826 6988 4348 0.6222 France
 1827 6929 4236 0.6113 France
 1828 7396 4551 0.6153 France

@@ -1,8 +1,9 @@
 Package: jurimetrics
 Type: Package
 Title: General Purpouse Tools for Jurimetrics
-Version: 0.0.0.9000
+Version: 0.1.0
 Author@R: c(person("Filipe", "J. Zabala", email = "filipe.zabala@gmail.com", role = c("aut","cre")), person("Fabiano", "F. Silveira", email = "fabiano.feijo.silveira@gmail.com", role = "aut"))
+Maintainer: Filipe J. Zabala <filipe.zabala@gmail.com>
 URL: http://www.aclassica.com
 BugReports: https://github.com/filipezabala/jurimetrics/issues
 Description: General purpouse tools for Jurimetrics. Gathers tools to solve 

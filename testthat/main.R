@@ -10,7 +10,7 @@
 # packs
 library(devtools)
 
-# sessio_info
+# session_info
 session_info()
 
 # creating manual

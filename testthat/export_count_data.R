@@ -2,9 +2,10 @@
 # .rs.restartR()
 
 # pacotes
-# library(tidyverse)  # varios
-# library(readxl)     # read_xlsx
-# library(lubridate)  # wday
+library(tidyverse)  # varios
+library(readxl)     # read_xlsx
+library(lubridate)  # wday
+library(devtools)
 # library(qcc)        # pareto.chart
 
 # functions

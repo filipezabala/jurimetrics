@@ -9,6 +9,7 @@
 #' library(ggplot2)
 #'
 #' theme_doj()
+#' body(theme_doj)
 #' @export
 theme_doj <- function(){
   return(

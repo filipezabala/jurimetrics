@@ -126,8 +126,8 @@ fits <- function(x, train = 0.8,
     }
 
     if(theme.doj){
-      print(autoplot(fcast)) +
-          theme_doj()
+      print(autoplot(fcast) +
+          theme_doj())
     }
   }
 

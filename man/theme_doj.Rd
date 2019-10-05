@@ -16,6 +16,7 @@ Defines the Decades of Jurimetrics theme
 library(ggplot2)
 
 theme_doj()
+body(theme_doj)
 }
 \references{
 H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.

@@ -5,7 +5,8 @@
 \title{Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.}
 \usage{
 fits(x, train = 0.8, steps = NULL, max.points = 500,
-  show.main.graph = T, show.sec.graph = F, show.value = T, PI = F)
+  show.main.graph = T, show.sec.graph = F, show.value = T, PI = F,
+  theme.doj = F)
 }
 \arguments{
 \item{x}{A vector or ts object.}

@@ -25,6 +25,7 @@
 #' library(jurimetrics)
 #'
 #' fits(livestock)
+#' fits(livestock, theme.doj=T)
 #' fits(livestock, show.main.graph = F, show.sec.graph = T, show.value = F)
 #' fits(h02, .9)
 #' fits(gas)
@@ -39,7 +40,8 @@ fits <- function(x, train = 0.8,
   show.main.graph = T,
   show.sec.graph = F,
   show.value = T,
-  PI = F){
+  PI = F,
+  theme.doj = F){
 
   ini <- Sys.time()
 
@@ -118,18 +120,15 @@ fits <- function(x, train = 0.8,
 
   # main plot (best model)
   if(show.main.graph){
-    print(autoplot(fcast) +
-        theme(
-          panel.background = element_rect(fill = "grey50", colour = NA),
-          plot.background = element_rect(fill = "transparent", color = NA),
-          strip.background = element_rect(fill = "transparent", colour = NA),
-          legend.background = element_rect(fill = "transparent"),
-          legend.box.background = element_rect(fill = "transparent"),
-          panel.grid = element_line(colour = "grey42"),
-          panel.grid.major = element_line(size = rel(0.5)),
-          panel.grid.minor = element_line(size = rel(0.5))
-          )
-      )
+
+    if(!theme.doj){
+      print(autoplot(fcast))
+    }
+
+    if(theme.doj){
+      print(autoplot(fcast)) +
+          theme_doj()
+    }
   }
 
   # mean squared error (best fit residuals)

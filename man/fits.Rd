@@ -37,6 +37,7 @@ Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.
 library(jurimetrics)
 
 fits(livestock)
+fits(livestock, theme.doj=T)
 fits(livestock, show.main.graph = F, show.sec.graph = T, show.value = F)
 fits(h02, .9)
 fits(gas)

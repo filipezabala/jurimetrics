@@ -1,3 +1,15 @@
+#' Defines the Decades of Jurimetrics theme
+#'
+#' @return Decades of Jurimetrics theme, based on ggplot2::theme_dark.
+#' @import ggplot2
+#' @references
+#' H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
+#'
+#' @examples
+#' library(ggplot2)
+#'
+#' theme_doj()
+#' @export
 theme_doj <- function(){
   return(
     theme(

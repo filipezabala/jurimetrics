@@ -25,7 +25,8 @@ theme_doj <- function(){
       legend.text = element_text(color='grey42'),
       panel.grid = element_line(colour = 'grey42'),
       panel.grid.major = element_line(size = rel(0.5)),
-      panel.grid.minor = element_line(size = rel(0.5))
+      panel.grid.minor = element_line(size = rel(0.5),
+      legend.position = 'bottom')
       )
   )
 }

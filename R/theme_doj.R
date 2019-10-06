@@ -15,7 +15,7 @@
 theme_doj <- function(){
   return(
     theme(
-      legend.position = 'bottom',
+      # legend.position = 'bottom',
       panel.background = element_rect(fill = 'grey50', colour = NA),
       plot.background = element_rect(fill = 'transparent', color = NA),
       strip.background = element_rect(fill = 'transparent', colour = NA),

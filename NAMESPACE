@@ -2,5 +2,3 @@
 
 export(fits)
 export(theme_doj)
-import(fpp2)
-import(ggplot2)

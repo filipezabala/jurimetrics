@@ -5,8 +5,8 @@
 \title{Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.}
 \usage{
 fits(x, train = 0.8, steps = NULL, max.points = 500,
-  show.main.graph = T, show.sec.graph = F, show.value = T, PI = F,
-  theme.doj = F)
+  show.main.graph = TRUE, show.sec.graph = FALSE, show.value = TRUE,
+  PI = FALSE, theme.doj = FALSE)
 }
 \arguments{
 \item{x}{A vector or ts object.}
@@ -24,6 +24,8 @@ fits(x, train = 0.8, steps = NULL, max.points = 500,
 \item{show.value}{Logical. Should the values be displayed?}
 
 \item{PI}{Prediction Interval used in nnar models. Must take long time processing.}
+
+\item{theme.doj}{use DOJ theme for ggplot2 plots}
 }
 \value{
 \code{$fcast} predicted time series using the model that minimizes the forecasting mean square error.
@@ -34,17 +36,16 @@ fits(x, train = 0.8, steps = NULL, max.points = 500,
 Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.
 }
 \examples{
-library(jurimetrics)
 
-fits(livestock)
-fits(livestock, theme.doj=T)
-fits(livestock, show.main.graph = F, show.sec.graph = T, show.value = F)
-fits(h02, .9)
-fits(gas)
+fits(fpp2::livestock)
+fits(fpp2::livestock, theme.doj = TRUE)
+fits(fpp2::livestock, show.main.graph = FALSE, show.sec.graph = TRUE, show.value = FALSE)
+fits(fpp2::h02, .9)
+fits(forecast::gas)
 
-data(count_year_month)
 y <- ts(count_year_month$count, start = c(2000,1), frequency = 12)
 fits(y, train = 0.8, steps = 24)
+
 }
 \references{
 Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp2.

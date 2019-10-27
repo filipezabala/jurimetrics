@@ -8,11 +8,11 @@
 #' @param show.sec.graph Logical. Should the secondary graphics (with the training models) be displayed?
 #' @param show.value Logical. Should the values be displayed?
 #' @param PI Prediction Interval used in nnar models. Must take long time processing.
+#' @param theme.doj use DOJ theme for ggplot2 plots
 # #' @param lim Limit to maxima/minima observed.
 #' @return \code{$fcast} predicted time series using the model that minimizes the forecasting mean square error.
 #' \code{$runtime} running time.
 #' \code{mse.pred} mean squared error of prediction. Used to decide the best model.
-#' @import fpp2
 #' @references
 #' Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp2.
 #'
@@ -22,26 +22,25 @@
 #'
 #' Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics. arXiv.org...
 #' @examples
-#' library(jurimetrics)
 #'
-#' fits(livestock)
-#' fits(livestock, theme.doj=T)
-#' fits(livestock, show.main.graph = F, show.sec.graph = T, show.value = F)
-#' fits(h02, .9)
-#' fits(gas)
+#' fits(fpp2::livestock)
+#' fits(fpp2::livestock, theme.doj = TRUE)
+#' fits(fpp2::livestock, show.main.graph = FALSE, show.sec.graph = TRUE, show.value = FALSE)
+#' fits(fpp2::h02, .9)
+#' fits(forecast::gas)
 #'
-#' data(count_year_month)
 #' y <- ts(count_year_month$count, start = c(2000,1), frequency = 12)
 #' fits(y, train = 0.8, steps = 24)
+#'
 #' @export
 fits <- function(x, train = 0.8,
   steps = NULL,
   max.points = 500,
-  show.main.graph = T,
-  show.sec.graph = F,
-  show.value = T,
-  PI = F,
-  theme.doj = F){
+  show.main.graph = TRUE,
+  show.sec.graph = FALSE,
+  show.value = TRUE,
+  PI = FALSE,
+  theme.doj = FALSE){
 
   ini <- Sys.time()
 
@@ -56,17 +55,17 @@ fits <- function(x, train = 0.8,
   xTest <- (i+1):n
 
   # models
-  fit.aa <- auto.arima(x[xTrain])
-  fit.ets <- ets(x[xTrain])
-  fit.tb <- tbats(x[xTrain])
-  set.seed(1); fit.nn <- nnetar(x[xTrain])
+  fit.aa <- forecast::auto.arima(x[xTrain])
+  fit.ets <- forecast::ets(x[xTrain])
+  fit.tb <- forecast::tbats(x[xTrain])
+  set.seed(1); fit.nn <- forecast::nnetar(x[xTrain])
 
   # forecast
   if(is.null(steps)) {steps <- length(xTest)}
-  fcast.aa <- forecast(fit.aa, h=steps)
-  fcast.ets <- forecast(fit.ets, h=steps)
-  fcast.tb <- forecast(fit.tb, h=steps)
-  fcast.nn <- forecast(fit.nn, h=steps, PI = PI)
+  fcast.aa <- forecast::forecast(fit.aa, h=steps)
+  fcast.ets <- forecast::forecast(fit.ets, h=steps)
+  fcast.tb <- forecast::forecast(fit.tb, h=steps)
+  fcast.nn <- forecast::forecast(fit.nn, h=steps, PI = PI)
 
   # akaike information criteria
   aic <- cbind(aa = c(aic=fit.aa$aic, aicc=fit.aa$aicc, bic=fit.aa$bic),
@@ -75,17 +74,17 @@ fits <- function(x, train = 0.8,
                # nn = c(aic=NA, aicc=NA, bic=NA))
 
   # mean squared error (residuals)
-  mse.fit <- data.frame(mse.fit.aa = mean(residuals(fit.aa)^2),
-                        mse.fit.ets = mean(residuals(fit.ets)^2),
-                        mse.fit.tb = mean(residuals(fit.tb)^2))#,
+  mse.fit <- data.frame(mse.fit.aa = mean(stats::residuals(fit.aa)^2),
+                        mse.fit.ets = mean(stats::residuals(fit.ets)^2),
+                        mse.fit.tb = mean(stats::residuals(fit.tb)^2))#,
                         # mse.fit.nn = mean(residuals(fit.nn)^2))
 
   # mean squared error (forecast)
   if(train != 1){
-    mse.pred <- data.frame(mse.pred.aa = mean((fcast.aa$mean[1:length(xTest)]-x[xTest])^2),
-                           mse.pred.ets = mean((fcast.ets$mean[1:length(xTest)]-x[xTest])^2),
-                           mse.pred.tb = mean((fcast.tb$mean[1:length(xTest)]-x[xTest])^2),
-                           mse.pred.nn = mean((fcast.nn$mean[1:length(xTest)]-x[xTest])^2))
+    mse.pred <- data.frame(mse.pred.aa = mean((fcast.aa$mean[1:length(xTest)]-x[xTest])^2, na.rm = TRUE),
+                           mse.pred.ets = mean((fcast.ets$mean[1:length(xTest)]-x[xTest])^2, na.rm = TRUE),
+                           mse.pred.tb = mean((fcast.tb$mean[1:length(xTest)]-x[xTest])^2, na.rm = TRUE),
+                           mse.pred.nn = mean((fcast.nn$mean[1:length(xTest)]-x[xTest])^2, na.rm = TRUE))
   }
   # print(mse.pred)
 
@@ -93,41 +92,40 @@ fits <- function(x, train = 0.8,
   bestModel <- which.min(mse.pred)
 
   if(bestModel == 1){
-    fit <- auto.arima(x)
-    fcast <- forecast(fit, h=steps)
+    fit <- forecast::auto.arima(x)
+    fcast <- forecast::forecast(fit, h=steps)
   }
   else if(bestModel == 2){
-    fit <- ets(x)
-    fcast <- forecast(fit, h=steps)
+    fit <- forecast::ets(x)
+    fcast <- forecast::forecast(fit, h=steps)
   }
   else if(bestModel == 3){
-    fit <- tbats(x)
-    fcast <- forecast(fit, h=steps)
+    fit <- forecast::tbats(x)
+    fcast <- forecast::forecast(fit, h=steps)
   }
   else if(bestModel == 4){
-    set.seed(1); fit <- nnetar(x)
-    fcast <- forecast(fit, h=steps, PI = PI)
+    set.seed(1); fit <- forecast::nnetar(x)
+    fcast <- forecast::forecast(fit, h=steps, PI = PI)
   }
 
   # train/test plots
   if(show.sec.graph){
-    par(mfrow=c(2,2))
-    plot(fcast.aa); points(c(rep(NA,i), x[xTest]))
-    plot(fcast.ets); points(c(rep(NA,i), x[xTest]))
-    plot(fcast.tb); points(c(rep(NA,i), x[xTest]))
-    plot(fcast.nn); points(c(rep(NA,i), x[xTest]))
+    graphics::par(mfrow=c(2,2))
+    graphics::plot(fcast.aa); graphics::points(c(rep(NA,i), x[xTest]))
+    graphics::plot(fcast.ets); graphics::points(c(rep(NA,i), x[xTest]))
+    graphics::plot(fcast.tb); graphics::points(c(rep(NA,i), x[xTest]))
+    graphics::plot(fcast.nn); graphics::points(c(rep(NA,i), x[xTest]))
   }
 
   # main plot (best model)
-  if(show.main.graph){
+  if(show.main.graph) {
 
     if(!theme.doj){
-      print(autoplot(fcast))
+      print(forecast::autoplot(fcast))
     }
 
     if(theme.doj){
-      print(autoplot(fcast) +
-          theme_doj())
+      print(forecast::autoplot(fcast) + theme_doj())
     }
   }
 

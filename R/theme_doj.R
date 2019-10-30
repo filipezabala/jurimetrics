@@ -21,9 +21,9 @@ theme_doj <- function(){
       strip.background = element_rect(fill = 'transparent', colour = NA),
       legend.background = element_rect(fill = 'transparent'),
       legend.box.background = element_rect(fill = 'transparent'),
-      plot.title = element_text(color='grey42'),
-      legend.title = element_text(color='grey42'),
-      legend.text = element_text(color='grey42'),
+      plot.title = element_text(color='grey90'),
+      legend.title = element_text(color='grey90'),
+      legend.text = element_text(color='grey90'),
       panel.grid = element_line(colour = 'grey42'),
       panel.grid.major = element_line(size = rel(0.5)),
       panel.grid.minor = element_line(size = rel(0.5))

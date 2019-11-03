@@ -56,10 +56,10 @@ fits <- function(x, train = 0.8,
   xTest <- (i+1):n
 
   # models
-  fit.aa <- fpp2::auto.arima(x[xTrain])
-  fit.ets <- fpp2::ets(x[xTrain])
-  fit.tb <- fpp2::tbats(x[xTrain])
-  set.seed(1); fit.nn <- fpp2::nnetar(x[xTrain])
+  fit.aa <- forecast::auto.arima(x[xTrain])
+  fit.ets <- forecast::ets(x[xTrain])
+  fit.tb <- forecast::tbats(x[xTrain])
+  set.seed(1); fit.nn <- forecast::nnetar(x[xTrain])
 
   # forecast
   if(is.null(steps)) {steps <- length(xTest)}
@@ -93,19 +93,19 @@ fits <- function(x, train = 0.8,
   bestModel <- which.min(mse.pred)
 
   if(bestModel == 1){
-    fit <- fpp2::auto.arima(x)
+    fit <- forecast::auto.arima(x)
     fcast <- forecast::forecast(fit, h = steps)
   }
   else if(bestModel == 2){
-    fit <- fpp2::ets(x)
+    fit <- forecast::ets(x)
     fcast <- forecast::forecast(fit, h = steps)
   }
   else if(bestModel == 3){
-    fit <- fpp2::tbats(x)
+    fit <- forecast::tbats(x)
     fcast <- forecast::forecast(fit, h = steps)
   }
   else if(bestModel == 4){
-    set.seed(1); fit <- fpp2::nnetar(x)
+    set.seed(1); fit <- forecast::nnetar(x)
     fcast <- forecast::forecast(fit, h = steps, PI = PI)
   }
 

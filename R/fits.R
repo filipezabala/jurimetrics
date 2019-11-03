@@ -56,17 +56,17 @@ fits <- function(x, train = 0.8,
   xTest <- (i+1):n
 
   # models
-  fit.aa <- auto.arima(x[xTrain])
-  fit.ets <- ets(x[xTrain])
-  fit.tb <- tbats(x[xTrain])
-  set.seed(1); fit.nn <- nnetar(x[xTrain])
+  fit.aa <- fpp2::auto.arima(x[xTrain])
+  fit.ets <- fpp2::ets(x[xTrain])
+  fit.tb <- fpp2::tbats(x[xTrain])
+  set.seed(1); fit.nn <- fpp2::nnetar(x[xTrain])
 
   # forecast
   if(is.null(steps)) {steps <- length(xTest)}
-  fcast.aa <- forecast(fit.aa, h=steps)
-  fcast.ets <- forecast(fit.ets, h=steps)
-  fcast.tb <- forecast(fit.tb, h=steps)
-  fcast.nn <- forecast(fit.nn, h=steps, PI = PI)
+  fcast.aa <- forecast::forecast(fit.aa, h=steps)
+  fcast.ets <- forecast::forecast(fit.ets, h=steps)
+  fcast.tb <- forecast::forecast(fit.tb, h=steps)
+  fcast.nn <- forecast::forecast(fit.nn, h=steps, PI = PI)
 
   # akaike information criteria
   aic <- cbind(aa = c(aic=fit.aa$aic, aicc=fit.aa$aicc, bic=fit.aa$bic),
@@ -93,20 +93,20 @@ fits <- function(x, train = 0.8,
   bestModel <- which.min(mse.pred)
 
   if(bestModel == 1){
-    fit <- auto.arima(x)
-    fcast <- forecast(fit, h=steps)
+    fit <- fpp2::auto.arima(x)
+    fcast <- forecast::forecast(fit, h = steps)
   }
   else if(bestModel == 2){
-    fit <- ets(x)
-    fcast <- forecast(fit, h=steps)
+    fit <- fpp2::ets(x)
+    fcast <- forecast::forecast(fit, h = steps)
   }
   else if(bestModel == 3){
-    fit <- tbats(x)
-    fcast <- forecast(fit, h=steps)
+    fit <- fpp2::tbats(x)
+    fcast <- forecast::forecast(fit, h = steps)
   }
   else if(bestModel == 4){
-    set.seed(1); fit <- nnetar(x)
-    fcast <- forecast(fit, h=steps, PI = PI)
+    set.seed(1); fit <- fpp2::nnetar(x)
+    fcast <- forecast::forecast(fit, h = steps, PI = PI)
   }
 
   # train/test plots
@@ -122,12 +122,12 @@ fits <- function(x, train = 0.8,
   if(show.main.graph){
 
     if(!theme.doj){
-      print(autoplot(fcast))
+      print(ggplot2::autoplot(fcast))
     }
 
     if(theme.doj){
-      print(autoplot(fcast) +
-          theme_doj())
+      print(ggplot2::autoplot(fcast) +
+          jurimetrics::theme_doj())
     }
   }
 

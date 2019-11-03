@@ -4,7 +4,7 @@
 \alias{pre_inj}
 \title{Expected value of loss amount per business day of mistaken credit bureau attribution.}
 \usage{
-pre_inj(average.consult, prob.hire, average.ticket)
+pre_inj(average.consult, prob.hire, average.ticket, breakline = F)
 }
 \arguments{
 \item{average.consult}{Average number of mensal credit bureau consultations.}
@@ -12,6 +12,8 @@ pre_inj(average.consult, prob.hire, average.ticket)
 \item{prob.hire}{(Historical) probability of hiring. Can be considered as the number of converted customers divided by the number of  credit bureau consultations in a period of time.}
 
 \item{average.ticket}{The average ticket of regular customers.}
+
+\item{breakline}{Logical. Should the value be in new line?}
 }
 \value{
 \code{$fcast} predicted time series using the model that minimizes the forecasting mean square error.

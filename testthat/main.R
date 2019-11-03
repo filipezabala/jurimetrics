@@ -11,7 +11,7 @@
 library(devtools)
 
 # session_info
-session_info()
+# session_info()
 
 # creating manual
 devtools::document()

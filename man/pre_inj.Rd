@@ -4,7 +4,7 @@
 \alias{pre_inj}
 \title{Expected value of loss amount per business day of mistaken credit bureau attribution.}
 \usage{
-pre_inj(average.consult, prob.hire, average.ticket, breakline = F)
+pre_inj(average.consult, prob.hire, average.ticket)
 }
 \arguments{
 \item{average.consult}{Average number of mensal credit bureau consultations.}
@@ -12,8 +12,6 @@ pre_inj(average.consult, prob.hire, average.ticket, breakline = F)
 \item{prob.hire}{(Historical) probability of hiring. Can be considered as the number of converted customers divided by the number of  credit bureau consultations in a period of time.}
 
 \item{average.ticket}{The average ticket of regular customers.}
-
-\item{breakline}{Logical. Should the value be in new line?}
 }
 \value{
 \code{$fcast} predicted time series using the model that minimizes the forecasting mean square error.
@@ -26,22 +24,8 @@ Expected value of loss amount per business day of mistaken credit bureau attribu
 \examples{
 library(jurimetrics)
 
-fits(livestock)
-fits(livestock, theme.doj=T)
-fits(livestock, show.main.graph = F, show.sec.graph = T, show.value = F)
-fits(h02, .9)
-fits(gas)
-
-data(count_year_month)
-y <- ts(count_year_month$count, start = c(2000,1), frequency = 12)
-fits(y, train = 0.8, steps = 24)
+pre_inj(1000, 0.1, 3450)
 }
 \references{
-Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp2.
-
-https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/
-
-https://robjhyndman.com/talks/Google-Oct2015-part1.pdf
-
-Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics. arXiv.org...
+Feller, W. (1957) An Introduction to Probability Theory and its Applications. https://archive.org/details/AnIntroductionToProbabilityTheoryAndItsApplicationsVolume1
 }

@@ -9,7 +9,6 @@
 #' Feller, W. (1957) \href{https://archive.org/details/AnIntroductionToProbabilityTheoryAndItsApplicationsVolume1}{An Introduction to Probability Theory and its Applications}.
 #' @examples
 #' library(jurimetrics)
-#'
 #' exp_loss(1000, 0.1, 3450)
 #' @export
 exp_loss <- function(average.consult, prob.hire, average.ticket){

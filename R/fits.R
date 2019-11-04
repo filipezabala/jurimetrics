@@ -12,6 +12,7 @@
 #' @return \code{$fcast} Predicted time series using the model that minimizes the forecasting mean square error.
 #' @return \code{$runtime} Running time.
 #' @return \code{mse.pred} Mean squared error of prediction. Used to decide the best model.
+#' @return \code{$mse.pred} Mean squared error of prediction. Used to decide the best model.
 #' @import fpp2
 #' @references
 #' Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp2.

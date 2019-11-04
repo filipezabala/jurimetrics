@@ -17,6 +17,9 @@ pre_inj(average.consult, prob.hire, average.ticket)
 \code{$fcast} predicted time series using the model that minimizes the forecasting mean square error.
 \code{$runtime} running time.
 \code{mse.pred} mean squared error of prediction. Used to decide the best model.
+\code{$expected.value} Expected value of loss amount per business day of mistaken credit bureau attribution.
+
+\code{$text} An automatic text that details the \code{$expected.value}.
 }
 \description{
 Expected value of loss amount per business day of mistaken credit bureau attribution.

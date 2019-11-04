@@ -7,6 +7,8 @@
 #' \code{$runtime} running time.
 #' \code{mse.pred} mean squared error of prediction. Used to decide the best model.
 #' @import fpp2
+#' @return \code{$expected.value} Expected value of loss amount per business day of mistaken credit bureau attribution.
+#' @return \code{$text} An automatic text that details the \code{$expected.value}.
 #' @references
 #' Feller, W. (1957) An Introduction to Probability Theory and its Applications. https://archive.org/details/AnIntroductionToProbabilityTheoryAndItsApplicationsVolume1
 #' @examples

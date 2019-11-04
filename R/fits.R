@@ -8,24 +8,17 @@
 #' @param show.sec.graph Logical. Should the secondary graphics (with the training models) be displayed?
 #' @param show.value Logical. Should the values be displayed?
 #' @param PI Prediction Interval used in nnar models. Must take long time processing.
-# #' @param lim Limit to maxima/minima observed.
 #' @return \code{$fcast} Predicted time series using the model that minimizes the forecasting mean square error.
-#' @return \code{$runtime} Running time.
-#' @return \code{mse.pred} Mean squared error of prediction. Used to decide the best model.
 #' @return \code{$mse.pred} Mean squared error of prediction. Used to decide the best model.
 #' @return \code{$runtime} Running time.
 #' @import fpp2
 #' @references
-#' Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp2.
 #' Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. \href{https://otexts.com/fpp2}{otexts.com/fpp2}.
 #'
-#' https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/
 #' \href{https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/}{https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/}
 #'
-#' https://robjhyndman.com/talks/Google-Oct2015-part1.pdf
 #' \href{https://robjhyndman.com/talks/Google-Oct2015-part1.pdf}{https://robjhyndman.com/talks/Google-Oct2015-part1.pdf}
 #'
-#' Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics. arXiv.org...
 #' Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics.
 #' @examples
 #' library(jurimetrics)
@@ -93,7 +86,6 @@ fits <- function(x, train = 0.8,
                            mse.pred.tb = mean((fcast.tb$mean[1:length(xTest)]-x[xTest])^2),
                            mse.pred.nn = mean((fcast.nn$mean[1:length(xTest)]-x[xTest])^2))
   }
-  # print(mse.pred)
 
   # fitting best model based on mse.pred
   bestModel <- which.min(mse.pred)

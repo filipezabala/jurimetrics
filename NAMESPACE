@@ -2,7 +2,6 @@
 
 export(exp_loss)
 export(fits)
-export(pre_inj)
 export(theme_doj)
 import(fpp2)
 import(ggplot2)

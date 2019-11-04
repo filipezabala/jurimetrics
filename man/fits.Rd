@@ -33,6 +33,8 @@ fits(x, train = 0.8, steps = NULL, max.points = 500,
 \code{mse.pred} Mean squared error of prediction. Used to decide the best model.
 
 \code{$mse.pred} Mean squared error of prediction. Used to decide the best model.
+
+\code{$runtime} Running time.
 }
 \description{
 Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.

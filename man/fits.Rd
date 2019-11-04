@@ -28,10 +28,6 @@ fits(x, train = 0.8, steps = NULL, max.points = 500,
 \value{
 \code{$fcast} Predicted time series using the model that minimizes the forecasting mean square error.
 
-\code{$runtime} Running time.
-
-\code{mse.pred} Mean squared error of prediction. Used to decide the best model.
-
 \code{$mse.pred} Mean squared error of prediction. Used to decide the best model.
 
 \code{$runtime} Running time.

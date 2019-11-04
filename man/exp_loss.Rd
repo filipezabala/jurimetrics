@@ -23,7 +23,6 @@ Expected value of loss amount per business day.
 }
 \examples{
 library(jurimetrics)
-
 exp_loss(1000, 0.1, 3450)
 }
 \references{

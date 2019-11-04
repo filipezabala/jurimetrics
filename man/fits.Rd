@@ -26,9 +26,11 @@ fits(x, train = 0.8, steps = NULL, max.points = 500,
 \item{PI}{Prediction Interval used in nnar models. Must take long time processing.}
 }
 \value{
-\code{$fcast} predicted time series using the model that minimizes the forecasting mean square error.
-\code{$runtime} running time.
-\code{mse.pred} mean squared error of prediction. Used to decide the best model.
+\code{$fcast} Predicted time series using the model that minimizes the forecasting mean square error.
+
+\code{$runtime} Running time.
+
+\code{mse.pred} Mean squared error of prediction. Used to decide the best model.
 }
 \description{
 Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.

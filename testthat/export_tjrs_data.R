@@ -47,14 +47,14 @@ count_day <- data %>%
   group_by(judgmentDate) %>%
   summarize(count = n())
 use_data(count_day)
-write_csv(count_day, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/count_day.csv')
+write_csv(count_day, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/tjrs_day.csv')
 
 # agrupando e contando o número de processos por dia a semana
 count_week_day <- data %>%
   group_by(weekDay) %>%
   summarize(count = n())
 use_data(count_week_day)
-write_csv(count_week_day, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/count_week_day.csv')
+write_csv(count_week_day, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/tjrs_week_day.csv')
 pareto.chart(table(data$weekDay))
 
 # agrupando e contando o número de processos por mês
@@ -62,17 +62,17 @@ count_year_month <- data %>%
   group_by(yearMonth) %>%
   summarize(count = n())
 use_data(count_year_month)
-write_csv(count_year_month, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/count_year_month.csv')
+write_csv(count_year_month, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/tjrs_year_month.csv')
 ggplot(count_year_month, aes(yearMonth, count)) +
   geom_line()
 
 
-# data("count_day")
-# count_day
+# data("tjrs_day")
+# tjrs_day
 
 # # projetando
 # ini <- Sys.time()
-# y <- ts(count_year_month$count, start = c(2000,1), frequency = 12)
+# y <- ts(tjrs_year_month$count, start = c(2000,1), frequency = 12)
 # fits(y, steps = 48, lim = F, graf = T, PI = F)
 # Sys.time()-ini   # Time difference of 6.028008 mins, PI = T
 

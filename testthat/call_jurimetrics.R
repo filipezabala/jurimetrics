@@ -7,4 +7,5 @@ y <- ts(count_year_month$count, start = c(2000,1), frequency = 12)
 fits(y, show.sec.graph = T)
 
 data("tjmg_volume_year")
-tjmg_volume_year
+y2 <- ts(tjmg_volume_year$volumeAno, start = c(2000,1), frequency = 12)
+fits(tjmg_volume_year$volumeAno)

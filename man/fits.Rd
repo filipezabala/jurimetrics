@@ -41,12 +41,18 @@ library(jurimetrics)
 fits(livestock)
 fits(livestock, theme.doj=T)
 fits(livestock, show.main.graph = F, show.sec.graph = T, show.value = F)
+
 fits(h02, .9)
+
 fits(gas)
 
-data(count_year_month)
-y <- ts(count_year_month$count, start = c(2000,1), frequency = 12)
-fits(y, train = 0.8, steps = 24)
+data('tjmg_year')
+y1 <- ts(tjmg_year$count, start = c(2000,1), frequency = 1)
+fits(y1)
+
+data(tjrs_year_month)
+y2 <- ts(tjrs_year_month$count, start = c(2000,1), frequency = 12)
+fits(y2, train = 0.8, steps = 24)
 }
 \references{
 Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. \href{https://otexts.com/fpp2}{otexts.com/fpp2}.

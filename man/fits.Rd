@@ -23,7 +23,9 @@ fits(x, train = 0.8, steps = NULL, max.points = 500,
 
 \item{show.value}{Logical. Should the values be displayed?}
 
-\item{PI}{Prediction Interval used in nnar models. Must take long time processing.}
+\item{PI}{Prediction Interval used in nnar models. May take long time processing.}
+
+\item{theme.doj}{Logical. Should the theme of Decades Of Jurimetrics be used?}
 }
 \value{
 \code{$fcast} Predicted time series using the model that minimizes the forecasting mean square error.
@@ -39,7 +41,7 @@ Fits the best model from classes ARIMA, ETS, TBATS and NNETAR.
 library(jurimetrics)
 
 fits(livestock)
-fits(livestock, theme.doj=T)
+fits(livestock, theme.doj = T)
 fits(livestock, show.main.graph = F, show.sec.graph = T, show.value = F)
 
 fits(h02, .9)

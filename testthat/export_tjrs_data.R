@@ -6,7 +6,7 @@ library(tidyverse)  # varios
 library(readxl)     # read_xlsx
 library(lubridate)  # wday
 library(devtools)
-# library(qcc)        # pareto.chart
+library(qcc)        # pareto.chart
 
 # functions
 # source('~/Dropbox/Jurimetria/codigos/git/jurimetrics/fits.R')
@@ -43,27 +43,27 @@ data <- do.call(rbind, data)
 Sys.time() - ini # Time difference of 27.99515 secs
 
 # agrupando e contando o número de processos por dia
-count_day <- data %>%
+tjrs_day <- data %>%
   group_by(judgmentDate) %>%
   summarize(count = n())
-use_data(count_day)
-write_csv(count_day, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/tjrs_day.csv')
+use_data(tjrs_day, overwrite = T)
+write_csv(tjrs_day, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/data/tjrs_day.csv')
 
 # agrupando e contando o número de processos por dia a semana
-count_week_day <- data %>%
+tjrs_week_day <- data %>%
   group_by(weekDay) %>%
   summarize(count = n())
-use_data(count_week_day)
-write_csv(count_week_day, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/tjrs_week_day.csv')
+use_data(tjrs_week_day, overwrite = T)
+write_csv(tjrs_week_day, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/data/tjrs_week_day.csv')
 pareto.chart(table(data$weekDay))
 
 # agrupando e contando o número de processos por mês
-count_year_month <- data %>%
+tjrs_year_month <- data %>%
   group_by(yearMonth) %>%
   summarize(count = n())
-use_data(count_year_month)
-write_csv(count_year_month, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/tjrs_year_month.csv')
-ggplot(count_year_month, aes(yearMonth, count)) +
+use_data(tjrs_year_month, overwrite = T)
+write_csv(tjrs_year_month, '~/Dropbox/Jurimetria/codigos/git/jurimetrics/data/tjrs_year_month.csv')
+ggplot(tjrs_year_month, aes(yearMonth, count)) +
   geom_line()
 
 

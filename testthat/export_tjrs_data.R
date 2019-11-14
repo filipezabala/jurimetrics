@@ -67,6 +67,11 @@ ggplot(tjrs_year_month, aes(yearMonth, count)) +
   geom_line()
 
 
+# exportando dia 2019-10-18
+setwd('~/Dropbox/Jurimetria/codigos/git/jurimetrics/data/')
+tjrs_20191018 <- read_xlsx('tjrs_20191018.xlsx')
+use_data(tjrs_20191018, overwrite = T)
+
 # data("tjrs_day")
 # tjrs_day
 

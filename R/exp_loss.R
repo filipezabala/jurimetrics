@@ -11,8 +11,17 @@
 #' library(jurimetrics)
 #' exp_loss(1000, 0.1, 3450)
 #' @export
-exp_loss <- function(average.consult, prob.hire, average.ticket){
-  ev <- round(average.consult * prob.hire * average.ticket/22, 2)
-  text <- paste0('The estimated loss amount per business day is $', ev, '.')
-  return(list(expected.value = ev, text = text))
+exp_loss <- function(average.consult, prob.hire, average.ticket, language = 'en'){
+  if(language == 'pt'){
+    ev <- round(average.consult * prob.hire * average.ticket/22, 2)
+    text <- paste0('A perda esperada por dia útil é de $', ev, '.')
+    return(list(perda.esperada = ev, texto = text))
+  }
+  else{
+    ev <- round(average.consult * prob.hire * average.ticket/22, 2)
+    text <- paste0('The estimated loss amount per business day is $', ev, '.')
+    return(list(expected.loss = ev, text = text))
+  }
+
+
 }

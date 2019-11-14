@@ -4,7 +4,7 @@
 \alias{exp_loss}
 \title{Expected value of loss amount per business day.}
 \usage{
-exp_loss(average.consult, prob.hire, average.ticket)
+exp_loss(average.consult, prob.hire, average.ticket, language = "en")
 }
 \arguments{
 \item{average.consult}{Average number of mensal credit bureau consultations.}

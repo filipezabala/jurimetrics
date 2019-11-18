@@ -98,18 +98,22 @@ fits <- function(x, train = 0.8,
   bestModel <- which.min(mse.pred)
 
   if(bestModel == 1){
+    best.model <- 'arima'
     fit <- forecast::auto.arima(x)
     fcast <- forecast::forecast(fit, h = steps)
   }
   else if(bestModel == 2){
+    best.model <- 'ets'
     fit <- forecast::ets(x)
     fcast <- forecast::forecast(fit, h = steps)
   }
   else if(bestModel == 3){
+    best.model <- 'tbats'
     fit <- forecast::tbats(x)
     fcast <- forecast::forecast(fit, h = steps)
   }
   else if(bestModel == 4){
+    best.model <- 'nnetar'
     set.seed(1); fit <- forecast::nnetar(x)
     fcast <- forecast::forecast(fit, h = steps, PI = PI)
   }
@@ -143,6 +147,7 @@ fits <- function(x, train = 0.8,
   if(show.value){
     return(list(fcast = fcast,
       mse.pred = mse.pred,
+      best.model = best.model,
       runtime = Sys.time()-ini))
   }
 }

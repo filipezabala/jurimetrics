@@ -40,6 +40,8 @@ fits(
 
 \code{$mse.pred} Mean squared error of prediction. Used to decide the best model.
 
+\code{$best.model} Model that minimizes the mean squared error of prediction.
+
 \code{$runtime} Running time.
 }
 \description{

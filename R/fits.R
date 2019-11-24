@@ -11,6 +11,7 @@
 #' @param theme.doj Logical. Should the theme of Decades Of Jurimetrics be used?
 #' @return \code{$fcast} Predicted time series using the model that minimizes the forecasting mean square error.
 #' @return \code{$mse.pred} Mean squared error of prediction. Used to decide the best model.
+#' @return \code{$best.model} Model that minimizes the mean squared error of prediction.
 #' @return \code{$runtime} Running time.
 #' @import fpp2
 #' @references

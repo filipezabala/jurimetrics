@@ -24,6 +24,7 @@ search()
 # installing and attaching jurimetrics
 devtools::install_github('filipezabala/jurimetrics', force = T)
 library(jurimetrics)
-
+?fits
+?theme_doj
 
 

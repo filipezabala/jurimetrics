@@ -8,7 +8,7 @@
 #' @param show.sec.graph Logical. Should the secondary graphics (with the training models) be displayed?
 #' @param show.value Logical. Should the values be displayed?
 #' @param PI Prediction Interval used in nnar models. May take long time processing.
-#' @param theme.doj Logical. Should the theme of Decades Of Jurimetrics be used?
+#' @param theme_doj Logical. Should the theme of Decades Of Jurimetrics be used?
 #' @return \code{$fcast} Predicted time series using the model that minimizes the forecasting mean square error.
 #' @return \code{$mse.pred} Mean squared error of prediction. Used to decide the best model.
 #' @return \code{$best.model} Model that minimizes the mean squared error of prediction.

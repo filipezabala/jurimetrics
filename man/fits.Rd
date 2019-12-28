@@ -33,7 +33,7 @@ fits(
 
 \item{PI}{Prediction Interval used in nnar models. May take long time processing.}
 
-\item{theme.doj}{Logical. Should the theme of Decades Of Jurimetrics be used?}
+\item{theme_doj}{Logical. Should the theme of Decades Of Jurimetrics be used?}
 }
 \value{
 \code{$fcast} Predicted time series using the model that minimizes the forecasting mean square error.

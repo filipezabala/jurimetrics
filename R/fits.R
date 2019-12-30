@@ -17,11 +17,11 @@
 #' @references
 #' Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. \href{https://otexts.com/fpp2}{otexts.com/fpp2}.
 #'
-#' \href{https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/}{https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/}
+#' \url{https://robjhyndman.com/hyndsight/nnetar-prediction-intervals/}
 #'
-#' \href{https://robjhyndman.com/talks/Google-Oct2015-part1.pdf}{https://robjhyndman.com/talks/Google-Oct2015-part1.pdf}
+#' \url{https://robjhyndman.com/talks/Google-Oct2015-part1.pdf}
 #'
-#' Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics.
+#' Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics. \url{https://arxiv.org/abs/2001.00476}#'
 #' @examples
 #' library(jurimetrics)
 #'

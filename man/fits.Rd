@@ -73,5 +73,5 @@ Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice,
 
 \href{https://robjhyndman.com/talks/Google-Oct2015-part1.pdf}{https://robjhyndman.com/talks/Google-Oct2015-part1.pdf}
 
-Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics.
+Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics. \url{https://arxiv.org/abs/2001.00476}
 }

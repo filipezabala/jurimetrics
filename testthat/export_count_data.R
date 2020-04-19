@@ -23,16 +23,18 @@ setwd('~/Documentos/tjrs/arquivosLiteExcel/')  # Linux
 # lendo bancos de dados 2000:2017
 ini <- Sys.time()
 data <- vector('list')
-for(i in 2010:2017){
+for(i in 2000:2017){
   df <- read_xlsx(paste0('tjrs',i,'.xlsx'))
   temp0 <- substr(df$`Data de Julgamento`,3,12)
   ssplit1 <- sapply(df$`Tipo de Processo`, strsplit, "'")
   temp1 <- as.character(t(bind_cols(ssplit1)[2,]))
-  ssplit2 <- sapply(df$`Assunto CNJ`, strsplit, "'")
-  temp2 <- as.character(t(bind_cols(ssplit2)[2,]))
+  # ssplit2 <- sapply(df$`Assunto CNJ`, strsplit, "'")
+  # temp2 <- as.character(t(bind_cols(ssplit2)[2,]))
+  # data[[paste0(i)]] <- tibble(judgmentDate = as.Date(temp0,  format = '%d/%m/%Y'),
+  #                             type = temp1,
+  #                             subject = temp2)
   data[[paste0(i)]] <- tibble(judgmentDate = as.Date(temp0,  format = '%d/%m/%Y'),
-                              type = temp1,
-                              subject = temp2)
+                              type = temp1)
   # names(data[[paste0(i)]]) <- 'judgmentDate'
   print(paste0(i))
 }

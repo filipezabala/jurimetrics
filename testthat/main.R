@@ -27,4 +27,13 @@ library(jurimetrics)
 ?fits
 ?theme_doj
 
+data(count_day_subject)
+data(count_day_type)
+data(count_day)
+data(count_week_day_subject)
+data(count_week_day_type)
+data(count_week_day)
+data(count_year_month_subject)
+data(count_year_month_type)
+data(count_year_month)
 

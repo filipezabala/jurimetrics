@@ -21,5 +21,5 @@ body(theme_doj)
 \references{
 Wickham, H. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
 
-Zabala, F. J. and Silveira, F. F. (2019). Decades of Jurimetrics. arXiv.org...
+Zabala, F. J. and Silveira, F. F. (2019-12-30). Decades of Jurimetrics. https://arxiv.org/abs/2001.00476
 }

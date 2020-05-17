@@ -2,6 +2,7 @@
 
 export(exp_loss)
 export(fits)
+export(pattern_danomoral)
 export(theme_doj)
 import(fpp2)
 import(ggplot2)

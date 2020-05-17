@@ -21,6 +21,17 @@ devtools::load_all()
 # roxygen2::roxygenize()
 search()
 
+# pre install gcc (terminal)
+# brew install gcc
+# brew install gcc@5
+
+# cd /usr/local/bin/
+# ln -s gcc-9 gcc
+# ln -s g++-9 g++
+# brew link gcc
+# brew link --overwrite gcc
+# pip3 install xgboost
+
 # installing and attaching jurimetrics
 devtools::install_github('filipezabala/jurimetrics', force = T)
 library(jurimetrics)

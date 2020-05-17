@@ -4,8 +4,7 @@ library(tidyverse)
 library(readxl)
 library(parallel)
 library(stringi)
-# library(textclean)
-
+library(xlsx)
 
 # wd
 setwd('~/Desktop/wbs/arquivos/tjrs_2020/')
@@ -26,4 +25,14 @@ ementa <- mclapply(ementa, dplyr::as_tibble, mc.cores = detectCores())
 pdm <- mclapply(ementa, apply, 1, jurimetrics::has_pattern,
                 jurimetrics::pattern_danomoral(),
                 mc.cores = detectCores())
-lapply(pdm,sum)
+sum(sapply(pdm,sum))
+pdm <- lapply(pdm, as_tibble)
+
+# binding
+dfs <- bind_cols(bind_rows(dfs), bind_rows(pdm))
+dfsDM <- dfs %>%
+  rename(danomoral = value) %>%
+  filter(danomoral == T)
+
+# writing
+xlsx::write.xlsx(dfsDM, 'danomoral2020.xlsx')

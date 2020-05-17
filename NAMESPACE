@@ -2,7 +2,9 @@
 
 export(exp_loss)
 export(fits)
+export(has_pattern)
 export(pattern_danomoral)
 export(theme_doj)
 import(fpp2)
 import(ggplot2)
+import(stringi)

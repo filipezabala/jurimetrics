@@ -5,7 +5,7 @@
 #' @references
 #' Wickham, H. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
 #'
-#' Zabala, F. J. and Silveira, F. F. (2019-12-30). Decades of Jurimetrics. https://arxiv.org/abs/2001.00476
+#' Zabala, F. J. and Silveira, F. F. (2019-12-30). Decades of Jurimetrics. \url{https://arxiv.org/abs/2001.00476}
 #' @examples
 #' library(ggplot2)
 #'

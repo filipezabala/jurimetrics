@@ -1,0 +1,4892 @@
+weekDay,assunto_cnj,count
+Sun,Abandono Intelectual,1
+Sun,Abandono Material,3
+Sun,Abono de Permanência,3
+Sun,Acidente de Trabalho,3
+Sun,Acidente De Trabalho,1
+Sun,Acidente de Trânsito,1
+Sun,Adicional de Horas Extras,13
+Sun,Adicional de Insalubridade,12
+Sun,Adicional de Serviço Noturno,25
+Sun,Adicional por Tempo de Serviço,1
+Sun,Admissão / Permanência / Despedida,10
+Sun,Agentes Políticos,2
+Sun,Agrotóxicos,1
+Sun,Águas Públicas,3
+Sun,Alienação Fiduciária,78
+Sun,Alimentos,21
+Sun,Ameaça,4
+Sun,Anulação,3
+Sun,Anulação de Débito Fiscal,7
+Sun,Anulação e Correção de Provas / Questões,7
+Sun,Aposentadoria,12
+Sun,Apropriação indébita,7
+Sun,Apuração de haveres,1
+Sun,Aquisição,5
+Sun,Área de Preservação Permanente,1
+Sun,Arrendamento Mercantil,3
+Sun,Arrendamento Rural,3
+Sun,Associação,1
+Sun,Associação para a Produção e Tráfico e Condutas Afins,1
+Sun,Atentado Violento ao Pudor,7
+Sun,Atividade Política,1
+Sun,Ato Infracional,23
+Sun,Atos Administrativos,22
+Sun,Autofalência,1
+Sun,Auxílio-Acidente (Art. 86),8
+Sun,Auxílio-Alimentação,83
+Sun,Auxílio-Doença Acidentário,11
+Sun,Bancários,3
+Sun,Bem de Família,2
+Sun,Benefícios em Espécie,3
+Sun,Cadastro de Análise de Crédito,116
+Sun,Calúnia,1
+Sun,Capacidade,8
+Sun,Cartão de Crédito,2
+Sun,Cédula de Crédito Rural,2
+Sun,Cédula de Produto Rural,1
+Sun,Cheque,15
+Sun,Classificação e/ou Preterição,7
+Sun,CNH - Carteira Nacional de Habilitação,27
+Sun,Cofins,9
+Sun,Coisas,1
+Sun,Comercialização de dados cadastrais de consumidores,1
+Sun,Comodato,2
+Sun,Compra e Venda,21
+Sun,Compromisso,1
+Sun,Concessão,23
+Sun,Concessão / Permissão / Autorização,1
+Sun,Concurso Público / Edital,19
+Sun,Concussão,2
+Sun,Condomínio,21
+Sun,Condomínio em Edifício,1
+Sun,Consórcio,5
+Sun,Constrangimento ilegal,1
+Sun,Contra a liberdade pessoal,1
+Sun,Contra a vida,1
+Sun,Contrato Temporário de Mão de Obra L 8.745/1993,3
+Sun,Contratos Administrativos,26
+Sun,Contratos Bancários,181
+Sun,Contratos de Consumo,19
+Sun,Contratos de Participacao Financeira,58
+Sun,Contravenções Penais,25
+Sun,Contribuição Sindical,2
+Sun,Contribuições,4
+Sun,Contribuições Corporativas,1
+Sun,Contribuições de Melhoria,4
+Sun,"Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",4
+Sun,Contribuições Previdenciárias,38
+Sun,Corretagem,4
+Sun,Corrupção ativa,2
+Sun,Corrupção passiva,2
+Sun,Crédito Presumido,1
+Sun,Crédito Tributário,5
+Sun,Crimes contra a Fauna,1
+Sun,Crimes contra a Flora,3
+Sun,Crimes contra as Relações de Consumo,8
+Sun,Crimes da Lei de licitações,1
+Sun,"Crimes de Lavagem ou Ocultação de Bens, Direitos ou Valores",2
+Sun,Crimes de Responsabilidade,1
+Sun,Crimes de Tráfico Ilícito e uso indevido de drogas - L 6368,3
+Sun,Crimes de Trânsito,29
+Sun,Crimes do Sistema Nacional de Armas,30
+Sun,Crimes Previstos no Estatuto do Idoso,2
+Sun,Curso de Formação,1
+Sun,Da Poluição,1
+Sun,Dano ao Erário,2
+Sun,Dano Qualificado,1
+Sun,Decorrente de Violência Doméstica,5
+Sun,Demissão ou Exoneração,2
+Sun,Desacato,5
+Sun,Desapropriação,9
+Sun,Desapropriação Indireta,2
+Sun,Desapropriação por Interesse Social Comum / L 4.132/1962,1
+Sun,Desapropriação por Utilidade Pública / DL 3.365/1941,1
+Sun,Desconto em folha de pagamento,2
+Sun,Descontos Indevidos,6
+Sun,Despesas Condominiais,12
+Sun,Diárias e Outras Indenizações,1
+Sun,Difamação,2
+Sun,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,32
+Sun,Direito Autoral,2
+Sun,DIREITO CIVIL,34
+Sun,DIREITO DA CRIANÇA E DO ADOLESCENTE,34
+Sun,Direito de Greve,1
+Sun,Direito de Imagem,1
+Sun,Direito de Preferência,1
+Sun,Direito de Vizinhança,4
+Sun,Dissolução,18
+Sun,Dívida Ativa não-tributária,20
+Sun,Divisão e Demarcação,7
+Sun,Do Sistema Nacional de Armas,1
+Sun,Doação,2
+Sun,Domínio Público,1
+Sun,Duplicata,11
+Sun,Edital,1
+Sun,Empregado Público / Temporário,49
+Sun,Empréstimo consignado,8
+Sun,Energia Elétrica,3
+Sun,Ensino Fundamental e Médio,70
+Sun,Ensino Superior,30
+Sun,Entrada e Permanência de Menores,1
+Sun,Equilíbrio Financeiro,1
+Sun,Esbulho / Turbação / Ameaça,8
+Sun,Espécies de Contratos,22
+Sun,Espécies de Títulos de Crédito,7
+Sun,Estabelecimentos de Ensino,3
+Sun,Estaduais,3
+Sun,Estelionato,7
+Sun,Estupro,14
+Sun,Estupro (Art. 213),3
+Sun,Estupro de vulnerável,46
+Sun,Exame de Saúde e/ou Aptidão Física,1
+Sun,Exame Psicotécnico / Psiquiátrico,5
+Sun,Exclusão - ICMS,1
+Sun,Exclusão de associado,1
+Sun,Exoneração,5
+Sun,Expurgos Inflacionários / Planos Econômicos,83
+Sun,Extorsão,2
+Sun,Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais,1
+Sun,Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios,1
+Sun,Falsificação de documento público,1
+Sun,Falso testemunho ou falsa perícia,1
+Sun,Família,4
+Sun,Fato Atípico :: Competência de Juizado Especial Crime - Trânsito,4
+Sun,Fato Gerador/Incidência,1
+Sun,Férias,6
+Sun,Fiança,1
+Sun,Fiscalização,4
+Sun,Fixação,2
+Sun,Fornecimento de Água,21
+Sun,Fornecimento de Energia Elétrica,89
+Sun,Fornecimento de medicamentos,1
+Sun,Fornecimento de Medicamentos,111
+Sun,Furto,6
+Sun,Furto (art. 155),2
+Sun,Furto Privilegiado,1
+Sun,Furto Qualificado,43
+Sun,Garantias Constitucionais,2
+Sun,Gestante / Adotante / Paternidade,1
+Sun,Gestão de Negócios,2
+Sun,Gratificação de Incentivo,2
+Sun,Gratificação Natalina/13º salário,1
+Sun,Gratificações de Atividade,16
+Sun,Gratificações e Adicionais,8
+Sun,Grave,2
+Sun,Gravíssima,3
+Sun,Guarda,10
+Sun,Habilitação / Registro Cadastral / Julgamento / Homologação,2
+Sun,Homicídio Privilegiado,2
+Sun,Homicídio Qualificado,115
+Sun,Homicídio Simples,22
+Sun,Honorarios Profissionais,10
+Sun,ICMS / Incidência Sobre o Ativo Fixo,6
+Sun,ICMS/ Imposto sobre Circulação de Mercadorias,308
+Sun,ICMS/Importação,2
+Sun,Imissão,3
+Sun,Impostos,97
+Sun,Improbidade Administrativa,29
+Sun,Inadimplemento,3
+Sun,Inclusão Indevida em Cadastro de Inadimplentes,35
+Sun,Inconstitucionalidade Material,5
+Sun,Indenização / Terço Constitucional,3
+Sun,Indenização por Dano Material,17
+Sun,Indenização por Dano Moral,181
+Sun,Infração Administrativa,3
+Sun,Ingresso e Concurso,1
+Sun,Injúria,1
+Sun,Inscrição / Documentação,2
+Sun,Integralidade,36
+Sun,Interesse Particular,1
+Sun,Invalidez Permanente,2
+Sun,Inventário e Partilha,22
+Sun,Investigação de Paternidade,2
+Sun,IPTU/ Imposto Predial e Territorial Urbano,254
+Sun,IPVA - Imposto Sobre Propriedade de Veículos Automotores,18
+Sun,IRPF/Imposto de Renda de Pessoa Física,26
+Sun,Irredutibilidade de Vencimentos,1
+Sun,Isonomia,1
+Sun,Isonomia/Equivalência Salarial,4
+Sun,ISS/ Imposto sobre Serviços,81
+Sun,ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis,8
+Sun,ITCD - Imposto de Transmissão Causa Mortis,6
+Sun,Jornada de Trabalho,39
+Sun,Latrocínio,10
+Sun,Leve,1
+Sun,Liberação de Veículo Apreendido,1
+Sun,Licença Prêmio,3
+Sun,Licença-Prêmio,4
+Sun,Licenças,3
+Sun,Licenças / Afastamentos,1
+Sun,Licenciamento de Veículo,3
+Sun,Licitações,14
+Sun,Limite de Idade,1
+Sun,Liquidação / Cumprimento / Execução :: Competência de Cível - Meio Ambiente,3
+Sun,Liquidação / Cumprimento / Execução :: Competência de Precatória Cível,2
+Sun,Liquidação / Cumprimento / Execução :: Competência de Precatória Registros Públicos,1
+Sun,Locação de Imóvel,26
+Sun,Magistério público da educação básica - hora-atividade (Lei 11.738/08),72
+Sun,Mandato,7
+Sun,Marca,1
+Sun,Meio Ambiente,20
+Sun,Militar,7
+Sun,Multas e demais Sanções,134
+Sun,Municipais,14
+Sun,Mútuo,2
+Sun,Nomeação,13
+Sun,Nota Promissória,9
+Sun,Obrigações,55
+Sun,Ordenação da Cidade / Plano Diretor,2
+Sun,Pagamento,8
+Sun,Pagamento Atrasado / Correção Monetária,2
+Sun,Parcelamento de Vencimentos,38
+Sun,Patente,1
+Sun,Peculato,2
+Sun,Penalidades,1
+Sun,Pensão,51
+Sun,Pensão por Morte (Art. 74/9),15
+Sun,Perdas e Danos,1
+Sun,Pessoas naturais,7
+Sun,PIS,2
+Sun,Piso Salarial,159
+Sun,Planos de Saúde,63
+Sun,Posse,33
+Sun,Posse de Drogas para Consumo Pessoal,36
+Sun,Posse Sexual Mediante Fraude,1
+Sun,Prefeito,1
+Sun,Prestação de Contas,1
+Sun,Prestação de Serviços,22
+Sun,Previdência privada,82
+Sun,Processo Administrativo Disciplinar / Sindicância,1
+Sun,Processo Administrativo Disciplinar ou Sindicância,6
+Sun,Promessa de Compra e Venda,55
+Sun,Promoção,6
+Sun,Promoção / Ascensão,18
+Sun,Propriedade,6
+Sun,Propriedade Fiduciária,1
+Sun,Propriedade Intelectual / Industrial,7
+Sun,Quadrilha ou Bando,1
+Sun,Readaptação,1
+Sun,"Reajustes de Remuneração, Proventos ou Pensão",305
+Sun,Receptação,13
+Sun,Receptação Qualificada,7
+Sun,Reconhecimento / Dissolução,7
+Sun,Recuperação judicial e Falência,6
+Sun,Regime Estatutário,1
+Sun,Registro Civil das Pessoas Naturais,1
+Sun,Registro em Cadastro,3
+Sun,Registro em Cadastro de Análise de Crédito,1
+Sun,Registro em Cadastro de Inadimplentes,22
+Sun,Regulamentação de Visitas,1
+Sun,Reintegração,3
+Sun,Repetição de indébito,12
+Sun,Representação comercial,1
+Sun,Rescisão,1
+Sun,Reserva de Vagas para Deficientes,1
+Sun,Resgate de Contribuição,2
+Sun,Responsabilidade Civil,34
+Sun,Responsabilidade da Administração,9
+Sun,Responsabilidade do Fornecedor,2
+Sun,Restabelecimento,5
+Sun,Revisão,5
+Sun,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",1
+Sun,Revogação/Anulação de multa ambiental,1
+Sun,Revogação/Concessão de Licença Ambiental,2
+Sun,Roubo,14
+Sun,Roubo (art. 157),13
+Sun,Roubo Majorado,89
+Sun,Salário-Família,13
+Sun,Saúde,20
+Sun,Seção Cível,2
+Sun,Seguro,275
+Sun,Seqüestro e cárcere privado,1
+Sun,Serviços,13
+Sun,Serviços Hospitalares,3
+Sun,Servidão,1
+Sun,Servidão Administrativa,2
+Sun,Servidao de Eletroduto,5
+Sun,Servidor Público Civil,92
+Sun,Servidores Ativos,2
+Sun,Servidores Inativos,17
+Sun,Sistema Financeiro da Habitação,4
+Sun,Sistema Nacional de Trânsito,63
+Sun,Sistema Remuneratório e Benefícios,184
+Sun,Sociedade,7
+Sun,Sucessões,5
+Sun,Suspensão da Exigibilidade,2
+Sun,Sustação de Protesto,6
+Sun,Taxa de Coleta de Lixo,9
+Sun,Taxa de Licenciamento de Estabelecimento,12
+Sun,Taxa de Prevenção e Combate a Incêndio,2
+Sun,Taxas,8
+Sun,Telefonia,76
+Sun,Tempo de Serviço,4
+Sun,Teto Salarial,2
+Sun,Tráfico de Drogas e Condutas Afins,212
+Sun,Transferência de cotas,2
+Sun,Transporte de Coisas,1
+Sun,Tratamento Médico-Hospitalar,11
+Sun,Tratamento Medico-Hospitalar e/ou Fornecimento,21
+Sun,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos,382
+Sun,Troca ou Permuta,2
+Sun,Tutela e Curatela,1
+Sun,Uso de documento falso,2
+Sun,Usucapião da L 6.969/1981,1
+Sun,Usucapião Extraordinária,11
+Sun,Usucapião Ordinária,1
+Sun,Usufruto,1
+Sun,Violação de direito autoral,2
+Sun,Violação de domicílio,1
+Sun,NA,119
+Mon,1/3 de férias,1
+Mon,Abandono de incapaz,2
+Mon,Abandono Intelectual,34
+Mon,Abandono Intelectual :: Competência de Execução Cível - JIJ,3
+Mon,Abandono Material,63
+Mon,Abandono Material :: Competência de Medidas de Proteção - JIJ,1
+Mon,Abatimento proporcional do preço,20
+Mon,Abono de Permanência,165
+Mon,Aborto provocado pela gestante ou com o seu consentimento,1
+Mon,Abuso Sexual,9
+Mon,Abuso Sexual :: Competência de Família Substituta - JIJ,1
+Mon,Acidente de Trabalho,62
+Mon,Acidente De Trabalho,152
+Mon,Acidente de Trânsito,800
+Mon,Acompanhamento de Cônjuge ou Companheiro,3
+Mon,Acumulação de Cargos,11
+Mon,Adicional de Horas Extras,220
+Mon,Adicional de Insalubridade,385
+Mon,Adicional de Periculosidade,37
+Mon,Adicional de Produtividade,1
+Mon,Adicional de Serviço Noturno,1872
+Mon,Adicional por Tempo de Serviço,15
+Mon,"Adidos, Agregados e Adjuntos",1
+Mon,Adimplemento e Extinção,14
+Mon,Adjudicação Compulsória,92
+Mon,Administração,3
+Mon,Administração de Herança,14
+Mon,Administração judicial,2
+Mon,Admissão / Permanência / Despedida,84
+Mon,Adoção de Adolescente,1
+Mon,Adoção de Criança,31
+Mon,Adoção de Maior,4
+Mon,Adoção Internacional :: Competência de Preparação para Adoção - JIJ,1
+Mon,Adoção Nacional,10
+Mon,Adoção Nacional :: Competência de Preparação para Adoção - JIJ,1
+Mon,Adulteração de Sinal Identificador de Veículo Automotor,29
+Mon,Advertência,1
+Mon,Advocacia administrativa,2
+Mon,Afastamento,1
+Mon,Afastamento do Cargo,4
+Mon,Agêncie e Distribuição,3
+Mon,Agentes Políticos,10
+Mon,Agrotóxicos,5
+Mon,Águas Públicas,19
+Mon,Alienação Fiduciária,12891
+Mon,Alienação Judicial,4
+Mon,Alienação Parental,5
+Mon,Alimentos,1354
+Mon,Alíquota Zero,1
+Mon,Alteração de Coisa Comum,3
+Mon,Alteração de limites,4
+Mon,Amamentação,1
+Mon,Ameaça,889
+Mon,Ameaça (art. 147),26
+Mon,Anulação,66
+Mon,Anulação de Débito Fiscal,34
+Mon,Anulação e Correção de Provas / Questões,119
+Mon,Aposentadoria,278
+Mon,Aposentadoria Especial (Art. 57/8),2
+Mon,Aposentadoria por Invalidez,80
+Mon,Aposentadoria por Invalidez Acidentária,45
+Mon,Aposentadoria por Tempo de Contribuição (Art. 55/6),3
+Mon,Aposentadoria por Tempo de Serviço (Art. 52/4),2
+Mon,Apreensão,5
+Mon,Apropriação de Coisa Achada,2
+Mon,"Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza",7
+Mon,Apropriação indébita,46
+Mon,"Apropriação indébita (art. 168, caput)",1
+Mon,Apuração de haveres,17
+Mon,Aquisição,146
+Mon,Área de Preservação Permanente,1
+Mon,Arras ou Sinal,1
+Mon,Arrendamento Mercantil,497
+Mon,Arrendamento Rural,174
+Mon,Assédio Sexual,7
+Mon,Assembléia,19
+Mon,Assinatura Básica Mensal,22
+Mon,Assistência à Saúde,19
+Mon,Assistência Pré-escolar,1
+Mon,Associação,56
+Mon,Associação para a Produção e Tráfico e Condutas Afins,36
+Mon,Atentado ao Pudor Mediante Fraude,3
+Mon,Atentado Violento ao Pudor,58
+Mon,Atentado Violento ao Pudor (Art. 214),3
+Mon,Atividade Política,11
+Mon,Ato / Negócio Jurídico,40
+Mon,Ato Infracional,656
+Mon,"Ato Lesivo ao Patrimônio Artístico, Estético, Histórico ou Turístico",7
+Mon,Atos Administrativos,507
+Mon,Atos Unilaterais,11
+Mon,ATP/Adicional de Tarifa Portuária,1
+Mon,Atraso de vôo,6
+Mon,Autofalência,11
+Mon,Auxílio-Acidente (Art. 86),508
+Mon,Auxílio-Alimentação,2991
+Mon,Auxílio-Doença Acidentário,1624
+Mon,Auxílio-Doença Previdenciário,14
+Mon,Auxílio-Funeral,1
+Mon,Auxílio-Natalidade,2
+Mon,Auxílio-transporte,4
+Mon,Averbação / Contagem de Tempo Especial,3
+Mon,Bancários,883
+Mon,Base de Cálculo,1
+Mon,Bem de Família,46
+Mon,"Benefício Assistencial (Art. 203,V CF/88)",2
+Mon,Benefícios em Espécie,123
+Mon,Benfeitorias,2
+Mon,Bens Públicos,4
+Mon,Bloqueio de Valores de Contas Públicas,1
+Mon,Bolsa de Valores,1
+Mon,Busca e Apreensão de Menores,37
+Mon,Cadastro de Análise de Crédito,4470
+Mon,Calúnia,260
+Mon,Câmbio,3
+Mon,Cancelamento de Hipoteca,1
+Mon,Cancelamento de Protesto,62
+Mon,Cancelamento de vôo,8
+Mon,Capacidade,396
+Mon,Capitalização e Previdência Privada,1
+Mon,Cartão de Crédito,1444
+Mon,Casamento,104
+Mon,Cédula de Crédito à Exportação,1
+Mon,Cédula de Crédito Bancário,143
+Mon,Cédula de Crédito Comercial,15
+Mon,Cédula de Crédito Industrial,10
+Mon,Cédula de Crédito Rural,110
+Mon,Cédula de Produto Rural,23
+Mon,Cédula Hipotecária,12
+Mon,Cessão de Crédito,4
+Mon,Cessão de Crédito :: Competência da Direção do Foro Cível,1
+Mon,Cheque,783
+Mon,Cirurgia,1
+Mon,Classificação de créditos,2
+Mon,Classificação e/ou Preterição,187
+Mon,CNH - Carteira Nacional de Habilitação,636
+Mon,Coação no curso do processo,16
+Mon,Cobrança indevida de ligações,8
+Mon,Cofins,82
+Mon,Coisas,425
+Mon,"Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas",2
+Mon,Comercialização de dados cadastrais de consumidores,121
+Mon,"Cometidos por Meio de Marca, Título de Estabelecimento e Sinal de Propaganda",1
+Mon,Comissão,10
+Mon,Comodato,53
+Mon,Compensação,3
+Mon,Compra e Venda,1048
+Mon,Compromisso,43
+Mon,Compulsória,29
+Mon,Comunicação falsa de crime ou de contravenção,24
+Mon,Concessão,171
+Mon,Concessão / Permissão / Autorização,18
+Mon,Concurso de Credores,5
+Mon,Concurso Público / Edital,586
+Mon,Concussão,7
+Mon,Condições Especiais para Prestação de Prova,1
+Mon,Condomínio,459
+Mon,Condomínio em Edifício,177
+Mon,Conflito Fundiário Coletivo Rural,1
+Mon,Conselhos Regionais e Afins (Anuidade),6
+Mon,Consórcio,228
+Mon,Constituição de Renda,2
+Mon,Constrangimento ilegal,17
+Mon,Consulta,1
+Mon,Contra a Administração da Justiça,1
+Mon,Contra a dignidade sexual,1
+Mon,Contra a Incolumidade Pública,2
+Mon,Contra a liberdade pessoal,2
+Mon,Contra a Paz Pública,2
+Mon,Contra a vida,3
+Mon,Contra o Patrimônio,10
+Mon,Contrabando ou Descaminho,1
+Mon,Contrato Temporário de Mão de Obra L 8.745/1993,16
+Mon,Contratos Administrativos,311
+Mon,Contratos Bancários,8520
+Mon,Contratos de Consumo,426
+Mon,Contratos de Participacao Financeira,3462
+Mon,Contravenções Penais,2420
+Mon,Contribuição de Iluminação Pública,3
+Mon,Contribuição Sindical,39
+Mon,Contribuições,34
+Mon,Contribuições Corporativas,5
+Mon,Contribuições de Melhoria,74
+Mon,Contribuições Especiais,2
+Mon,"Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",7
+Mon,Contribuições Previdenciárias,761
+Mon,Contribuições Sociais,22
+Mon,Controle de Constitucionalidade,491
+Mon,Convênio,6
+Mon,Convolação de recuperação judicial em falência,3
+Mon,Correção Monetária,1
+Mon,Corretagem,195
+Mon,Corrupção ativa,10
+Mon,Corrupção de Menores,1
+Mon,Corrupção passiva,9
+Mon,Creditamento,1
+Mon,Crédito Rural,17
+Mon,Crédito Tributário,21
+Mon,Crime Contra a Administração da Justiça - Lei da Ação de Alimentos,1
+Mon,Crime contra o Pátrio-Poder e Tutela,3
+Mon,Crime Tentado :: Competência de Crime Sumário,1
+Mon,Crime Tentado :: Decorrente de Violência Doméstica,1
+Mon,Crimes Contra a Administração da Justiça,5
+Mon,Crimes contra a Economia Popular,4
+Mon,Crimes contra a Família,2
+Mon,Crimes contra a Fauna,175
+Mon,Crimes contra a Flora,77
+Mon,Crimes contra a Honra,2
+Mon,Crimes contra a inviolabilidade de segredo,2
+Mon,Crimes contra a liberdade pessoal,3
+Mon,Crimes Contra a Ordem Economica,2
+Mon,Crimes contra as Marcas,21
+Mon,Crimes contra as Relações de Consumo,32
+Mon,Crimes contra Indicações Geeográficas e Demais Indicações,6
+Mon,Crimes contra o Meio Ambiente e o Patrimônio Genético,2
+Mon,Crimes contra o Patrimônio,1
+Mon,Crimes Contra o Sistema Financeiro,1
+Mon,Crimes contra Patente de Invenção,1
+Mon,Crimes da Lei de licitações,18
+Mon,Crimes de Abuso de Autoridade,19
+Mon,Crimes de Imprensa,2
+Mon,"Crimes de Lavagem ou Ocultação de Bens, Direitos ou Valores",14
+Mon,Crimes de Responsabilidade,11
+Mon,Crimes de Tortura,11
+Mon,Crimes de Tráfico Ilícito e Uso Indevido de Drogas,2
+Mon,Crimes de Tráfico Ilícito e uso indevido de drogas - L 6368,32
+Mon,Crimes de Trânsito,1561
+Mon,Crimes do Sistema Nacional de Armas,296
+Mon,Crimes do Sistema Nacional de Armas - L 9437,1
+Mon,Crimes Eleitorais,2
+Mon,Crimes Falimentares,6
+Mon,Crimes Militares,2
+Mon,Crimes Praticados por Particular Contra a Administração em Geral,1
+Mon,Crimes Previstos na Legislação Extravagante,3
+Mon,Crimes Previstos no Estatuto da criança e do adolescente,16
+Mon,Crimes Previstos no Estatuto do Idoso,12
+Mon,Crimes Resultante de Preconceito de Raça ou de Cor,1
+Mon,Curso de Formação,15
+Mon,Custeio de Assistência Médica,7
+Mon,Da Poluição,199
+Mon,Dação em Pagamento,1
+Mon,Dano,25
+Mon,Dano (art. 163),2
+Mon,Dano Ambiental,3
+Mon,Dano ao Erário,22
+Mon,Dano Qualificado,24
+Mon,De Tráfico Ilícito e Uso Indevido de Drogas,119
+Mon,De Trânsito,5
+Mon,Debêntures,2
+Mon,Decorrente de Violência Doméstica,203
+Mon,Decretação de Ofício,2
+Mon,"Defeito, nulidade ou anulação",3
+Mon,Defensoria Pública,1
+Mon,Demissão ou Exoneração,47
+Mon,Denunciação caluniosa,9
+Mon,Depósito,5
+Mon,Desacato,415
+Mon,Desacato (art. 331),3
+Mon,Desapropriação,96
+Mon,Desapropriação de Imóvel Urbano,3
+Mon,Desapropriação Indireta,36
+Mon,Desapropriação por Utilidade Pública / DL 3.365/1941,41
+Mon,Desconsideração da Personalidade Jurídica,2
+Mon,Desconto em folha de pagamento,24
+Mon,Descontos Indevidos,225
+Mon,Deserdação,1
+Mon,Desobediência,165
+Mon,Desobediência (art. 330),1
+Mon,Desobediência a decisão judicial sobre perda ou suspensão de direitos,15
+Mon,Despacho de Citação,1
+Mon,Despejo para Uso de Ascendentes e Descendentes,3
+Mon,Despejo para Uso Próprio,25
+Mon,Despejo por Denúncia Vazia,52
+Mon,Despesas Condominiais,274
+Mon,Diárias e Outras Indenizações,9
+Mon,Difamação,298
+Mon,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,385
+Mon,Direito Autoral,50
+Mon,DIREITO CIVIL,506
+Mon,DIREITO DA CRIANÇA E DO ADOLESCENTE,723
+Mon,DIREITO DA SAÚDE,18
+Mon,Direito de Greve,19
+Mon,Direito de Imagem,33
+Mon,Direito de Preferência,2
+Mon,Direito de Vizinhança,197
+Mon,DIREITO DO CONSUMIDOR,206
+Mon,DIREITO DO TRABALHO,2
+Mon,DIREITO PENAL,148
+Mon,Direitos / Deveres do Condômino,3
+Mon,Direitos da Personalidade,6
+Mon,Direitos e Títulos de Crédito,3
+Mon,Dirigente Sindical,8
+Mon,Disposição de coisa alheia como própria,1
+Mon,Dissolução,901
+Mon,Dívida Ativa não-tributária,193
+Mon,Divisão e Demarcação,67
+Mon,Divulgação de segredo,1
+Mon,Do Sistema Nacional de Armas,28
+Mon,Doação,30
+Mon,Domínio Público,9
+Mon,Duplicata,444
+Mon,Duplicata Simulada,3
+Mon,Edital,12
+Mon,Eleição,3
+Mon,Empregado Público / Temporário,337
+Mon,Empreitada,34
+Mon,Empréstimo consignado,333
+Mon,Empréstimos Compulsórios,2
+Mon,Energia Elétrica,19
+Mon,Enquadramento,10
+Mon,Enriquecimento ilícito,3
+Mon,Enriquecimento sem Causa,6
+Mon,Ensino Fundamental e Médio,1755
+Mon,Ensino Superior,535
+Mon,Entrada e Permanência de Menores,6
+Mon,Entrega de Filho Menor a Pessoa Inidônea :: Competência de Crime Sumário,2
+Mon,Envenenamento de Água Potável / Substância Alimentícia ou Medicinal :: Competência de Crime Sumário,1
+Mon,Equilíbrio Financeiro,4
+Mon,Erro Médico,231
+Mon,Esbulho / Turbação / Ameaça,396
+Mon,Escolaridade,5
+Mon,Espécies de Contratos,1058
+Mon,Espécies de Títulos de Crédito,480
+Mon,Estabelecimentos de Ensino,130
+Mon,Estaduais,46
+Mon,Estágio Probatório,1
+Mon,Estatuto da criança e do adolescente,1
+Mon,Estelionato,111
+Mon,Estelionato Majorado,1
+Mon,Estupro,98
+Mon,Estupro (Art. 213),41
+Mon,Estupro de vulnerável,186
+Mon,Evicção ou Vicio Redibitório,4
+Mon,Exame de Saúde e/ou Aptidão Física,47
+Mon,Exame Psicotécnico / Psiquiátrico,81
+Mon,Exclusão - ICMS,10
+Mon,Exclusão de associado,3
+Mon,Exclusão de herdeiro ou legatário,4
+Mon,Execução Contratual,14
+Mon,Exercício arbitrário das próprias razões,11
+Mon,"Exercício Ilegal da Medicina, Arte Dentária ou Farmacêutica",2
+Mon,Exibicao de Documentos,138
+Mon,Exigência de Prática Forense,1
+Mon,Exoneração,320
+Mon,Expedição de Certidão Positiva de Débito com Efeito de Negativa,1
+Mon,Exploração do Trabalho Infantil :: Competência de Irregul. em Entidade de Atend. Sócioeducativo-JIJ,1
+Mon,Expurgos Inflacionários / Planos Econômicos,4976
+Mon,Extorsão,52
+Mon,Extorsão mediante seqüestro,12
+Mon,Extravio de bagagem,11
+Mon,Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins,2
+Mon,Falsa identidade,16
+Mon,Falsidade ideológica,11
+Mon,Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais,5
+Mon,Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios,4
+Mon,Falsificação de documento particular,3
+Mon,Falsificação de documento público,10
+Mon,Falsificação de papéis públicos,1
+Mon,Falso testemunho ou falsa perícia,4
+Mon,Falta / Insuficiência das Condições de Encarceramento :: Competência da Fazenda Pública,172
+Mon,Família,314
+Mon,Fato Atípico,8
+Mon,Fato Atípico :: Competência de Juizado Especial Crime,15
+Mon,Fato Atípico :: Competência de Juizado Especial Crime - Trânsito,95
+Mon,Fato Atípico :: Competência de Violência Doméstica,10
+Mon,Fato Gerador/Incidência,3
+Mon,Fatos Jurídicos,15
+Mon,Fauna,4
+Mon,Favorecimento da Prostituição,2
+Mon,FAVORECIMENTO DA PROSTITUICAO OU OUTRA FORMA DE EXPLORACAO SEXUAL DE VULNERAVEL,5
+Mon,Favorecimento pessoal,1
+Mon,Favorecimento real,22
+Mon,Férias,148
+Mon,Ferroviário,1
+Mon,FGTS/Fundo de Garantia Por Tempo de Serviço,5
+Mon,Fiança,5
+Mon,Financiamento de Produto,17
+Mon,Fiscalização,38
+Mon,Fixação,141
+Mon,Flora,1
+Mon,Fornecimento de Água,346
+Mon,Fornecimento de Energia Elétrica,1626
+Mon,Fornecimento de insumos,3
+Mon,Fornecimento de medicamentos,49
+Mon,Fornecimento de Medicamentos,914
+Mon,Fraldas,2
+Mon,Franquia,32
+Mon,Fraude à execução,5
+Mon,Fraude no Pagamento por Meio de Cheque,1
+Mon,Fraude processual,3
+Mon,Fuga de pessoa presa ou submetida a medida de segurança,4
+Mon,Funcionamento de Estabelecimentos Empresariais,7
+Mon,Fundação de Direito Privado,2
+Mon,Furto,157
+Mon,Furto (art. 155),51
+Mon,Furto Privilegiado,11
+Mon,Furto Qualificado,348
+Mon,"Furto Qualificado (Art. 155, § 4o.)",28
+Mon,Garantias Constitucionais,121
+Mon,Gestante / Adotante / Paternidade,15
+Mon,Gestão de Negócios,17
+Mon,Governador,3
+Mon,Gratificação de Desempenho de Atividade Técnico-administrativa - GDATA,2
+Mon,Gratificação de Incentivo,72
+Mon,Gratificação Incorporada / Quintos e Décimos / VPNI,1
+Mon,Gratificação Natalina/13º salário,125
+Mon,Gratificação Natalina/13º Salário,7
+Mon,Gratificações da Lei 8.112/1990,1
+Mon,Gratificações de Atividade,193
+Mon,Gratificações e Adicionais,313
+Mon,Gratificações Municipais Específicas,54
+Mon,Grave,29
+Mon,Gravíssima,12
+Mon,Guarda,432
+Mon,Habilitação / Registro Cadastral / Julgamento / Homologação,14
+Mon,Habitação,2
+Mon,Hipoteca,21
+Mon,Homicídio Privilegiado,11
+Mon,Homicídio Qualificado,1067
+Mon,Homicídio Simples,217
+Mon,Honorarios Profissionais,586
+Mon,ICMS / Incidência Sobre o Ativo Fixo,36
+Mon,ICMS/ Imposto sobre Circulação de Mercadorias,2714
+Mon,ICMS/Importação,20
+Mon,Imissão,109
+Mon,Impedimento / Detenção / Prisão,1
+Mon,Impostos,1484
+Mon,Improbidade Administrativa,227
+Mon,Inadimplemento,314
+Mon,Incapacidade Laborativa Parcial,3
+Mon,Incapacidade Laborativa Permanente,1
+Mon,Incapacidade Laborativa Temporária,1
+Mon,Incapacidade Laborativa Temporária :: Competência da Fazenda Pública,3
+Mon,Incêndio,9
+Mon,Incitação ao Crime,3
+Mon,Inclusão de Dependente,3
+Mon,Inclusão Indevida em Cadastro de Inadimplentes,2780
+Mon,Inconstitucionalidade Material,766
+Mon,Indenização / Terço Constitucional,145
+Mon,Indenização por Dano Material,1166
+Mon,Indenizaçao por Dano Moral,7
+Mon,Indenização por Dano Moral,7953
+Mon,Indenizações Regulares,10
+Mon,Índice da Alíquota,3
+Mon,Índice da URV Lei 8.880/1994,10
+Mon,Indisponibilidade de Bens,1
+Mon,Infração Administrativa,76
+Mon,Infração de Medida Sanitária Preventiva,1
+Mon,Ingresso e Concurso,25
+Mon,Ingresso e Exclusão dos Sócios na Sociedade,10
+Mon,Injúria,273
+Mon,Inquérito / Processo / Recurso Administrativo,13
+Mon,Inscrição / Documentação,23
+Mon,Inserção de dados falsos em sistema de informações,1
+Mon,Inspeção Sanitária de Origem Animal,6
+Mon,Integralidade,719
+Mon,Interdição,11
+Mon,Interesse Particular,1
+Mon,Internação compulsória,3
+Mon,Internação sem atividades externas,5
+Mon,Internação voluntária,1
+Mon,Internação/Transferência Hospitalar,3
+Mon,Interpretação / Revisão de Contrato,139
+Mon,Intervenção do Estado na Propriedade,23
+Mon,Intervenção em Estado / Município,10
+Mon,Introdução ou abandono de animais em propriedade alheia,3
+Mon,Invalidez Permanente,22
+Mon,Inventário e Partilha,1030
+Mon,Investigação de Maternidade,2
+Mon,Investigação de Paternidade,183
+Mon,IPTU/ Imposto Predial e Territorial Urbano,5063
+Mon,IPVA - Imposto Sobre Propriedade de Veículos Automotores,285
+Mon,IRPF/Imposto de Renda de Pessoa Física,262
+Mon,IRPJ/Imposto de Renda de Pessoa Jurídica,3
+Mon,Irredutibilidade de Vencimentos,31
+Mon,Isonomia,17
+Mon,Isonomia/Equivalência Salarial,42
+Mon,ISS/ Imposto sobre Serviços,1035
+Mon,ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis,72
+Mon,ITCD - Imposto de Transmissão Causa Mortis,46
+Mon,Jogo e Aposta,2
+Mon,Jogos de Bingo e/ou Caça-níqueis,1
+Mon,Jornada de Trabalho,717
+Mon,Juros de Mora - Legais / Contratuais,1
+Mon,Latrocínio,111
+Mon,Leasing Imobiliario,1
+Mon,Lei de Imprensa,1
+Mon,Lesões Corporais,14
+Mon,Letra de Câmbio,1
+Mon,Leve,579
+Mon,Liberação de Veículo Apreendido,96
+Mon,Liberdade assistida,2
+Mon,Licença Capacitação (Aperfeiçoamento Profissional),1
+Mon,Licença por Acidente em Serviço,1
+Mon,Licença Prêmio,81
+Mon,Licença-Prêmio,84
+Mon,Licenças,69
+Mon,Licenças / Afastamentos,38
+Mon,Licenciamento,2
+Mon,Licenciamento / Exclusão,6
+Mon,Licenciamento de Veículo,68
+Mon,Licitações,218
+Mon,Limite de Idade,7
+Mon,Liquidação,2
+Mon,Liquidação / Cumprimento / Execução :: Competência de Cível - Meio Ambiente,11
+Mon,Liquidação / Cumprimento / Execução :: Competência de Precatória Cível,313
+Mon,Liquidação / Cumprimento / Execução :: Competência de Precatória Registros Públicos,21
+Mon,Locação / Permissão / Concessão / Autorização / Cessão de Uso,6
+Mon,Locação de Imóvel,1487
+Mon,Locação de Móvel,50
+Mon,Lotação,3
+Mon,Loterias/Sorteio,1
+Mon,Magistério público da educação básica - hora-atividade (Lei 11.738/08),492
+Mon,Magistratura,1
+Mon,Mandato,657
+Mon,Marca,49
+Mon,Maus Tratos,61
+Mon,Maus Tratos :: Competência de Habilitações - JIJ,6
+Mon,Medicamento / Tratamento / Cirurgia de Eficácia não comprovada,2
+Mon,Medidas Sócioeducativas,24
+Mon,Meio Ambiente,186
+Mon,Militar,214
+Mon,Ministério Público,2
+Mon,Modalidade / Limite / Dispensa / Inexigibilidade,2
+Mon,Moeda Falsa / Assimilados,2
+Mon,Motim de presos,2
+Mon,Multa,6
+Mon,Multas e demais Sanções,1506
+Mon,Municipais,210
+Mon,Município,5
+Mon,Mútuo,447
+Mon,Nomeação,296
+Mon,Nota de Crédito Comercial,3
+Mon,Nota de Crédito Industrial,2
+Mon,Nota de Crédito Rural,4
+Mon,Nota Promissória,446
+Mon,Nulidade / Anulação,1
+Mon,Nulidade e Anulação de Partilha e Adjudicação de Herança,10
+Mon,Nulidade e Anulação de Testamento,12
+Mon,Obrigações,1850
+Mon,Oferecimento de Drogas para Consumo Conjunto,1
+Mon,Oferta,12
+Mon,Omissão de socorro,5
+Mon,Orçamento,5
+Mon,Ordem Urbanística,1
+Mon,Ordenação da Cidade / Plano Diretor,30
+Mon,Organização Político-administrativa / Administração Pública,9
+Mon,Outras fraudes,10
+Mon,Pagamento,318
+Mon,Pagamento Atrasado / Correção Monetária,14
+Mon,Pagamento em Consignação,14
+Mon,Pagamento Indevido,14
+Mon,Parcelamento,3
+Mon,Parcelamento de Vencimentos,537
+Mon,Parceria Agrícola e/ou pecuária,50
+Mon,Parlamentares,8
+Mon,Partido Político,4
+Mon,Patente,16
+Mon,Patrimônio Histórico / Tombamento,8
+Mon,Peculato,14
+Mon,Peculato mediante erro de outrem,1
+Mon,Penalidades,3
+Mon,Penhor,11
+Mon,Pensão,514
+Mon,Pensão por Morte (Art. 74/9),146
+Mon,Perda da Propriedade,3
+Mon,Perdas e Danos,12
+Mon,Periclitação da Vida e da Saúde e Rixa,1
+Mon,Perigo para a vida ou saúde de outrem,10
+Mon,Pessoas Jurídicas,39
+Mon,Pessoas naturais,245
+Mon,Petição de Herança,4
+Mon,PIS,31
+Mon,Piso Salarial,2297
+Mon,Plano de Classificação de Cargos,7
+Mon,Planos de Saúde,3091
+Mon,Pobreza :: Competência de Procedimento Administrativo - JIJ,1
+Mon,Poluição,1
+Mon,Posse,956
+Mon,Posse de Drogas para Consumo Pessoal,761
+Mon,Posse e Exercício,27
+Mon,Posse Sexual Mediante Fraude,1
+Mon,Praticagem,1
+Mon,Prazo de Validade,7
+Mon,Prefeito,5
+Mon,Preferências e Privilégios Creditórios,1
+Mon,Prescrição,2
+Mon,Prestação de Contas,10
+Mon,Prestação de Serviços,1037
+Mon,Prestação de serviços à comunidade,1
+Mon,Prevaricação,10
+Mon,Previdência privada,1995
+Mon,Previstos na Legislação Extravagante,1
+Mon,Processo Administrativo Disciplinar / Sindicância,15
+Mon,Processo Administrativo Disciplinar ou Sindicância,72
+Mon,Processo Disciplinar / Sindicância,3
+Mon,Processo Legislativo,7
+Mon,Produto Impróprio,1
+Mon,Programa de Computador,4
+Mon,Programa de Desligamento Voluntário (PDV),1
+Mon,Promessa de Compra e Venda,2746
+Mon,Promessa de Recompensa,1
+Mon,Promoção,792
+Mon,Promoção / Ascensão,640
+Mon,"Promoção, constituição, financiamento ou integração de Organização Criminosa",14
+Mon,Propriedade,233
+Mon,Propriedade Fiduciária,9
+Mon,Propriedade Intelectual / Industrial,146
+Mon,Protesto Indevido de Título,61
+Mon,Prova de Títulos,6
+Mon,Provisória,1
+Mon,Pulsos Excedentes,1
+Mon,Quadrilha ou Bando,22
+Mon,Quadrilha ou Bando (art. 288),2
+Mon,Quanto à Carga,1
+Mon,Quitação,1
+Mon,Readaptação,5
+Mon,"Reajuste de Remuneração, Soldo, Proventos ou Pensão",68
+Mon,"Reajustes de Remuneração, Proventos ou Pensão",6051
+Mon,Receptação,156
+Mon,Receptação Qualificada,19
+Mon,Recondução,5
+Mon,Reconhecimento / Dissolução,778
+Mon,Recuperação extrajudicial,1
+Mon,Recuperação judicial e Falência,487
+Mon,"Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública",18
+Mon,Redistribuição,1
+Mon,Redução da Capacidade Auditiva,5
+Mon,Redução da Capacidade Auditiva :: Competência da Fazenda Pública,2
+Mon,Reforma,2
+Mon,Regime,1
+Mon,Regime de Bens Entre os Cônjuges,18
+Mon,Regime Estatutário,37
+Mon,Regime Previdenciário,20
+Mon,Registro Civil das Pessoas Naturais,26
+Mon,Registro das Pessoas Juridicas d de Titulos E,6
+Mon,Registro de Imóveis,37
+Mon,Registro de nascimento após prazo legal,2
+Mon,Registro de Óbito após prazo legal,2
+Mon,Registro em Cadastro,127
+Mon,Registro em Cadastro de Análise de Crédito,62
+Mon,Registro em Cadastro de Inadimplentes,892
+Mon,Registro para comercialização de dados cadastrais de consumidores,49
+Mon,REGISTROS PÚBLICOS,4
+Mon,Regulamentação de Visitas,142
+Mon,Reintegração,140
+Mon,Reivindicação,145
+Mon,Relações de Parentesco,22
+Mon,Remoção,23
+Mon,Remuneração,9
+Mon,Repasse de Verbas Públicas,169
+Mon,Repetição de indébito,147
+Mon,Representação comercial,175
+Mon,Rescisão,1
+Mon,Rescisão / Resolução,26
+Mon,Rescisão do contrato e devolução do dinheiro,228
+Mon,Reserva de Dominio,80
+Mon,Reserva de Vagas para Deficientes,11
+Mon,Reserva Remunerada,1
+Mon,Resgate de Contribuição,3
+Mon,Resistência,99
+Mon,Resistência (art. 329),1
+Mon,Responsabilidade Civil,3218
+Mon,Responsabilidade Civil do Empregador,17
+Mon,Responsabilidade Contratual,4
+Mon,Responsabilidade da Administração,280
+Mon,Responsabilidade do Fornecedor,99
+Mon,Responsabilidade dos sócios,5
+Mon,Restabelecimento,66
+Mon,Retificação de Área de Imóvel,1
+Mon,Retificação de Data de Nascimento,3
+Mon,Retificação de Nome,27
+Mon,Retificação de Sexo,2
+Mon,Reversão,30
+Mon,Revisão,391
+Mon,Revisão do Saldo Devedor,2
+Mon,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",15
+Mon,Revogação,3
+Mon,Revogação de atos praticados em prejuízo de credores e da massa,3
+Mon,Revogação/Anulação de multa ambiental,2
+Mon,Revogação/Concessão de Licença Ambiental,4
+Mon,Rixa,6
+Mon,Roubo,207
+Mon,Roubo (art. 157),232
+Mon,Roubo Majorado,911
+Mon,Rural - Agrícola/Pecuário,4
+Mon,Rural (Art. 48/51),1
+Mon,Salário-Família,109
+Mon,Sanções Administrativas,2
+Mon,Saneamento,5
+Mon,SATISFACAO DE LASCIVIA MEDIANTE PRESENCA DE CRIANCA OU ADOLESCENTE,2
+Mon,Saúde,648
+Mon,Seção Cível,16
+Mon,Seguida de Morte,5
+Mon,Seguro,4757
+Mon,Seqüestro e cárcere privado,11
+Mon,Seqüestro e cárcere privado (art. 148),1
+Mon,Serviço Militar,2
+Mon,Serviço Militar dos Profissionais da Saúde,1
+Mon,Serviços,146
+Mon,Serviços Hospitalares,58
+Mon,Serviços Profissionais,61
+Mon,Servidão,26
+Mon,Servidão Administrativa,10
+Mon,Servidao de Eletroduto,59
+Mon,Servidor Público Civil,1803
+Mon,Servidores Ativos,69
+Mon,Servidores Inativos,167
+Mon,Sistema Financeiro da Habitação,272
+Mon,Sistema Nacional de Trânsito,741
+Mon,Sistema Remuneratório e Benefícios,4361
+Mon,Sociedade,166
+Mon,Sonegação de papel ou objeto de valor probatório,2
+Mon,Subsídios,4
+Mon,Substituição do Produto,32
+Mon,Sucessão Provisória,1
+Mon,Sucessões,333
+Mon,Supressão de documento,3
+Mon,Suspensão,11
+Mon,Suspensão da Exigibilidade,6
+Mon,Sustação de Protesto,201
+Mon,Sustação/Alteração de Leilão,2
+Mon,Tarifas,53
+Mon,Taxa de Coleta de Lixo,98
+Mon,Taxa de Fiscalização Ambiental,3
+Mon,Taxa de Iluminação Pública,7
+Mon,Taxa de Licenciamento de Estabelecimento,152
+Mon,Taxa de Limpeza Pública,16
+Mon,Taxa de Ocupação / Laudêmio / Foro,2
+Mon,Taxa de Prevenção e Combate a Incêndio,6
+Mon,Taxa Judiciária,2
+Mon,Taxas,128
+Mon,Telefonia,3429
+Mon,Tempo de Serviço,47
+Mon,Teto Salarial,113
+Mon,Títulos de Crédito,21
+Mon,Tráfico de Drogas e Condutas Afins,2139
+Mon,Transação,26
+Mon,Transferência,8
+Mon,Transferência de cotas,1
+Mon,Transporte Aéreo,74
+Mon,Transporte Aquaviário,3
+Mon,Transporte de Coisas,81
+Mon,Transporte de Pessoas,77
+Mon,Transporte Terrestre,22
+Mon,Tratamento da Própria Saúde,11
+Mon,Tratamento médico-hospitalar,8
+Mon,Tratamento Médico-Hospitalar,211
+Mon,Tratamento Medico-Hospitalar e/ou Fornecimento,699
+Mon,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos,7110
+Mon,Troca ou Permuta,23
+Mon,Turismo,17
+Mon,Tutela e Curatela,82
+Mon,Ultraje Público ao Pudor (Ato/Escrito Obsceno),22
+Mon,União Estável ou Concubinato,74
+Mon,União Homoafetiva,3
+Mon,Unidade de Conservação da Natureza,5
+Mon,Unidade de terapia intensiva (UTI) / unidade de cuidados intensivos (UCI),2
+Mon,Unidade de terapia intensiva (UTI) ou unidade de cuidados intensivos (UCI),31
+Mon,Uso,1
+Mon,Uso de documento falso,9
+Mon,Uso ou Tráfico de Drogas,4
+Mon,Uso ou Tráfico de Drogas :: Competência de Cautelares - JIJ,1
+Mon,Uso ou Tráfico de Drogas :: Competência de Irregul. em Entidade de Atend. Sócioeducativo-JIJ,2
+Mon,Usucapiao (Bens Moveis),4
+Mon,Usucapião da L 6.969/1981,11
+Mon,Usucapião Especial (Constitucional),19
+Mon,Usucapião Especial Coletiva,5
+Mon,Usucapião Extraordinária,249
+Mon,Usucapião Ordinária,86
+Mon,Usufruto,4
+Mon,Usufruto e Administração dos Bens de Filhos Menores,1
+Mon,Vaga de garagem,1
+Mon,Veículos,2
+Mon,Venda de Produtos ou Substância nas Condições dos Artigos 274 e 275,1
+Mon,Verba de Representação,1
+Mon,Viagem ao Exterior,3
+Mon,Vícios de Construção,1
+Mon,Violação aos Princípios Administrativos,5
+Mon,Violação de direito autoral,16
+Mon,Violação de domicílio,25
+Mon,Violação do sigilo funcional,1
+Mon,Violência Doméstica contra a Mulher,1
+Mon,Voluntária,15
+Mon,Warrant,1
+Mon,NA,5103
+Tue,1/3 de férias,3
+Tue,Abandono de incapaz,1
+Tue,Abandono Intelectual,52
+Tue,Abandono Intelectual :: Competência de Execução Cível - JIJ,2
+Tue,Abandono Material,76
+Tue,Abandono Material :: Competência de Habilitações - JIJ,2
+Tue,Abatimento proporcional do preço,243
+Tue,Abono de Permanência,406
+Tue,Abono Pecuniário (Art. 78 Lei 8.112/1990),4
+Tue,Aborto provocado pela gestante ou com o seu consentimento,2
+Tue,Aborto provocado por terceiro,9
+Tue,Abuso Sexual,17
+Tue,Abuso Sexual :: Competência de Família Substituta - JIJ,2
+Tue,Acessão,1
+Tue,Acidente de Trabalho,68
+Tue,Acidente De Trabalho,196
+Tue,Acidente de Trânsito,3468
+Tue,Acumulação de Cargos,11
+Tue,Acumulação de Proventos,2
+Tue,Adicional de Fronteira,6
+Tue,Adicional de Horas Extras,238
+Tue,Adicional de Insalubridade,255
+Tue,Adicional de Periculosidade,121
+Tue,Adicional de Produtividade,1
+Tue,Adicional de Serviço Noturno,1696
+Tue,Adicional por Tempo de Serviço,16
+Tue,"Adidos, Agregados e Adjuntos",1
+Tue,Adimplemento e Extinção,27
+Tue,Adjudicação,1
+Tue,Adjudicação Compulsória,145
+Tue,Administração,13
+Tue,Administração de Herança,10
+Tue,Administração judicial,3
+Tue,Admissão / Permanência / Despedida,182
+Tue,Adoção de Adolescente,2
+Tue,Adoção de Criança,26
+Tue,Adoção de Maior,4
+Tue,Adoção Internacional :: Competência de Cautelares - JIJ,2
+Tue,Adoção Internacional :: Competência de Preparação para Adoção - JIJ,3
+Tue,Adoção Nacional,6
+Tue,Adoção Nacional :: Competência de Cautelares - JIJ,1
+Tue,Adoção Nacional :: Competência de Preparação para Adoção - JIJ,1
+Tue,Adulteração de Sinal Identificador de Veículo Automotor,35
+Tue,Agêncie e Distribuição,3
+Tue,Agentes Políticos,5
+Tue,Agrotóxicos,3
+Tue,Água e/ou Esgoto,11
+Tue,Águas Públicas,26
+Tue,Alienação Fiduciária,13036
+Tue,Alienação Judicial,7
+Tue,Alienação Parental,14
+Tue,Alimentos,1389
+Tue,Alíquota Progressiva,2
+Tue,Alíquota Zero,1
+Tue,Alteração de Coisa Comum,15
+Tue,Ameaça,310
+Tue,Ameaça (art. 147),8
+Tue,Anulação,130
+Tue,Anulação de Débito Fiscal,107
+Tue,Anulação e Correção de Provas / Questões,99
+Tue,Aposentadoria,325
+Tue,Aposentadoria Especial (Art. 57/8),1
+Tue,Aposentadoria por Idade (Art. 48/51),1
+Tue,Aposentadoria por Invalidez,92
+Tue,Aposentadoria por Invalidez Acidentária,47
+Tue,Aposentadoria por Tempo de Contribuição (Art. 55/6),3
+Tue,Aposentadoria/Retorno aoTrabalho,3
+Tue,Apreensão,1
+Tue,"Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza",1
+Tue,Apropriação indébita,54
+Tue,Apuração de haveres,19
+Tue,Aquisição,243
+Tue,Área de Preservação Permanente,1
+Tue,Arras ou Sinal,1
+Tue,Arrendamento Mercantil,448
+Tue,Arrendamento Rural,251
+Tue,Assédio Sexual,3
+Tue,Assembléia,12
+Tue,Assinatura Básica Mensal,236
+Tue,Assistência à Saúde,82
+Tue,Assistência Médico-Hospitalar,2
+Tue,Associação,78
+Tue,Associação para a Produção e Tráfico e Condutas Afins,71
+Tue,Assunção de Obrigação no Último Ano do Mandado ou Legislatura,1
+Tue,Atentado Violento ao Pudor,76
+Tue,Atentado Violento ao Pudor (Art. 214),1
+Tue,Atividade Política,3
+Tue,Ato / Negócio Jurídico,67
+Tue,Ato Infracional,689
+Tue,"Ato Lesivo ao Patrimônio Artístico, Estético, Histórico ou Turístico",6
+Tue,Atos Administrativos,566
+Tue,Atos Unilaterais,46
+Tue,ATP/Adicional de Tarifa Portuária,1
+Tue,Atraso de vôo,75
+Tue,Autofalência,21
+Tue,Auxílio-Acidente (Art. 86),580
+Tue,Auxílio-Alimentação,3394
+Tue,Auxílio-Doença Acidentário,2084
+Tue,Auxílio-Doença Previdenciário,8
+Tue,Auxílio-Funeral,3
+Tue,Auxílio-Natalidade,1
+Tue,Auxílio-Reclusão (Art. 80),2
+Tue,Auxílio-transporte,50
+Tue,Averbação / Contagem de Tempo Especial,6
+Tue,Averbação / Contagem Recíproca,4
+Tue,Bancários,6565
+Tue,Bem de Família,52
+Tue,"Benefício Assistencial (Art. 203,V CF/88)",2
+Tue,Benefícios em Espécie,120
+Tue,Benfeitorias,13
+Tue,Bens Públicos,8
+Tue,Bloqueio de Matrícula,1
+Tue,Busca e Apreensão de Menores,46
+Tue,Cadastro de Análise de Crédito,4253
+Tue,Cadeira de rodas / cadeira de banho / cama hospitalar,1
+Tue,Calúnia,45
+Tue,Cancelamento de Protesto,77
+Tue,Cancelamento de vôo,132
+Tue,Capacidade,383
+Tue,Capitalização e Previdência Privada,2
+Tue,Cargo em Comissão,1
+Tue,Cartão de Crédito,12436
+Tue,Casamento,130
+Tue,Cédula de Crédito à Exportação,2
+Tue,Cédula de Crédito Bancário,523
+Tue,Cédula de Crédito Comercial,33
+Tue,Cédula de Crédito Industrial,25
+Tue,Cédula de Crédito Rural,178
+Tue,Cédula de Produto Rural,56
+Tue,Cédula Hipotecária,37
+Tue,Cessão de Crédito,7
+Tue,Cheque,1744
+Tue,Classificação de créditos,9
+Tue,Classificação e/ou Preterição,143
+Tue,CND/Certidão Negativa de Débito,2
+Tue,CNH - Carteira Nacional de Habilitação,1213
+Tue,Coação no curso do processo,10
+Tue,Cobrança indevida de ligações,131
+Tue,Cofins,175
+Tue,Coisas,2629
+Tue,"Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas",2
+Tue,Comercialização de dados cadastrais de consumidores,113
+Tue,Comissão,40
+Tue,Comodato,79
+Tue,Compensação,6
+Tue,Complementação de Benefício/Ferroviário,10
+Tue,Compra e Venda,2273
+Tue,Compromisso,234
+Tue,Compulsória,3
+Tue,Comunicação falsa de crime ou de contravenção,2
+Tue,Concessão,247
+Tue,Concessão / Permissão / Autorização,18
+Tue,Concurso de Credores,3
+Tue,Concurso Público / Edital,568
+Tue,Concussão,1
+Tue,Condições Especiais para Prestação de Prova,5
+Tue,Condomínio,606
+Tue,Condomínio em Edifício,213
+Tue,Conflito Fundiário Coletivo Rural,1
+Tue,Conselhos Regionais e Afins (Anuidade),7
+Tue,Consórcio,485
+Tue,Constrangimento ilegal,6
+Tue,Constrangimento ilegal (art. 146),1
+Tue,Consulta,3
+Tue,Contra a dignidade sexual,1
+Tue,Contra a liberdade pessoal,2
+Tue,Contra a vida,5
+Tue,Contra o Patrimônio,9
+Tue,Contrabando ou Descaminho,2
+Tue,Contrato Temporário de Mão de Obra L 8.745/1993,21
+Tue,Contratos Administrativos,356
+Tue,Contratos Bancários,16448
+Tue,Contratos de Consumo,2082
+Tue,Contratos de Participacao Financeira,15184
+Tue,Contravenções Penais,208
+Tue,Contribuição de Iluminação Pública,3
+Tue,Contribuição Sindical,37
+Tue,Contribuição Sindical Rural,1
+Tue,Contribuições,35
+Tue,Contribuições Corporativas,2
+Tue,Contribuições de Melhoria,115
+Tue,"Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",6
+Tue,Contribuições Previdenciárias,9908
+Tue,Contribuições Sociais,30
+Tue,Controle de Constitucionalidade,36
+Tue,Convênio,7
+Tue,Convolação de recuperação judicial em falência,3
+Tue,Correção Monetária,4
+Tue,Corretagem,454
+Tue,Corrupção ativa,9
+Tue,Corrupção de Menores,4
+Tue,Corrupção passiva,8
+Tue,Creditamento,1
+Tue,Crédito Prêmio,1
+Tue,Crédito Rural,64
+Tue,Crédito Tributário,38
+Tue,Crime contra o Pátrio-Poder e Tutela,7
+Tue,Crime Tentado :: Competência de Crime Sumário,1
+Tue,Crime Tentado :: Decorrente de Violência Doméstica,2
+Tue,Crimes contra a Dignidade Sexual,1
+Tue,Crimes contra a Dignidade Sexual :: Competência de Violência Doméstica,3
+Tue,Crimes contra a Fauna,2
+Tue,Crimes contra a Flora,3
+Tue,Crimes contra a inviolabilidade de segredo,1
+Tue,Crimes contra a vida,4
+Tue,Crimes contra as Relações de Consumo,23
+Tue,Crimes contra o Meio Ambiente e o Patrimônio Genético,1
+Tue,Crimes Contra o Sistema Financeiro,1
+Tue,Crimes da Lei de licitações,10
+Tue,Crimes de Abuso de Autoridade,4
+Tue,Crimes de Imprensa,1
+Tue,"Crimes de Lavagem ou Ocultação de Bens, Direitos ou Valores",12
+Tue,Crimes de Responsabilidade,10
+Tue,Crimes de Tortura,30
+Tue,Crimes de Tráfico Ilícito e uso indevido de drogas - L 6368,138
+Tue,Crimes de Trânsito,387
+Tue,Crimes do Sistema Nacional de Armas,409
+Tue,Crimes do Sistema Nacional de Armas - L 9437,7
+Tue,Crimes Falimentares,2
+Tue,Crimes Militares,1
+Tue,Crimes Previstos no Estatuto da criança e do adolescente,27
+Tue,Crimes Previstos no Estatuto do Idoso,6
+Tue,Curadoria dos bens do ausente,3
+Tue,Curso de Formação,27
+Tue,Custeio de Assistência Médica,15
+Tue,Da Poluição,12
+Tue,Dano,11
+Tue,Dano (art. 163),2
+Tue,Dano Ambiental,3
+Tue,Dano ao Erário,9
+Tue,Dano Qualificado,17
+Tue,Data Base,5
+Tue,De Tráfico Ilícito e Uso Indevido de Drogas,84
+Tue,De Trânsito,3
+Tue,Debêntures,5
+Tue,Decadência,1
+Tue,Decorrente de Violência Doméstica,446
+Tue,Decretação de Ofício,2
+Tue,"Defeito, nulidade ou anulação",6
+Tue,Defensoria Pública,1
+Tue,Demissão ou Exoneração,27
+Tue,Denunciação caluniosa,7
+Tue,Depósito,28
+Tue,Desacato,27
+Tue,Desacato (art. 331),1
+Tue,Desapropriação,56
+Tue,Desapropriação de Imóvel Urbano,4
+Tue,Desapropriação Indireta,28
+Tue,Desapropriação por Utilidade Pública / DL 3.365/1941,19
+Tue,Desconsideração da Personalidade Jurídica,5
+Tue,Desconto em folha de pagamento,39
+Tue,Descontos Indevidos,898
+Tue,Desenho Industrial,3
+Tue,Deserdação,2
+Tue,Desobediência,7
+Tue,Desobediência (art. 330),1
+Tue,Desobediência a decisão judicial sobre perda ou suspensão de direitos,5
+Tue,Despejo para Uso de Ascendentes e Descendentes,6
+Tue,Despejo para Uso Próprio,44
+Tue,Despejo por Denúncia Vazia,41
+Tue,Despesas Condominiais,472
+Tue,Diárias e Outras Indenizações,66
+Tue,Difamação,8
+Tue,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,319
+Tue,Direito Autoral,68
+Tue,DIREITO CIVIL,979
+Tue,DIREITO DA CRIANÇA E DO ADOLESCENTE,821
+Tue,DIREITO DA SAÚDE,14
+Tue,Direito de Greve,46
+Tue,Direito de Imagem,121
+Tue,Direito de Preferência,2
+Tue,Direito de Vizinhança,340
+Tue,DIREITO DO CONSUMIDOR,973
+Tue,DIREITO MARÍTIMO,1
+Tue,DIREITO PENAL,165
+Tue,Direitos / Deveres do Condômino,25
+Tue,Direitos da Personalidade,6
+Tue,Direitos da Personalidade :: Competência de Voluntárias - JIJ,2
+Tue,Direitos e Títulos de Crédito,1
+Tue,Dirigente Sindical,12
+Tue,Dissolução,980
+Tue,Dívida Ativa não-tributária,244
+Tue,Divisão e Demarcação,140
+Tue,Do Sistema Nacional de Armas,23
+Tue,Doação,47
+Tue,Doença em Pessoa da Família,2
+Tue,Domínio Público,7
+Tue,Duplicata,780
+Tue,Duplicata Simulada,3
+Tue,Edital,14
+Tue,Eleição,11
+Tue,Eleições - Diretórios,1
+Tue,Empregado Público / Temporário,542
+Tue,Empreitada,96
+Tue,Empréstimo consignado,700
+Tue,Empréstimos Compulsórios,4
+Tue,Energia Elétrica,38
+Tue,Enfiteuse,1
+Tue,Enquadramento,7
+Tue,Enriquecimento ilícito,2
+Tue,Enriquecimento sem Causa,8
+Tue,Ensino Fundamental e Médio,5546
+Tue,Ensino Fundamental e Médio :: Competência de Execução Cível - JIJ,1
+Tue,Ensino Superior,836
+Tue,Entrada e Permanência de Menores,7
+Tue,Equilíbrio Financeiro,2
+Tue,Equivalência salarial,1
+Tue,Erro Médico,293
+Tue,Esbulho / Turbação / Ameaça,641
+Tue,Escolaridade,32
+Tue,Espécies de Contratos,1707
+Tue,Espécies de Títulos de Crédito,939
+Tue,Estabelecimentos de Ensino,429
+Tue,Estabilidade,3
+Tue,Estaduais,42
+Tue,Estágio Probatório,1
+Tue,Estatuto da criança e do adolescente,1
+Tue,Estelionato,156
+Tue,Estelionato Majorado,5
+Tue,Estimatório,1
+Tue,Estupro,223
+Tue,Estupro (Art. 213),23
+Tue,Estupro de vulnerável,343
+Tue,Estupro de Vulnerável,1
+Tue,Evicção ou Vicio Redibitório,2
+Tue,Exame de Saúde e/ou Aptidão Física,63
+Tue,Exame Psicotécnico / Psiquiátrico,87
+Tue,Exclusão - ICMS,8
+Tue,Exclusão de associado,6
+Tue,Exclusão de herdeiro ou legatário,1
+Tue,Execução Contratual,26
+Tue,Exibicao de Documentos,1338
+Tue,Exoneração,325
+Tue,Expedição de Certidão Positiva de Débito com Efeito de Negativa,1
+Tue,Expedição de CND,2
+Tue,Expurgos Inflacionários / Planos Econômicos,14014
+Tue,Extinção,3
+Tue,Extinção do Crédito Tributário,1
+Tue,Extorsão,54
+Tue,Extorsão mediante seqüestro,14
+Tue,Extorsão mediante seqüestro (art. 159),1
+Tue,Extravio de bagagem,79
+Tue,Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins,1
+Tue,Falsa identidade,1
+Tue,Falsidade ideológica,12
+Tue,Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais,7
+Tue,Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios,2
+Tue,Falsificação de documento particular,2
+Tue,Falsificação de documento público,5
+Tue,Falsificação de papéis públicos,1
+Tue,Falsificação do selo ou sinal público,1
+Tue,Falso testemunho ou falsa perícia,1
+Tue,Falta / Insuficiência das Condições de Encarceramento :: Competência da Fazenda Pública,106
+Tue,Família,286
+Tue,Fato Atípico,14
+Tue,Fato Atípico :: Competência de Juizado Especial Crime,18
+Tue,Fato Atípico :: Competência de Juizado Especial Crime - Trânsito,78
+Tue,Fato Atípico :: Competência de Violência Doméstica,4
+Tue,Fato Gerador/Incidência,11
+Tue,Fatos Jurídicos,15
+Tue,Favorecimento da Prostituição,2
+Tue,FAVORECIMENTO DA PROSTITUICAO OU OUTRA FORMA DE EXPLORACAO SEXUAL DE VULNERAVEL,11
+Tue,Favorecimento real,1
+Tue,Férias,198
+Tue,FGTS/Fundo de Garantia Por Tempo de Serviço,2
+Tue,Fiança,23
+Tue,Financiamento de Produto,188
+Tue,Fiscalização,40
+Tue,Fixação,149
+Tue,Flora,1
+Tue,Flora :: Competência de Fazenda Pública - Meio Ambiente,1
+Tue,Fornecimento de Água,1330
+Tue,Fornecimento de Energia Elétrica,2865
+Tue,Fornecimento de Gás,3
+Tue,Fornecimento de insumos,2
+Tue,Fornecimento de medicamentos,71
+Tue,Fornecimento de Medicamentos,1191
+Tue,Franquia,26
+Tue,Fraude de lei sobre estrangeiros,1
+Tue,Fraude processual,1
+Tue,Fuga de pessoa presa ou submetida a medida de segurança,2
+Tue,Funcionamento de Estabelecimentos Empresariais,13
+Tue,Fundação de Direito Privado,4
+Tue,Furto,373
+Tue,Furto (art. 155),36
+Tue,Furto de coisa comum,1
+Tue,Furto Privilegiado,16
+Tue,Furto Qualificado,784
+Tue,"Furto Qualificado (Art. 155, § 4o.)",22
+Tue,Garantias Constitucionais,131
+Tue,Gestante / Adotante / Paternidade,21
+Tue,Gestão de Negócios,15
+Tue,Governador,1
+Tue,Gratificação de Desempenho de Atividade Técnico-administrativa - GDATA,1
+Tue,Gratificação de Incentivo,125
+Tue,Gratificação Incorporada / Quintos e Décimos / VPNI,12
+Tue,Gratificação Natalina/13º salário,276
+Tue,Gratificação Natalina/13º Salário,11
+Tue,Gratificações de Atividade,134
+Tue,Gratificações e Adicionais,615
+Tue,Gratificações Municipais Específicas,229
+Tue,Grave,65
+Tue,Gravíssima,22
+Tue,Guarda,478
+Tue,Guarda com genitor ou responsável no exterior,1
+Tue,Habilitação / Registro Cadastral / Julgamento / Homologação,21
+Tue,Habitação,2
+Tue,Hipoteca,31
+Tue,Homicídio Privilegiado,36
+Tue,Homicídio Qualificado,2425
+Tue,Homicídio Simples,619
+Tue,Honorarios Profissionais,512
+Tue,Hora Extra,1
+Tue,ICMS / Incidência Sobre o Ativo Fixo,37
+Tue,ICMS/ Imposto sobre Circulação de Mercadorias,2736
+Tue,ICMS/Importação,25
+Tue,II/ Imposto sobre Importação,1
+Tue,Imissão,202
+Tue,Impostos,1737
+Tue,Improbidade Administrativa,191
+Tue,Imputação do Pagamento,4
+Tue,Inadimplemento,2140
+Tue,Incapacidade Laborativa Parcial,5
+Tue,Incapacidade Laborativa Permanente,5
+Tue,Incapacidade Laborativa Temporária,1
+Tue,Incêndio,7
+Tue,Incentivos fiscais,2
+Tue,Incitação ao Crime,1
+Tue,Inclusão de Dependente,9
+Tue,Inclusão Indevida em Cadastro de Inadimplentes,5984
+Tue,Inconstitucionalidade Material,49
+Tue,Incorporação Imobiliária,3
+Tue,Indenização / Terço Constitucional,116
+Tue,Indenização por Dano Ambiental,11
+Tue,Indenização por Dano Material,6340
+Tue,Indenizaçao por Dano Moral,8
+Tue,Indenização por Dano Moral,21487
+Tue,Indenizações Regulares,23
+Tue,Índice da Alíquota,2
+Tue,Índice da URV Lei 8.880/1994,7
+Tue,"Induzimento, Instigação ou Auxílio a Suicídio",2
+Tue,Infanticídio,1
+Tue,Infração Administrativa,144
+Tue,Ingresso e Concurso,78
+Tue,Ingresso e Exclusão dos Sócios na Sociedade,4
+Tue,Injúria,19
+Tue,Inquérito / Processo / Recurso Administrativo,11
+Tue,Inscrição / Documentação,12
+Tue,Inserção de dados falsos em sistema de informações,1
+Tue,Inspeção Sanitária de Origem Animal,13
+Tue,Integralidade,14320
+Tue,Interdição,8
+Tue,Interesse Particular,9
+Tue,Internação com atividades externas,3
+Tue,Internação compulsória,1
+Tue,Internação sem atividades externas,6
+Tue,Internação/Transferência Hospitalar,3
+Tue,Interpretação / Revisão de Contrato,848
+Tue,Intervenção do Estado na Propriedade,16
+Tue,Invalidez Permanente,27
+Tue,Inventário e Partilha,1035
+Tue,Investigação de Maternidade,2
+Tue,Investigação de Paternidade,221
+Tue,IPI/ Imposto sobre Produtos Industrializados,3
+Tue,IPTU/ Imposto Predial e Territorial Urbano,5813
+Tue,IPVA - Imposto Sobre Propriedade de Veículos Automotores,322
+Tue,IRPF/Imposto de Renda de Pessoa Física,250
+Tue,IRPJ/Imposto de Renda de Pessoa Jurídica,2
+Tue,Irredutibilidade de Vencimentos,120
+Tue,Isonomia,11
+Tue,Isonomia/Equivalência Salarial,27
+Tue,ISS/ Imposto sobre Serviços,1101
+Tue,ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis,93
+Tue,ITCD - Imposto de Transmissão Causa Mortis,57
+Tue,Jogos de Bingo e/ou Caça-níqueis,4
+Tue,Jornada de Trabalho,362
+Tue,Juros de Mora - Legais / Contratuais,8
+Tue,Juros/Correção Monetária,1
+Tue,Lançamento,6
+Tue,Latrocínio,257
+Tue,Lesões Corporais,25
+Tue,Letra de Câmbio,6
+Tue,Leve,80
+Tue,Liberação de Veículo Apreendido,128
+Tue,Licença Capacitação (Aperfeiçoamento Profissional),2
+Tue,Licença Prêmio,475
+Tue,Licença-Prêmio,74
+Tue,Licenças,83
+Tue,Licenças / Afastamentos,37
+Tue,Licenciamento / Exclusão,3
+Tue,Licenciamento de Veículo,91
+Tue,Licitações,237
+Tue,Limite de Idade,5
+Tue,Liquidação,4
+Tue,Liquidação / Cumprimento / Execução :: Competência de Cível - Meio Ambiente,11
+Tue,Liquidação / Cumprimento / Execução :: Competência de Precatória Cível,2346
+Tue,Liquidação / Cumprimento / Execução :: Competência de Precatória Registros Públicos,4
+Tue,Locação / Permissão / Concessão / Autorização / Cessão de Uso,2
+Tue,Locação de Imóvel,1444
+Tue,Locação de Móvel,68
+Tue,Lotação,2
+Tue,Magistério público da educação básica - hora-atividade (Lei 11.738/08),398
+Tue,Mandato,522
+Tue,Marca,51
+Tue,Maus Tratos,32
+Tue,Maus Tratos :: Competência de Cautelares - JIJ,1
+Tue,Maus Tratos :: Competência de Habilitações - JIJ,1
+Tue,Medicamento / Tratamento / Cirurgia de Eficácia não comprovada,2
+Tue,Medidas Sócioeducativas,19
+Tue,Meio Ambiente,188
+Tue,Militar,458
+Tue,Ministério Público,4
+Tue,Moeda Falsa / Assimilados,7
+Tue,Multa,19
+Tue,Multas e demais Sanções,2775
+Tue,Municipais,223
+Tue,Mútuo,1067
+Tue,Nomeação,120
+Tue,Nota de Crédito Comercial,30
+Tue,Nota de Crédito Industrial,1
+Tue,Nota de Crédito Rural,12
+Tue,Nota Promissória,780
+Tue,Nulidade / Anulação,5
+Tue,Nulidade e Anulação de Partilha e Adjudicação de Herança,12
+Tue,Nulidade e Anulação de Testamento,15
+Tue,Obrigações,2736
+Tue,Oferecimento de Drogas para Consumo Conjunto,1
+Tue,Oferta,19
+Tue,Ordem Urbanística,1
+Tue,Ordenação da Cidade / Plano Diretor,30
+Tue,Organização Político-administrativa / Administração Pública,3
+Tue,Organizações Religiosas,2
+Tue,Outras fraudes,1
+Tue,Overbooking,15
+Tue,Pagamento,448
+Tue,Pagamento Atrasado / Correção Monetária,7
+Tue,Pagamento com Sub-rogação,4
+Tue,Pagamento em Consignação,6
+Tue,Pagamento Indevido,177
+Tue,Parcelamento,12
+Tue,Parcelamento de Vencimentos,430
+Tue,Parcelamento do solo urbano,2
+Tue,Parceria Agrícola e/ou pecuária,92
+Tue,Parlamentares,3
+Tue,Partido Político,1
+Tue,Patente,5
+Tue,Patrimônio Cultural,1
+Tue,Patrimônio Histórico / Tombamento,1
+Tue,Patrocínio infiel,1
+Tue,Peculato,17
+Tue,Penalidades,5
+Tue,Penhor,15
+Tue,Pensão,874
+Tue,Pensão por Morte (Art. 74/9),186
+Tue,Perdas e Danos,27
+Tue,Periclitação da Vida e da Saúde e Rixa,1
+Tue,Pessoas Jurídicas,27
+Tue,Pessoas naturais,212
+Tue,Petição de Herança,6
+Tue,PIS,53
+Tue,Piso Salarial,2087
+Tue,Plano de Classificação de Cargos,27
+Tue,Planos de saúde,5
+Tue,Planos de Saúde,2758
+Tue,Pobreza,1
+Tue,Poluição,5
+Tue,Por Remição,1
+Tue,Posse,1477
+Tue,Posse :: Competência de Fazenda Pública,3
+Tue,Posse de Drogas para Consumo Pessoal,159
+Tue,Posse e Exercício,22
+Tue,Posse Sexual Mediante Fraude,2
+Tue,Prazo de Validade,10
+Tue,Prefeito,2
+Tue,Preferências e Privilégios Creditórios,3
+Tue,Prescrição,2
+Tue,Prestação de Contas,4
+Tue,Prestação de Serviços,1955
+Tue,Prestação de serviços à comunidade,3
+Tue,Prevaricação,1
+Tue,Previdência privada,1961
+Tue,Previstos na Legislação Extravagante,1
+Tue,Processo Administrativo Disciplinar / Sindicância,5
+Tue,Processo Administrativo Disciplinar ou Sindicância,30
+Tue,Processo e Procedimento,1
+Tue,Processo Legislativo,2
+Tue,Produto Impróprio,1
+Tue,Programa de Computador,3
+Tue,Promessa de Compra e Venda,3551
+Tue,Promessa de Recompensa,13
+Tue,Promoção,1253
+Tue,Promoção / Ascensão,753
+Tue,"Promoção, constituição, financiamento ou integração de Organização Criminosa",2
+Tue,Propriedade,434
+Tue,Propriedade Fiduciária,19
+Tue,Propriedade Intelectual / Industrial,164
+Tue,Protesto Indevido de Título,326
+Tue,Prova de Títulos,3
+Tue,Pulsos Excedentes,4
+Tue,Quadrilha ou Bando,40
+Tue,Readaptação,3
+Tue,Reajuste de Prestações,2
+Tue,"Reajuste de Remuneração, Soldo, Proventos ou Pensão",855
+Tue,"Reajustes de Remuneração, Proventos ou Pensão",97536
+Tue,Receptação,265
+Tue,Receptação Qualificada,49
+Tue,Recondução,8
+Tue,Reconhecimento / Dissolução,833
+Tue,Recuperação judicial e Falência,542
+Tue,Recursos Administrativos,3
+Tue,"Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública",10
+Tue,Redistribuição,1
+Tue,Redução da Capacidade Auditiva,9
+Tue,Reforma,5
+Tue,Regime,2
+Tue,Regime de Bens Entre os Cônjuges,20
+Tue,Regime Estatutário,28
+Tue,Regime Previdenciário,88
+Tue,Registro Civil das Pessoas Naturais,27
+Tue,Registro das Pessoas Juridicas d de Titulos E,5
+Tue,Registro de Imóveis,79
+Tue,Registro de nascimento após prazo legal,3
+Tue,Registro de Nascimento de Filho de Brasileiro Nascido no Exterior,1
+Tue,Registro de Óbito após prazo legal,2
+Tue,Registro em Cadastro,163
+Tue,Registro em Cadastro de Análise de Crédito,87
+Tue,Registro em Cadastro de Inadimplentes,1403
+Tue,Registro para comercialização de dados cadastrais de consumidores,63
+Tue,REGISTROS PÚBLICOS,7
+Tue,Regulamentação de Visitas,148
+Tue,Reintegração,93
+Tue,Reivindicação,160
+Tue,Relações de Parentesco,30
+Tue,Remoção,23
+Tue,Remuneração,3
+Tue,Repasse de Verbas Públicas,18
+Tue,Repetição de indébito,294
+Tue,Representação comercial,143
+Tue,Rescisão,2
+Tue,Rescisão / Resolução,59
+Tue,Rescisão do contrato e devolução do dinheiro,1968
+Tue,Reserva de Dominio,96
+Tue,Reserva de Vagas para Deficientes,7
+Tue,Reserva Remunerada,9
+Tue,Resgate de Contribuição,16
+Tue,Resistência,8
+Tue,Resistência (art. 329),3
+Tue,Responsabilidade Civil,12913
+Tue,Responsabilidade Civil do Empregador,13
+Tue,Responsabilidade Contratual,3
+Tue,Responsabilidade da Administração,2119
+Tue,Responsabilidade do Fornecedor,410
+Tue,Responsabilidade dos sócios,5
+Tue,Restabelecimento,77
+Tue,Retificação de Área de Imóvel,2
+Tue,Retificação de Data de Nascimento,7
+Tue,Retificação de Nome,28
+Tue,Retificação de Sexo,3
+Tue,Reversão,158
+Tue,Revisão,468
+Tue,Revisão do Saldo Devedor,3
+Tue,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",33
+Tue,Revogação de atos praticados em prejuízo de credores e da massa,1
+Tue,Revogação/Anulação de multa ambiental,4
+Tue,Revogação/Concessão de Licença Ambiental,8
+Tue,Rixa,1
+Tue,Roubo,472
+Tue,Roubo (art. 157),222
+Tue,Roubo Majorado,2020
+Tue,Rural - Agrícola/Pecuário,3
+Tue,Salário-Família,194
+Tue,Sanções Administrativas,2
+Tue,Saneamento,2
+Tue,SATISFACAO DE LASCIVIA MEDIANTE PRESENCA DE CRIANCA OU ADOLESCENTE,4
+Tue,Saúde,572
+Tue,Seção Cível,25
+Tue,Seguida de Morte,9
+Tue,Seguro,6428
+Tue,Semiliberdade,1
+Tue,Seqüestro e cárcere privado,22
+Tue,Seqüestro e cárcere privado (art. 148),1
+Tue,Serviço Militar,2
+Tue,Serviços,191
+Tue,Serviços Hospitalares,111
+Tue,Serviços Profissionais,383
+Tue,Servidão,48
+Tue,Servidão Administrativa,6
+Tue,Servidao de Eletroduto,37
+Tue,Servidor Público Civil,3392
+Tue,Servidores Ativos,703
+Tue,Servidores Inativos,2274
+Tue,Sistema Financeiro da Habitação,311
+Tue,Sistema Nacional de Trânsito,1295
+Tue,Sistema Remuneratório e Benefícios,9356
+Tue,Sociedade,199
+Tue,Sonegação de papel ou objeto de valor probatório,4
+Tue,Sonegação do Estado de Filiação,1
+Tue,Sub-rogação de Vinculo,1
+Tue,Subsídios,10
+Tue,Substituição do Produto,366
+Tue,Subtração de Incapazes,1
+Tue,Sucessão Provisória,3
+Tue,Sucessões,307
+Tue,Supressão de documento,1
+Tue,Suspensão,5
+Tue,Suspensão da Exigibilidade,31
+Tue,Sustação de Protesto,327
+Tue,Sustação/Alteração de Leilão,4
+Tue,Tabelionato de Protestos de Títulos,2
+Tue,Tarifas,748
+Tue,Taxa de Coleta de Lixo,125
+Tue,Taxa de Fiscalização Ambiental,2
+Tue,Taxa de Iluminação Pública,2
+Tue,Taxa de Licenciamento de Estabelecimento,173
+Tue,Taxa de Limpeza Pública,27
+Tue,Taxa de Ocupação / Laudêmio / Foro,6
+Tue,Taxa de Prevenção e Combate a Incêndio,8
+Tue,Taxa Judiciária,2
+Tue,Taxas,202
+Tue,Telefonia,8474
+Tue,Tempo de Serviço,85
+Tue,Teto Salarial,26
+Tue,Títulos da Dívida Pública,3
+Tue,Títulos de Crédito,41
+Tue,Tráfico de Drogas e Condutas Afins,3888
+Tue,Tráfico de influência,2
+Tue,Transação,112
+Tue,Transferência,16
+Tue,Transferência de cotas,5
+Tue,Transferência para reserva,3
+Tue,Transporte Aéreo,245
+Tue,Transporte de Coisas,189
+Tue,Transporte de Pessoas,166
+Tue,Transporte Terrestre,75
+Tue,Tratamento da Própria Saúde,26
+Tue,Tratamento médico-hospitalar,12
+Tue,Tratamento Médico-Hospitalar,293
+Tue,Tratamento Medico-Hospitalar e/ou Fornecimento,646
+Tue,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos,6855
+Tue,Troca ou Permuta,28
+Tue,Turismo,128
+Tue,Tutela e Curatela,84
+Tue,Ultraje Público ao Pudor (Ato/Escrito Obsceno),5
+Tue,União Estável ou Concubinato,54
+Tue,União Homoafetiva,3
+Tue,Unidade de Conservação da Natureza,3
+Tue,Unidade de terapia intensiva (UTI) ou unidade de cuidados intensivos (UCI),42
+Tue,Uso,3
+Tue,Uso de documento falso,9
+Tue,Uso ou Tráfico de Drogas,2
+Tue,Uso ou Tráfico de Drogas :: Competência de Irregul. em Entidade de Atend. Sócioeducativo-JIJ,1
+Tue,Usucapiao (Bens Moveis),8
+Tue,Usucapião da L 6.969/1981,19
+Tue,Usucapião Especial (Constitucional),47
+Tue,Usucapião Extraordinária,361
+Tue,Usucapião Ordinária,130
+Tue,Usufruto,14
+Tue,Vaga de garagem,11
+Tue,Veículos,2
+Tue,Viagem ao Exterior,1
+Tue,Vícios de Construção,1
+Tue,Violação aos Princípios Administrativos,6
+Tue,Violação de direito autoral,6
+Tue,Violação de domicílio,7
+Tue,Violência Doméstica contra a Mulher,1
+Tue,Voluntária,11
+Tue,Warrant,1
+Tue,NA,25479
+Wed,1/3 de férias,17
+Wed,Abandono de incapaz,12
+Wed,Abandono de incapaz (art. 133),2
+Wed,Abandono Intelectual,277
+Wed,Abandono Intelectual :: Competência de Cautelares - JIJ,1
+Wed,Abandono Intelectual :: Competência de Execução Cível - JIJ,5
+Wed,Abandono Intelectual :: Competência de Procedimento Administrativo - JIJ,1
+Wed,Abandono Material,561
+Wed,Abandono Material :: Competência de Habilitações - JIJ,2
+Wed,Abandono Material :: Competência de Medidas de Proteção - JIJ,3
+Wed,Abatimento proporcional do preço,229
+Wed,Abono de Permanência,704
+Wed,Abono de Permanência em Serviço (Art. 87),1
+Wed,Abono Pecuniário (Art. 78 Lei 8.112/1990),3
+Wed,Aborto provocado pela gestante ou com o seu consentimento,14
+Wed,Aborto provocado por terceiro,27
+Wed,Abuso de Incapazes,7
+Wed,Abuso Sexual,111
+Wed,Abuso Sexual :: Competência de Família Substituta - JIJ,2
+Wed,Abuso Sexual :: Competência de Medidas de Proteção - JIJ,2
+Wed,Acessão,4
+Wed,Acidente Aéreo,26
+Wed,Acidente de Trabalho,421
+Wed,Acidente De Trabalho,1281
+Wed,Acidente de Trânsito,9394
+Wed,Acompanhamento de Cônjuge ou Companheiro,6
+Wed,Acumulação de Cargos,69
+Wed,Acumulação de Proventos,3
+Wed,Adicional de Horas Extras,990
+Wed,Adicional de Insalubridade,2015
+Wed,Adicional de Periculosidade,175
+Wed,Adicional de Produtividade,11
+Wed,Adicional de Serviço Noturno,1260
+Wed,Adicional de Tarifa Aeroportuária,2
+Wed,Adicional por Tempo de Serviço,130
+Wed,"Adidos, Agregados e Adjuntos",2
+Wed,Adimplemento e Extinção,93
+Wed,Adjudicação Compulsória,402
+Wed,Administração,39
+Wed,Administração de Herança,108
+Wed,Administração judicial,11
+Wed,Admissão / Permanência / Despedida,313
+Wed,Adoção de Adolescente,12
+Wed,Adoção de Criança,269
+Wed,Adoção de Maior,41
+Wed,Adoção Internacional :: Competência de Cautelares - JIJ,1
+Wed,Adoção Internacional :: Competência de Preparação para Adoção - JIJ,14
+Wed,Adoção Nacional,40
+Wed,Adoção Nacional :: Competência de Preparação para Adoção - JIJ,12
+Wed,Adulteração de Sinal Identificador de Veículo Automotor,24
+Wed,Advertência,4
+Wed,Afastamento,1
+Wed,Afastamento do Cargo,23
+Wed,Agenciamento,2
+Wed,Agêncie e Distribuição,19
+Wed,Agentes Políticos,46
+Wed,Agrotóxicos,11
+Wed,Água e/ou Esgoto,16
+Wed,Águas Públicas,130
+Wed,Alienação Fiduciária,13441
+Wed,Alienação Judicial,7
+Wed,Alienação ou Oneração Fraudulenta de Coisa Própria,1
+Wed,Alienação Parental,44
+Wed,Alimentos,8515
+Wed,Alíquota Progressiva,1
+Wed,Alistamento / Serviço Eleitoral,2
+Wed,Alteração de capital,2
+Wed,Alteração de Coisa Comum,21
+Wed,Amamentação,8
+Wed,Ameaça,2192
+Wed,Ameaça (art. 147),118
+Wed,Anistia,3
+Wed,Anticrese,2
+Wed,Anulação,417
+Wed,Anulação de Débito Fiscal,367
+Wed,Anulação e Correção de Provas / Questões,539
+Wed,Apólices da Dívida Pública,1
+Wed,Aposentadoria,1328
+Wed,Aposentadoria Especial (Art. 57/8),9
+Wed,Aposentadoria por Idade (Art. 48/51),1
+Wed,Aposentadoria por Invalidez,336
+Wed,Aposentadoria por Invalidez Acidentária,311
+Wed,Aposentadoria por Tempo de Contribuição (Art. 55/6),5
+Wed,Aposentadoria por Tempo de Serviço (Art. 52/4),4
+Wed,Aposentadoria/Retorno aoTrabalho,3
+Wed,Apreensão,26
+Wed,Apropriação de Coisa Achada,1
+Wed,"Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza",4
+Wed,Apropriação indébita,437
+Wed,"Apropriação indébita (art. 168, caput)",1
+Wed,Apropriação indébita Previdenciária,3
+Wed,Apuração de haveres,104
+Wed,Aquisição,662
+Wed,Área de Preservação Permanente,11
+Wed,Arras ou Sinal,1
+Wed,Arrendamento Mercantil,440
+Wed,Arrendamento Rural,745
+Wed,Assédio Sexual,18
+Wed,Assembléia,87
+Wed,Assinatura Básica Mensal,242
+Wed,Assistência à Saúde,135
+Wed,Assistência Médico-Hospitalar,10
+Wed,Assistência Pré-escolar,4
+Wed,Associação,330
+Wed,Associação para a Produção e Tráfico e Condutas Afins,513
+Wed,Assunção de Dívida,5
+Wed,Assunção de Obrigação no Último Ano do Mandado ou Legislatura,2
+Wed,Atentado ao Pudor Mediante Fraude,3
+Wed,Atentado Violento ao Pudor,893
+Wed,Atentado Violento ao Pudor (Art. 214),14
+Wed,Atividade Política,18
+Wed,Ato / Negócio Jurídico,191
+Wed,Ato Infracional,3671
+Wed,"Ato Lesivo ao Patrimônio Artístico, Estético, Histórico ou Turístico",74
+Wed,Atos Administrativos,3058
+Wed,Atos Unilaterais,69
+Wed,ATP/Adicional de Tarifa Portuária,7
+Wed,Atraso de vôo,161
+Wed,Autofalência,90
+Wed,Auxílio-Acidente (Art. 86),3663
+Wed,Auxílio-Alimentação,16179
+Wed,Auxílio-Doença Acidentário,11517
+Wed,Auxílio-Doença Previdenciário,14
+Wed,Auxílio-Funeral,6
+Wed,Auxílio-Natalidade,10
+Wed,Auxílio-Reclusão,3
+Wed,Auxílio-Reclusão (Art. 80),3
+Wed,Auxílio-transporte,180
+Wed,Averbação / Contagem de Tempo Especial,17
+Wed,Averbação / Contagem Recíproca,5
+Wed,Bancários,13424
+Wed,Base de Cálculo,1
+Wed,Bem de Família,331
+Wed,"Benefício Assistencial (Art. 203,V CF/88)",5
+Wed,Benefícios em Espécie,943
+Wed,Benfeitorias,17
+Wed,Bens Públicos,95
+Wed,Bloqueio de Matrícula,1
+Wed,Bloqueio de Valores de Contas Públicas,4
+Wed,Busca e Apreensão de Menores,206
+Wed,Cadastro de Análise de Crédito,7778
+Wed,Cadeira de rodas / cadeira de banho / cama hospitalar,2
+Wed,Cálculo de ICMS por dentro,12
+Wed,Calúnia,137
+Wed,Câmbio,7
+Wed,Cancelamento de Hipoteca,1
+Wed,Cancelamento de Protesto,365
+Wed,Cancelamento de vôo,172
+Wed,Capacidade,1878
+Wed,Capitalização e Previdência Privada,8
+Wed,Cartão de Crédito,19974
+Wed,Casa de Prostituição,5
+Wed,Casamento,667
+Wed,Cédula de Crédito à Exportação,9
+Wed,Cédula de Crédito Bancário,1022
+Wed,Cédula de Crédito Comercial,128
+Wed,Cédula de Crédito Industrial,56
+Wed,Cédula de Crédito Rural,670
+Wed,Cédula de Produto Rural,189
+Wed,Cédula Hipotecária,86
+Wed,Cessão de Crédito,114
+Wed,Cessão de créditos não-tributários,8
+Wed,Cheque,4906
+Wed,Cirurgia,3
+Wed,Classificação de créditos,55
+Wed,Classificação e/ou Preterição,664
+Wed,Cláusula Penal,3
+Wed,CND/Certidão Negativa de Débito,28
+Wed,CNH - Carteira Nacional de Habilitação,3388
+Wed,Coação no curso do processo,7
+Wed,Cobrança indevida de ligações,96
+Wed,Cofins,565
+Wed,Coisas,3134
+Wed,"Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas",9
+Wed,Comercialização de dados cadastrais de consumidores,365
+Wed,Comissão,72
+Wed,Comodato,159
+Wed,Compensação,33
+Wed,Compensação com Apólices da Dívida Pública,2
+Wed,Compensação de Prejuízo,1
+Wed,Complementação de Benefício/Ferroviário,9
+Wed,Compra e Venda,7021
+Wed,Compromisso,256
+Wed,Compulsória,8
+Wed,Comunicação falsa de crime ou de contravenção,1
+Wed,Concessão,1542
+Wed,Concessão / Permissão / Autorização,169
+Wed,Concurso de Credores,34
+Wed,Concurso Público / Edital,2862
+Wed,Concussão,5
+Wed,Condições Especiais para Prestação de Prova,17
+Wed,Condomínio,1531
+Wed,Condomínio em Edifício,626
+Wed,Conflito Fundiário Coletivo Rural,2
+Wed,Conflito Fundiário Coletivo Urbano,2
+Wed,Conselhos Regionais e Afins (Anuidade),16
+Wed,Consórcio,782
+Wed,Constituição,1
+Wed,Constituição de Renda,4
+Wed,Constrangimento ilegal,18
+Wed,Consulta,3
+Wed,Contra a Administração da Justiça,2
+Wed,Contra a dignidade sexual,4
+Wed,Contra a Família,3
+Wed,Contra a Fé Pública,4
+Wed,Contra a Honra,7
+Wed,Contra a Incolumidade Pública,1
+Wed,Contra a liberdade pessoal,16
+Wed,Contra a Paz Pública,3
+Wed,Contra a vida,44
+Wed,Contra o Meio Ambiente,2
+Wed,Contra o Patrimônio,38
+Wed,Contrabando ou Descaminho,4
+Wed,Contratação de Operação de Crédito,2
+Wed,Contrato Temporário de Mão de Obra L 8.745/1993,96
+Wed,Contratos Administrativos,2991
+Wed,Contratos Bancários,53891
+Wed,Contratos de Consumo,3519
+Wed,Contratos de Participacao Financeira,41098
+Wed,Contravenções Penais,652
+Wed,Contribuição de Iluminação Pública,20
+Wed,Contribuição Sindical,300
+Wed,Contribuição Sindical Rural,1
+Wed,Contribuição sobre a folha de salários,4
+Wed,Contribuição Social sobre o Lucro Líquido,1
+Wed,Contribuições,315
+Wed,Contribuições Corporativas,11
+Wed,Contribuições de Melhoria,670
+Wed,Contribuições Especiais,10
+Wed,"Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",43
+Wed,Contribuições Previdenciárias,983
+Wed,Contribuições Sociais,106
+Wed,Controle de Constitucionalidade,39
+Wed,Convênio,51
+Wed,Convolação de recuperação judicial em falência,19
+Wed,Corpo Feminino,4
+Wed,Correção Monetária,9
+Wed,Corretagem,1162
+Wed,Corrupção ativa,9
+Wed,Corrupção de Menores,9
+Wed,CORRUPCAO DE MENORES - L 2252,2
+Wed,Corrupção passiva,11
+Wed,Creditamento,8
+Wed,Crédito Prêmio,3
+Wed,Crédito Presumido,4
+Wed,Crédito Rural,91
+Wed,Crédito Tributário,134
+Wed,Criação de Dotação Orçamentária,1
+Wed,Crime contra o Pátrio-Poder e Tutela,120
+Wed,Crime Tentado :: Decorrente de Violência Doméstica,14
+Wed,Crimes Contra a Administração da Justiça,1
+Wed,Crimes contra a Dignidade Sexual,8
+Wed,Crimes contra a Dignidade Sexual :: Competência de Violência Doméstica,8
+Wed,Crimes contra a Família,3
+Wed,Crimes contra a Fauna,2
+Wed,Crimes contra a Flora,12
+Wed,Crimes contra a Honra,4
+Wed,Crimes contra a liberdade pessoal,3
+Wed,Crimes Contra a Ordem Economica,13
+Wed,Crimes contra a Organização do Trabalho,1
+Wed,Crimes contra a Paz Pública :: Competência de Juizado Especial Crime,1
+Wed,Crimes contra a vida,6
+Wed,Crimes contra as Relações de Consumo,21
+Wed,Crimes Contra o Estado de Filiação,1
+Wed,Crimes contra o Meio Ambiente e o Patrimônio Genético,3
+Wed,Crimes contra o Patrimônio,11
+Wed,Crimes Contra o Sistema Financeiro,5
+Wed,Crimes da Lei de licitações,10
+Wed,Crimes de Abuso de Autoridade,1
+Wed,"Crimes de Lavagem ou Ocultação de Bens, Direitos ou Valores",217
+Wed,Crimes de Responsabilidade,16
+Wed,Crimes de Tortura,137
+Wed,Crimes de Tráfico Ilícito e Uso Indevido de Drogas,17
+Wed,Crimes de Tráfico Ilícito e uso indevido de drogas - L 6368,387
+Wed,Crimes de Trânsito,2061
+Wed,Crimes do Código Brasileiro de Telecomunicações,2
+Wed,Crimes do Sistema Nacional de Armas,497
+Wed,Crimes do Sistema Nacional de Armas - L 9437,1
+Wed,Crimes Falimentares,1
+Wed,Crimes Militares,11
+Wed,Crimes Previstos no Estatuto da criança e do adolescente,195
+Wed,Crimes Previstos no Estatuto do Idoso,36
+Wed,Crimes Resultante de Preconceito de Raça ou de Cor,4
+Wed,Curadoria dos bens do ausente,3
+Wed,Curso de Formação,111
+Wed,Custeio de Assistência Médica,22
+Wed,Da Poluição,18
+Wed,Dação em Pagamento,10
+Wed,Dano,83
+Wed,Dano (art. 163),10
+Wed,Dano Ambiental,19
+Wed,Dano ao Erário,200
+Wed,Dano Qualificado,192
+Wed,Data Base,26
+Wed,De Tortura,2
+Wed,De Tráfico Ilícito e Uso Indevido de Drogas,524
+Wed,De Trânsito,31
+Wed,Debêntures,10
+Wed,Decadência,2
+Wed,Decorrente de Violência Doméstica,2761
+Wed,Decretação de Ofício,8
+Wed,"Defeito, nulidade ou anulação",38
+Wed,Defensoria Pública,10
+Wed,Defraudação de Penhor,1
+Wed,Demissão ou Exoneração,182
+Wed,Denúncia espontânea,1
+Wed,Denunciação caluniosa,9
+Wed,Depósito,84
+Wed,Desacato,6
+Wed,Desacato (art. 331),19
+Wed,Desapropriação,535
+Wed,Desapropriação de Imóvel Urbano,41
+Wed,Desapropriação Indireta,208
+Wed,Desapropriação por Interesse Social Comum / L 4.132/1962,6
+Wed,Desapropriação por Utilidade Pública / DL 3.365/1941,243
+Wed,Desconsideração da Personalidade Jurídica,13
+Wed,Desconto em folha de pagamento,117
+Wed,Descontos Indevidos,1581
+Wed,Desenho Industrial,15
+Wed,Deserdação,4
+Wed,Desmembramento,1
+Wed,Desobediência,9
+Wed,Desobediência (art. 330),3
+Wed,Desobediência a decisão judicial sobre perda ou suspensão de direitos,8
+Wed,Despejo para Uso de Ascendentes e Descendentes,13
+Wed,Despejo para Uso Próprio,118
+Wed,Despejo por Denúncia Vazia,232
+Wed,Despesas Condominiais,1297
+Wed,Destruição / Subração / Ocultação de Cadáver,2
+Wed,Devolução de contribuições previdenciárias pagas além do teto,2
+Wed,Diárias e Outras Indenizações,64
+Wed,Difamação,50
+Wed,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,1728
+Wed,Direito Autoral,324
+Wed,DIREITO CIVIL,2328
+Wed,DIREITO DA CRIANÇA E DO ADOLESCENTE,4122
+Wed,DIREITO DA SAÚDE,50
+Wed,Direito de Greve,49
+Wed,Direito de Imagem,270
+Wed,Direito de Preferência,14
+Wed,Direito de Vizinhança,837
+Wed,DIREITO DO CONSUMIDOR,1851
+Wed,DIREITO DO TRABALHO,2
+Wed,DIREITO PENAL,1005
+Wed,Direitos / Deveres do Condômino,43
+Wed,Direitos da Personalidade,52
+Wed,Direitos da Personalidade :: Competência de Voluntárias - JIJ,7
+Wed,Direitos e Títulos de Crédito,21
+Wed,Dirigente Sindical,26
+Wed,Disponibilidade / Aproveitamento,3
+Wed,Disposição de coisa alheia como própria,23
+Wed,Dissolução,5561
+Wed,Dívida Ativa não-tributária,1595
+Wed,Dívida Pública Mobiliária,2
+Wed,Divisão e Demarcação,313
+Wed,Do Sistema Nacional de Armas,123
+Wed,Doação,108
+Wed,Doença em Pessoa da Família,14
+Wed,Domínio Público,55
+Wed,Duplicata,3020
+Wed,Duplicata Simulada,18
+Wed,Edição,1
+Wed,Edital,154
+Wed,Eleição,31
+Wed,Eleições - Diretórios,1
+Wed,Empregado Público / Temporário,1722
+Wed,Empreitada,405
+Wed,Empréstimo consignado,1587
+Wed,Empréstimos Compulsórios,36
+Wed,Energia Elétrica,49
+Wed,Enfiteuse,1
+Wed,Enquadramento,61
+Wed,Enriquecimento ilícito,18
+Wed,Enriquecimento sem Causa,21
+Wed,Ensino Fundamental e Médio,9537
+Wed,Ensino Fundamental e Médio :: Competência de Cível - JIJ,6
+Wed,Ensino Superior,2617
+Wed,Entrada e Permanência de Menores,16
+Wed,Entrada e Permanência de Menores :: Competência de Procedimento Administrativo - JIJ,4
+Wed,Equilíbrio Financeiro,20
+Wed,Equivalência salarial,6
+Wed,Erro Médico,1226
+Wed,Esbulho / Turbação / Ameaça,1831
+Wed,Esbulho possessório,2
+Wed,Escolaridade,52
+Wed,Espécies de Contratos,5355
+Wed,Espécies de Títulos de Crédito,2906
+Wed,Estabelecimentos de Ensino,694
+Wed,Estabilidade,17
+Wed,Estaduais,289
+Wed,Estágio Probatório,9
+Wed,Estelionato,1278
+Wed,Estelionato Majorado,16
+Wed,Estupro,2085
+Wed,Estupro (Art. 213),186
+Wed,Estupro de vulnerável,2554
+Wed,Evicção ou Vicio Redibitório,20
+Wed,Exame de Saúde e/ou Aptidão Física,193
+Wed,Exame Psicotécnico / Psiquiátrico,375
+Wed,Exclusão - ICMS,89
+Wed,Exclusão - Receitas Provenientes de Exportação,1
+Wed,Exclusão de associado,18
+Wed,Exclusão de filiado,1
+Wed,Exclusão de herdeiro ou legatário,15
+Wed,Execução Contratual,146
+Wed,Exercício em Outro Município,1
+Wed,Exibicao de Documentos,3394
+Wed,Exoneração,2247
+Wed,Expedição de Certidão Positiva de Débito com Efeito de Negativa,29
+Wed,Expedição de CND,10
+Wed,Exploração do Trabalho Infantil,5
+Wed,Expurgos Inflacionários / Planos Econômicos,21432
+Wed,Extinção,5
+Wed,Extinção do Crédito Tributário,4
+Wed,Extorsão,523
+Wed,Extorsão (art. 158),10
+Wed,Extorsão mediante seqüestro,162
+Wed,Extorsão mediante seqüestro (art. 159),2
+Wed,Extorsão mediante Sequestro Seguida de Lesão Corporal Grave,1
+Wed,Extorsão mediante Seqüestro Seguida de Morte,12
+Wed,Extravio de bagagem,246
+Wed,Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins,5
+Wed,Falsidade ideológica,7
+Wed,Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais,3
+Wed,Falsificação de documento particular,4
+Wed,Falsificação de documento público,7
+Wed,Falsificação do selo ou sinal público,2
+Wed,Falso testemunho ou falsa perícia,9
+Wed,Falta / Insuficiência das Condições de Encarceramento :: Competência da Fazenda Pública,684
+Wed,Família,1768
+Wed,Fato Atípico,11
+Wed,Fato Atípico :: Competência de Juizado Especial Crime,82
+Wed,Fato Atípico :: Competência de Juizado Especial Crime - Trânsito,357
+Wed,Fato Atípico :: Competência de Violência Doméstica,20
+Wed,Fato Gerador/Incidência,11
+Wed,Fatos Jurídicos,49
+Wed,Fauna,30
+Wed,Favorecimento da Prostituição,19
+Wed,FAVORECIMENTO DA PROSTITUICAO OU OUTRA FORMA DE EXPLORACAO SEXUAL DE VULNERAVEL,64
+Wed,Favorecimento real,2
+Wed,Federais,15
+Wed,Férias,692
+Wed,Ferroviário,5
+Wed,FGTS/Fundo de Garantia Por Tempo de Serviço,4
+Wed,Fiança,57
+Wed,Financiamento de Produto,166
+Wed,Financiamento ou Custeio de Produção ou Tráfico de Drogas,3
+Wed,Fiscalização,354
+Wed,Fixação,1145
+Wed,Flora,13
+Wed,Fornecimento de Água,3445
+Wed,Fornecimento de Energia Elétrica,14647
+Wed,Fornecimento de Gás,1
+Wed,Fornecimento de insumos,5
+Wed,Fornecimento de medicamentos,188
+Wed,Fornecimento de Medicamentos,6167
+Wed,Fraldas,4
+Wed,Franquia,89
+Wed,Fraude à execução,2
+Wed,Fraude na Entrega de Coisa,3
+Wed,Fraude no Pagamento por Meio de Cheque,25
+Wed,Fraude para Recebimento de Indenização ou Valor de Seguro,5
+Wed,Fraude processual,1
+Wed,Fuga de pessoa presa ou submetida a medida de segurança,1
+Wed,Funcionamento de Comércio de Derivados de Petróleo,10
+Wed,Funcionamento de Estabelecimentos Empresariais,53
+Wed,Fundação de Direito Privado,19
+Wed,Funrural,1
+Wed,Furto,3457
+Wed,Furto (art. 155),227
+Wed,Furto de coisa comum,2
+Wed,Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior,12
+Wed,Furto Privilegiado,182
+Wed,Furto Qualificado,7358
+Wed,"Furto Qualificado (Art. 155, § 4o.)",133
+Wed,Garantias Constitucionais,513
+Wed,Gestante / Adotante / Paternidade,39
+Wed,Gestão de Negócios,103
+Wed,Governador,1
+Wed,Gratificação de Desempenho de Atividade Técnico-administrativa - GDATA,5
+Wed,Gratificação de Incentivo,299
+Wed,Gratificação Incorporada / Quintos e Décimos / VPNI,9
+Wed,Gratificação Natalina/13º salário,677
+Wed,Gratificação Natalina/13º Salário,78
+Wed,Gratificações da Lei 8.112/1990,2
+Wed,Gratificações de Atividade,507
+Wed,Gratificações e Adicionais,1714
+Wed,Gratificações Estaduais Específicas,5
+Wed,Gratificações Municipais Específicas,523
+Wed,Grave,268
+Wed,Gravíssima,92
+Wed,Guarda,2878
+Wed,Guarda com genitor ou responsável no exterior,3
+Wed,Habilitação / Registro Cadastral / Julgamento / Homologação,151
+Wed,Habitação,9
+Wed,Hipoteca,64
+Wed,Homicídio Privilegiado,173
+Wed,Homicídio Qualificado,18514
+Wed,Homicídio Simples,4139
+Wed,Honorarios Profissionais,3870
+Wed,ICMS / Incidência Sobre o Ativo Fixo,306
+Wed,ICMS/ Imposto sobre Circulação de Mercadorias,21129
+Wed,ICMS/Importação,198
+Wed,IE/ Imposto sobre Exportação,6
+Wed,II/ Imposto sobre Importação,4
+Wed,Imissão,463
+Wed,Impostos,8887
+Wed,Improbidade Administrativa,2191
+Wed,Imputação do Pagamento,2
+Wed,Inadimplemento,2463
+Wed,Incapacidade Laborativa Parcial,15
+Wed,Incapacidade Laborativa Permanente,8
+Wed,Incapacidade Laborativa Temporária,5
+Wed,Incapacidade Laborativa Temporária :: Competência da Fazenda Pública,27
+Wed,Incêndio,15
+Wed,Inclusão de Dependente,13
+Wed,Inclusão Indevida em Cadastro de Inadimplentes,16239
+Wed,Inconstitucionalidade Material,92
+Wed,Incorporação Imobiliária,1
+Wed,Indenização / Terço Constitucional,412
+Wed,Indenização por Dano Ambiental,30
+Wed,Indenização por Dano Material,11024
+Wed,Indenizaçao por Dano Moral,61
+Wed,Indenização por Dano Moral,48192
+Wed,Indenizações Regulares,52
+Wed,Índice da Alíquota,8
+Wed,Índice da URV Lei 8.880/1994,42
+Wed,"Indução, Instigação ou Auxílio ao Uso de Drogas",1
+Wed,Induzimento a erro essencial e ocultação de impedimento,1
+Wed,"Induzimento, Instigação ou Auxílio a Suicídio",1
+Wed,Ineficácia de atos em relação à massa,15
+Wed,Infanticídio,4
+Wed,Infração Administrativa,468
+Wed,Ingresso e Concurso,159
+Wed,Ingresso e Exclusão dos Sócios na Sociedade,55
+Wed,Injúria,126
+Wed,Inquérito / Processo / Recurso Administrativo,66
+Wed,Inscrição / Documentação,94
+Wed,Inspeção Fitossanitária,15
+Wed,Inspeção Sanitária de Origem Animal,38
+Wed,Instituição de Bem de Família,2
+Wed,Integralidade,817
+Wed,Interdição,76
+Wed,Interesse Particular,28
+Wed,Internação com atividades externas,4
+Wed,Internação compulsória,3
+Wed,Internação sem atividades externas,46
+Wed,Internação/Transferência Hospitalar,9
+Wed,Interpretação / Revisão de Contrato,1141
+Wed,Intervenção do Estado na Propriedade,110
+Wed,Intervenção em Estado / Município,37
+Wed,Invalidez Permanente,113
+Wed,Inventário e Partilha,4584
+Wed,Investigação de Maternidade,26
+Wed,Investigação de Paternidade,1496
+Wed,"IOC/IOF Imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários",2
+Wed,IPI/ Imposto sobre Produtos Industrializados,12
+Wed,IPTU/ Imposto Predial e Territorial Urbano,25841
+Wed,IPVA - Imposto Sobre Propriedade de Veículos Automotores,2284
+Wed,IRPF/Imposto de Renda de Pessoa Física,2481
+Wed,IRPJ/Imposto de Renda de Pessoa Jurídica,17
+Wed,Irredutibilidade de Vencimentos,200
+Wed,Isonomia,80
+Wed,Isonomia/Equivalência Salarial,247
+Wed,ISS/ Imposto sobre Serviços,6829
+Wed,ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis,665
+Wed,ITCD - Imposto de Transmissão Causa Mortis,630
+Wed,ITR/ Imposto Territorial Rural,11
+Wed,Jogo e Aposta,1
+Wed,Jogos de Bingo e/ou Caça-níqueis,4
+Wed,Jornada de Trabalho,809
+Wed,Juros de Mora - Legais / Contratuais,9
+Wed,Juros/Correção Monetária,5
+Wed,Lançamento,11
+Wed,Latrocínio,3011
+Wed,Leasing Imobiliario,4
+Wed,Legal,1
+Wed,Lei de Imprensa,8
+Wed,Lesões Corporais,93
+Wed,Letra de Câmbio,15
+Wed,Leve,511
+Wed,Liberação de Veículo Apreendido,694
+Wed,Liberdade assistida,1
+Wed,Licença Capacitação (Aperfeiçoamento Profissional),14
+Wed,Licença por Acidente em Serviço,10
+Wed,Licença Prêmio,427
+Wed,Licença-Prêmio,432
+Wed,Licenças,644
+Wed,Licenças / Afastamentos,160
+Wed,Licenciamento,4
+Wed,Licenciamento / Exclusão,10
+Wed,Licenciamento de Veículo,563
+Wed,Licitações,1982
+Wed,Limite de Idade,39
+Wed,Liquidação,8
+Wed,Liquidação / Cumprimento / Execução,1
+Wed,Liquidação / Cumprimento / Execução :: Competência de Cível - Meio Ambiente,91
+Wed,Liquidação / Cumprimento / Execução :: Competência de Precatória Cível,302
+Wed,Liquidação / Cumprimento / Execução :: Competência de Precatória Registros Públicos,29
+Wed,Locação / Permissão / Concessão / Autorização / Cessão de Uso,17
+Wed,Locação de Imóvel,9641
+Wed,Locação de Móvel,363
+Wed,Lotação,23
+Wed,Loterias/Sorteio,2
+Wed,Magistério público da educação básica - hora-atividade (Lei 11.738/08),1222
+Wed,Magistratura,6
+Wed,Mandato,4295
+Wed,Marca,274
+Wed,Massa Falida- Recolhimento,1
+Wed,Maus Tratos,189
+Wed,Maus Tratos :: Competência de Cautelares - JIJ,4
+Wed,Maus Tratos :: Competência de Habilitações - JIJ,12
+Wed,Maus Tratos :: Competência de Medidas de Proteção - JIJ,2
+Wed,Maus Tratos :: Competência de Procedimento Administrativo - JIJ,1
+Wed,Mediação para Servir a Lascívia de Outrem,2
+Wed,Medicamento / Tratamento / Cirurgia de Eficácia não comprovada,18
+Wed,Medidas Sócioeducativas,130
+Wed,Meio Ambiente,1913
+Wed,Mercado de Capitais,1
+Wed,Militar,1382
+Wed,Mineração,3
+Wed,Ministério Público,11
+Wed,Modalidade / Limite / Dispensa / Inexigibilidade,4
+Wed,Moeda Falsa / Assimilados,7
+Wed,Movimentos Repetitivos/Tenossinovite/LER/DORT,3
+Wed,Multa,21
+Wed,Multas e demais Sanções,8570
+Wed,Municipais,1069
+Wed,Município,19
+Wed,Mútuo,4052
+Wed,Nomeação,976
+Wed,Nota de Crédito Comercial,61
+Wed,Nota de Crédito Industrial,12
+Wed,Nota de Crédito Rural,32
+Wed,Nota Promissória,2327
+Wed,Novação,7
+Wed,Nulidade / Anulação,28
+Wed,Nulidade e Anulação de Partilha e Adjudicação de Herança,69
+Wed,Nulidade e Anulação de Testamento,129
+Wed,Obrigações,11899
+Wed,Oferecimento de Drogas para Consumo Conjunto,3
+Wed,Oferta,74
+Wed,Omissão de socorro,3
+Wed,Orçamento,14
+Wed,Ordem Urbanística,6
+Wed,Ordenação da Cidade / Plano Diretor,226
+Wed,Organização Político-administrativa / Administração Pública,33
+Wed,Outras fraudes,2
+Wed,Overbooking,22
+Wed,Pagamento,1893
+Wed,Pagamento Atrasado / Correção Monetária,95
+Wed,Pagamento com Sub-rogação,4
+Wed,Pagamento em Consignação,82
+Wed,Pagamento Indevido,166
+Wed,Parcelamento,23
+Wed,Parcelamento de Vencimentos,1416
+Wed,Parcelamento do solo urbano,4
+Wed,Parceria Agrícola e/ou pecuária,285
+Wed,Parlamentares,49
+Wed,Partido Político,6
+Wed,Parto Suposto,4
+Wed,PASEP,5
+Wed,Patente,44
+Wed,Patrimônio Cultural,2
+Wed,Patrimônio Histórico / Tombamento,43
+Wed,Peculato,12
+Wed,Pecúlios (Art. 81/5),3
+Wed,Penalidades,20
+Wed,Penhor,31
+Wed,Pensão,4418
+Wed,Pensão por Morte (Art. 74/9),1485
+Wed,Perda da Propriedade,5
+Wed,Perdas e Danos,62
+Wed,Periclitação da Vida e da Saúde e Rixa,1
+Wed,Perigo de contágio de moléstia grave,1
+Wed,Perigo para a vida ou saúde de outrem,3
+Wed,Pessoas Jurídicas,166
+Wed,Pessoas naturais,981
+Wed,Petição de Herança,19
+Wed,PIS,165
+Wed,Piso Salarial,5453
+Wed,Plano de Classificação de Cargos,51
+Wed,Planos de saúde,25
+Wed,Planos de Saúde,15054
+Wed,Pobreza,5
+Wed,Pobreza :: Competência de Procedimento Administrativo - JIJ,5
+Wed,Poluição,12
+Wed,Posse,3540
+Wed,Posse :: Competência de Fazenda Pública,5
+Wed,Posse de Drogas para Consumo Pessoal,396
+Wed,Posse e Exercício,136
+Wed,Posse Sexual Mediante Fraude,31
+Wed,Praticados por Particular Contra a Administração em Geral,2
+Wed,Praticagem,7
+Wed,Prazo de Validade,30
+Wed,Prefeito,31
+Wed,Prescrição,17
+Wed,Prestação de Contas,37
+Wed,Prestação de Serviços,6076
+Wed,Prestação de serviços à comunidade,8
+Wed,Previdência privada,11310
+Wed,Processo Administrativo Disciplinar / Sindicância,28
+Wed,Processo Administrativo Disciplinar ou Sindicância,270
+Wed,Processo Disciplinar / Sindicância,9
+Wed,Processo e Procedimento,4
+Wed,Processo Legislativo,4
+Wed,Produto Impróprio,1
+Wed,Programa de Computador,27
+Wed,Programa de Desligamento Voluntário (PDV),10
+Wed,Promessa de Compra e Venda,9616
+Wed,Promessa de Recompensa,7
+Wed,Promoção,2250
+Wed,Promoção / Ascensão,2863
+Wed,"Promoção, constituição, financiamento ou integração de Organização Criminosa",15
+Wed,Propriedade,1030
+Wed,Propriedade Fiduciária,34
+Wed,Propriedade Intelectual / Industrial,944
+Wed,Prorrogação,1
+Wed,Protesto Indevido de Título,551
+Wed,Prova de Títulos,32
+Wed,Provisória,4
+Wed,Pulsos Excedentes,3
+Wed,Quadrilha ou Bando,172
+Wed,Quadrilha ou Bando (art. 288),1
+Wed,Quinto Constitucional,1
+Wed,Readaptação,43
+Wed,Reajuste de Prestações,5
+Wed,"Reajuste de Remuneração, Soldo, Proventos ou Pensão",141
+Wed,"Reajustes de Remuneração, Proventos ou Pensão",6841
+Wed,Receptação,2174
+Wed,Receptação Qualificada,275
+Wed,Recolhimento e Tratamento de Lixo,5
+Wed,Recondução,23
+Wed,Reconhecimento / Dissolução,5902
+Wed,Recuperação judicial e Falência,3138
+Wed,Recursos Administrativos,5
+Wed,Recursos Hídricos,12
+Wed,"Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública",18
+Wed,Redistribuição,1
+Wed,Redução da Capacidade Auditiva,29
+Wed,Reforma,9
+Wed,Regime,3
+Wed,Regime de Bens Entre os Cônjuges,104
+Wed,Regime Estatutário,121
+Wed,Regime Previdenciário,172
+Wed,Registro Civil das Pessoas Naturais,201
+Wed,Registro das Pessoas Juridicas d de Titulos E,34
+Wed,Registro de Imóveis,251
+Wed,Registro de nascimento após prazo legal,5
+Wed,Registro de Nascimento de Filho de Brasileiro Nascido no Exterior,4
+Wed,Registro de Nascimento Inexistente,2
+Wed,Registro de Óbito após prazo legal,6
+Wed,Registro em Cadastro,1589
+Wed,Registro em Cadastro de Análise de Crédito,457
+Wed,Registro em Cadastro de Inadimplentes,8415
+Wed,Registro para comercialização de dados cadastrais de consumidores,328
+Wed,REGISTROS PÚBLICOS,37
+Wed,Regulamentação de Visitas,696
+Wed,Reintegração,607
+Wed,Reivindicação,386
+Wed,Relações de Parentesco,191
+Wed,Remissão das Dívidas,3
+Wed,Remoção,129
+Wed,Remuneração,31
+Wed,Repasse de Duodécimos,4
+Wed,Repasse de Verbas Públicas,49
+Wed,Repetição de indébito,764
+Wed,Representação comercial,982
+Wed,Rescisão,21
+Wed,Rescisão / Resolução,200
+Wed,Rescisão do contrato e devolução do dinheiro,1989
+Wed,Reserva de Dominio,83
+Wed,Reserva de Vagas para Deficientes,52
+Wed,Reserva Remunerada,26
+Wed,Resgate de Contribuição,43
+Wed,Resistência,9
+Wed,Responsabilidade Civil,27939
+Wed,Responsabilidade Civil do Empregador,95
+Wed,Responsabilidade Civil do Servidor Público / Indenização ao Erário,3
+Wed,Responsabilidade Contratual,15
+Wed,Responsabilidade da Administração,3285
+Wed,Responsabilidade do Fornecedor,944
+Wed,Responsabilidade dos sócios,25
+Wed,Restabelecimento,693
+Wed,Restituição de área,3
+Wed,Retificação de Área de Imóvel,5
+Wed,Retificação de Data de Nascimento,24
+Wed,Retificação de Nome,202
+Wed,Retificação de Sexo,15
+Wed,Reversão,313
+Wed,Revisão,3703
+Wed,Revisão do Saldo Devedor,9
+Wed,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",32
+Wed,Revogação,9
+Wed,Revogação de atos praticados em prejuízo de credores e da massa,10
+Wed,Revogação/Anulação de multa ambiental,39
+Wed,Revogação/Concessão de Licença Ambiental,72
+Wed,Rixa,2
+Wed,Roubo,4885
+Wed,Roubo (art. 157),1310
+Wed,Roubo Majorado,23487
+Wed,Rufianismo,2
+Wed,Rural - Agrícola/Pecuário,21
+Wed,Rural (Art. 48/51),1
+Wed,Salário-Educação,1
+Wed,Salário-Família,649
+Wed,Salário-Maternidade (Art. 71/73),1
+Wed,Sanções Administrativas,24
+Wed,Saneamento,26
+Wed,SATISFACAO DE LASCIVIA MEDIANTE PRESENCA DE CRIANCA OU ADOLESCENTE,11
+Wed,Saúde,3784
+Wed,Seção Cível,163
+Wed,Seguida de Morte,50
+Wed,Seguro,28205
+Wed,Seguro Apagão (Lei 10.438/02),2
+Wed,Seguros Marítimos,6
+Wed,Seqüestro e cárcere privado,133
+Wed,Seqüestro e cárcere privado (art. 148),1
+Wed,Serviço Militar,6
+Wed,Serviço Militar dos Profissionais da Saúde,1
+Wed,Serviços,873
+Wed,Serviços Hospitalares,330
+Wed,Serviços Profissionais,454
+Wed,Servidão,137
+Wed,Servidão Administrativa,70
+Wed,Servidao de Eletroduto,325
+Wed,Servidor Público Civil,8552
+Wed,Servidores Ativos,82
+Wed,Servidores Inativos,211
+Wed,Sigilo Telefônico,1
+Wed,Sistema Financeiro da Habitação,1247
+Wed,Sistema Nacional de Trânsito,4625
+Wed,Sistema Remuneratório e Benefícios,18403
+Wed,Sociedade,752
+Wed,Sonegação de papel ou objeto de valor probatório,4
+Wed,Sub-rogação de Vinculo,4
+Wed,Subsídios,32
+Wed,Substituição do Produto,467
+Wed,Subtração de Incapazes,2
+Wed,Subtração ou inutilização de livro ou documento,1
+Wed,Sucessão Provisória,3
+Wed,Sucessões,1679
+Wed,Superfície,1
+Wed,Suspensão,39
+Wed,Suspensão da Exigibilidade,129
+Wed,Sustação de Protesto,1168
+Wed,Sustação/Alteração de Leilão,7
+Wed,Tabelionato de Protestos de Títulos,11
+Wed,Tarifas,1042
+Wed,Taxa de Coleta de Lixo,480
+Wed,Taxa de Fiscalização Ambiental,3
+Wed,Taxa de Fiscalização da Comissão de Valores Mobiliários,1
+Wed,Taxa de Iluminação Pública,57
+Wed,Taxa de Licença de Importação,1
+Wed,Taxa de Licenciamento de Estabelecimento,693
+Wed,Taxa de Limpeza Pública,103
+Wed,Taxa de Melhoramento de Portos,5
+Wed,Taxa de Ocupação,4
+Wed,Taxa de Ocupação / Laudêmio / Foro,11
+Wed,Taxa de Prevenção e Combate a Incêndio,47
+Wed,Taxa Judiciária,19
+Wed,Taxas,780
+Wed,Telefonia,29870
+Wed,Tempo de Serviço,190
+Wed,Termo Aditivo,2
+Wed,Teto Salarial,82
+Wed,Títulos da Dívida Pública,4
+Wed,Títulos de Crédito,182
+Wed,Tráfico de Drogas e Condutas Afins,30914
+Wed,Tráfico de influência,1
+Wed,Transação,289
+Wed,Transferência,33
+Wed,Transferência de cotas,31
+Wed,Transferência ex-officio para reserva,4
+Wed,Transferência para reserva,4
+Wed,Transmissão,1
+Wed,Transporte Aéreo,1132
+Wed,Transporte Aquaviário,22
+Wed,Transporte de Coisas,790
+Wed,Transporte de Pessoas,1174
+Wed,Transporte Terrestre,192
+Wed,Transporte Terrestre :: Competência de Cível - JIJ,2
+Wed,Tratamento da Própria Saúde,53
+Wed,Tratamento médico-hospitalar,34
+Wed,Tratamento Médico-Hospitalar,1692
+Wed,Tratamento Medico-Hospitalar e/ou Fornecimento,3710
+Wed,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos,35590
+Wed,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos :: Competência de Família Substituta - JIJ,6
+Wed,Troca ou Permuta,65
+Wed,Turismo,141
+Wed,Tutela e Curatela,397
+Wed,Ultraje Público ao Pudor (Ato/Escrito Obsceno),11
+Wed,União Estável ou Concubinato,486
+Wed,União Homoafetiva,13
+Wed,Unidade de Conservação da Natureza,16
+Wed,Unidade de terapia intensiva (UTI) / unidade de cuidados intensivos (UCI),5
+Wed,Unidade de terapia intensiva (UTI) ou unidade de cuidados intensivos (UCI),193
+Wed,Uso,9
+Wed,Uso de documento falso,17
+Wed,Uso ou Tráfico de Drogas,21
+Wed,Uso ou Tráfico de Drogas :: Competência de Cautelares - JIJ,3
+Wed,Uso ou Tráfico de Drogas :: Competência de Irregul. em Entidade de Atend. Sócioeducativo-JIJ,20
+Wed,Usucapiao (Bens Moveis),9
+Wed,Usucapião da L 6.969/1981,48
+Wed,Usucapião Especial (Constitucional),94
+Wed,Usucapião Especial Coletiva,9
+Wed,Usucapião Extraordinária,930
+Wed,Usucapião Ordinária,336
+Wed,Usufruto,42
+Wed,Usufruto e Administração dos Bens de Filhos Menores,4
+Wed,Vaga de garagem,9
+Wed,Variação Cambial,5
+Wed,Veículos,12
+Wed,Viagem ao Exterior,9
+Wed,Viagem Nacional,1
+Wed,Vícios de Construção,2
+Wed,Vilipêndio a Cadáver,1
+Wed,Violação aos Princípios Administrativos,44
+Wed,"Violação de comunicação telegráfica, radioelétrica ou telefônica",2
+Wed,Violação de direito autoral,7
+Wed,Violação de domicílio,58
+Wed,Violência Doméstica contra a Mulher,4
+Wed,Voluntária,51
+Wed,Warrant,4
+Wed,Zoneamento Ecológico e Econômico,2
+Wed,NA,13031
+Thu,1/3 de férias,29
+Thu,Abandono de incapaz,11
+Thu,Abandono Intelectual,283
+Thu,Abandono Intelectual :: Competência de Execução Cível - JIJ,16
+Thu,Abandono Intelectual :: Competência de Irregul. em Entidade de Atend. Sócioeducativo-JIJ,1
+Thu,Abandono Intelectual :: Competência de Procedimento Administrativo - JIJ,1
+Thu,Abandono Material,537
+Thu,Abandono Material :: Competência de Habilitações - JIJ,1
+Thu,Abatimento proporcional do preço,254
+Thu,Abono de Permanência,777
+Thu,Abono Pecuniário (Art. 78 Lei 8.112/1990),20
+Thu,Aborto provocado pela gestante ou com o seu consentimento,10
+Thu,Aborto provocado por terceiro,25
+Thu,Abuso de Incapazes,2
+Thu,Abuso Sexual,92
+Thu,Acessão,11
+Thu,Acidente Aéreo,27
+Thu,Acidente de Trabalho,511
+Thu,Acidente De Trabalho,1788
+Thu,Acidente de Trânsito,7739
+Thu,Acompanhamento de Cônjuge ou Companheiro,13
+Thu,Acumulação de Cargos,60
+Thu,Acumulação de Proventos,1
+Thu,Adicional de Horas Extras,1008
+Thu,Adicional de Insalubridade,1741
+Thu,Adicional de Periculosidade,303
+Thu,Adicional de Produtividade,6
+Thu,Adicional de Serviço Noturno,2462
+Thu,Adicional por Tempo de Serviço,117
+Thu,"Adidos, Agregados e Adjuntos",3
+Thu,Adimplemento e Extinção,100
+Thu,Adjudicação Compulsória,943
+Thu,Administração,69
+Thu,Administração de Herança,97
+Thu,Administração judicial,51
+Thu,Admissão / Permanência / Despedida,357
+Thu,Adoção de Adolescente,8
+Thu,Adoção de Criança,250
+Thu,Adoção de Maior,26
+Thu,Adoção Internacional :: Competência de Preparação para Adoção - JIJ,7
+Thu,Adoção Nacional,36
+Thu,Adoção Nacional :: Competência de Preparação para Adoção - JIJ,3
+Thu,Adulteração de Sinal Identificador de Veículo Automotor,1162
+Thu,Advertência,7
+Thu,Afastamento,3
+Thu,Afastamento do Cargo,6
+Thu,Agêncie e Distribuição,24
+Thu,Agentes Políticos,30
+Thu,Agregação,1
+Thu,Agrotóxicos,33
+Thu,Água e/ou Esgoto,27
+Thu,Águas Públicas,92
+Thu,Alienação Fiduciária,139005
+Thu,Alienação Judicial,37
+Thu,Alienação ou Oneração Fraudulenta de Coisa Própria,3
+Thu,Alienação Parental,45
+Thu,Alimentos,9359
+Thu,Alíquota Progressiva,1
+Thu,Alíquota Zero,1
+Thu,Alistamento / Serviço Eleitoral,1
+Thu,Alteração de capital,2
+Thu,Alteração de Coisa Comum,46
+Thu,Aluguel de Embarcações (Fretamento E Carta Partida),3
+Thu,Amamentação,2
+Thu,Ameaça,2323
+Thu,Ameaça (art. 147),101
+Thu,Anistia,5
+Thu,Anulação,516
+Thu,Anulação de Débito Fiscal,286
+Thu,Anulação e Correção de Provas / Questões,377
+Thu,Apologia de Crime ou Criminoso,1
+Thu,Aposentadoria,1374
+Thu,Aposentadoria Especial (Art. 57/8),1
+Thu,Aposentadoria por Idade (Art. 48/51),5
+Thu,Aposentadoria por Invalidez,442
+Thu,Aposentadoria por Invalidez Acidentária,288
+Thu,Aposentadoria por Tempo de Contribuição (Art. 55/6),3
+Thu,Aposentadoria por Tempo de Serviço (Art. 52/4),2
+Thu,Aposentadoria/Retorno aoTrabalho,1
+Thu,Apreensão,14
+Thu,"Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza",1
+Thu,Apropriação indébita,275
+Thu,"Apropriação indébita (art. 168, caput)",2
+Thu,Apropriação indébita Previdenciária,10
+Thu,Apuração de haveres,152
+Thu,Aquisição,1404
+Thu,Aquisição de veículos automotores,1
+Thu,Área de Preservação Permanente,8
+Thu,Arquivamento Administrativo - Crédito de Pequeno Valor,1
+Thu,Arras ou Sinal,2
+Thu,Arrendamento Mercantil,6492
+Thu,Arrendamento Rural,1564
+Thu,Assédio Sexual,9
+Thu,Assembléia,107
+Thu,Assinatura Básica Mensal,252
+Thu,Assistência à Saúde,195
+Thu,Assistência Médico-Hospitalar,5
+Thu,Assistência Pré-escolar,5
+Thu,Associação,396
+Thu,Associação para a Produção e Tráfico e Condutas Afins,516
+Thu,Assunção de Dívida,6
+Thu,Assunção de Obrigação no Último Ano do Mandado ou Legislatura,10
+Thu,Atentado ao Pudor Mediante Fraude,1
+Thu,Atentado Violento ao Pudor,555
+Thu,Atentado Violento ao Pudor (Art. 214),21
+Thu,Atividade Política,13
+Thu,Ato / Negócio Jurídico,317
+Thu,Ato Infracional,4040
+Thu,"Ato Lesivo ao Patrimônio Artístico, Estético, Histórico ou Turístico",34
+Thu,Atos Administrativos,1835
+Thu,Atos Unilaterais,62
+Thu,ATP/Adicional de Tarifa Portuária,2
+Thu,Atraso de vôo,149
+Thu,Autofalência,99
+Thu,Auxílio-Acidente (Art. 86),4328
+Thu,Auxílio-Alimentação,14785
+Thu,Auxílio-Doença Acidentário,14183
+Thu,Auxílio-Doença Previdenciário,18
+Thu,Auxílio-Funeral,10
+Thu,Auxílio-Natalidade,10
+Thu,Auxílio-Reclusão,2
+Thu,Auxílio-Reclusão (Art. 80),1
+Thu,Auxílio-transporte,300
+Thu,Averbação / Contagem de Tempo Especial,16
+Thu,Averbação / Contagem Recíproca,8
+Thu,Bancários,3494
+Thu,Bem de Família,355
+Thu,"Benefício Assistencial (Art. 203,V CF/88)",3
+Thu,Benefícios em Espécie,1079
+Thu,Benfeitorias,41
+Thu,Bens Públicos,47
+Thu,Bloqueio de Matrícula,4
+Thu,Bolsa de Valores,1
+Thu,Busca e Apreensão de Menores,242
+Thu,Cadastro de Análise de Crédito,17333
+Thu,Cálculo de ICMS por dentro,7
+Thu,Calúnia,160
+Thu,Câmbio,5
+Thu,Cancelamento de Hipoteca,10
+Thu,Cancelamento de Protesto,519
+Thu,Cancelamento de vôo,174
+Thu,Capacidade,2762
+Thu,Capitalização e Previdência Privada,3
+Thu,Cartão de Crédito,1928
+Thu,Casa de Prostituição,5
+Thu,Casamento,738
+Thu,Cédula de Crédito à Exportação,8
+Thu,Cédula de Crédito Bancário,532
+Thu,Cédula de Crédito Comercial,64
+Thu,Cédula de Crédito Industrial,30
+Thu,Cédula de Crédito Rural,808
+Thu,Cédula de Produto Rural,230
+Thu,Cédula Hipotecária,96
+Thu,Cessão de Crédito,132
+Thu,Cessão de créditos não-tributários,9
+Thu,Cheque,6436
+Thu,Cirurgia,1
+Thu,Classificação de créditos,77
+Thu,Classificação e/ou Preterição,747
+Thu,CND/Certidão Negativa de Débito,7
+Thu,CNH - Carteira Nacional de Habilitação,3110
+Thu,Coação no curso do processo,237
+Thu,Cobrança indevida de ligações,117
+Thu,Cofins,188
+Thu,Coisas,3199
+Thu,"Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas",4
+Thu,Comercialização de dados cadastrais de consumidores,500
+Thu,Comissão,69
+Thu,Comodato,358
+Thu,Compensação,15
+Thu,Compensação de Prejuízo,3
+Thu,Complementação de Benefício/Ferroviário,30
+Thu,Compra e Venda,9841
+Thu,Compromisso,329
+Thu,Compulsória,6
+Thu,Comunicação falsa de crime ou de contravenção,11
+Thu,Concessão,683
+Thu,Concessão / Permissão / Autorização,48
+Thu,Concurso de Credores,46
+Thu,Concurso Público / Edital,2738
+Thu,Concussão,104
+Thu,Condições Especiais para Prestação de Prova,9
+Thu,Condomínio,3137
+Thu,Condomínio em Edifício,1310
+Thu,Confusão,2
+Thu,Conselhos Regionais e Afins (Anuidade),13
+Thu,Consórcio,3577
+Thu,Constituição,3
+Thu,Constituição de Renda,5
+Thu,Constrangimento ilegal,15
+Thu,Constrangimento ilegal (art. 146),2
+Thu,Consulta,1
+Thu,Contra a dignidade sexual,13
+Thu,Contra a Economia Popular,1
+Thu,Contra a Família,13
+Thu,Contra a Fauna,2
+Thu,Contra a Honra,2
+Thu,Contra a Incolumidade Pública,5
+Thu,Contra a inviolabilidade de correspondência,1
+Thu,Contra a inviolabilidade de domicílio,1
+Thu,Contra a liberdade pessoal,18
+Thu,Contra a Paz Pública,1
+Thu,Contra a Propriedade Intelectual,1
+Thu,Contra a vida,42
+Thu,Contra o Meio Ambiente,2
+Thu,Contra o Patrimônio,47
+Thu,Contra o sentimento religioso e contra o respeito aos mortos,1
+Thu,Contrabando ou Descaminho,31
+Thu,Contrato Temporário de Mão de Obra L 8.745/1993,116
+Thu,Contratos Administrativos,1001
+Thu,Contratos Bancários,65984
+Thu,Contratos de Consumo,4170
+Thu,Contratos de Participacao Financeira,16082
+Thu,Contravenções Penais,555
+Thu,Contribuição de Iluminação Pública,2
+Thu,Contribuição Sindical,93
+Thu,Contribuição Sindical Rural,3
+Thu,Contribuições,105
+Thu,Contribuições Corporativas,2
+Thu,Contribuições de Melhoria,228
+Thu,Contribuições Especiais,2
+Thu,"Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",34
+Thu,Contribuições Previdenciárias,801
+Thu,Contribuições Sociais,35
+Thu,Controle de Constitucionalidade,23
+Thu,Convênio,19
+Thu,Convolação de recuperação judicial em falência,17
+Thu,Corpo Feminino,2
+Thu,Correção Monetária,13
+Thu,Corretagem,1300
+Thu,Corrupção ativa,299
+Thu,Corrupção de Menores,12
+Thu,CORRUPCAO DE MENORES - L 2252,2
+Thu,Corrupção ou Poluição de Água Potável,1
+Thu,Corrupção passiva,144
+Thu,Creditamento,1
+Thu,Crédito Prêmio,2
+Thu,Crédito Rural,63
+Thu,Crédito Tributário,85
+Thu,Cremação/Traslado,2
+Thu,Crime contra o Pátrio-Poder e Tutela,164
+Thu,Crime Tentado :: Competência de Crime Sumário,1
+Thu,Crime Tentado :: Decorrente de Violência Doméstica,4
+Thu,Crimes Contra a Administração da Justiça,20
+Thu,Crimes Contra a Assistência Familiar,1
+Thu,Crimes contra a Dignidade Sexual,3
+Thu,Crimes contra a Dignidade Sexual :: Competência de Violência Doméstica,1
+Thu,Crimes contra a Economia Popular,1
+Thu,Crimes contra a Família,1
+Thu,Crimes contra a Fauna,105
+Thu,Crimes contra a Fé Pública,2
+Thu,Crimes contra a Flora,199
+Thu,Crimes contra a Honra,1
+Thu,Crimes contra a Incolumidade Pública,1
+Thu,Crimes contra a liberdade pessoal,8
+Thu,Crimes Contra a Ordem Economica,1
+Thu,Crimes contra a Paz Pública,1
+Thu,Crimes contra a vida,7
+Thu,Crimes contra as Marcas,5
+Thu,Crimes contra as Relações de Consumo,589
+Thu,Crimes contra as Telecomunicações,2
+Thu,Crimes Contra o Estado de Filiação :: Competência de Crime Sumário,1
+Thu,Crimes contra o Meio Ambiente e o Patrimônio Genético,3
+Thu,Crimes contra o Patrimônio,5
+Thu,Crimes Contra o Sistema Financeiro,1
+Thu,Crimes da Lei de licitações,232
+Thu,Crimes de Abuso de Autoridade,27
+Thu,Crimes de Imprensa,1
+Thu,"Crimes de Lavagem ou Ocultação de Bens, Direitos ou Valores",87
+Thu,Crimes de Responsabilidade,179
+Thu,Crimes de Tortura,102
+Thu,Crimes de Tráfico Ilícito e Uso Indevido de Drogas,26
+Thu,Crimes de Tráfico Ilícito e uso indevido de drogas - L 6368,514
+Thu,Crimes de Trânsito,1872
+Thu,Crimes do Sistema Nacional de Armas,12071
+Thu,Crimes do Sistema Nacional de Armas - L 9437,13
+Thu,Crimes Eleitorais,3
+Thu,Crimes Falimentares,50
+Thu,Crimes Militares,7
+Thu,Crimes Praticados por Funcionários Públicos Contra a Administração em Geral,3
+Thu,Crimes Praticados por Particular Contra a Administração em Geral,2
+Thu,Crimes Previstos na Legislação Extravagante,23
+Thu,Crimes Previstos na Legislação Extravagante :: Competência de Crime Sumário,1
+Thu,Crimes Previstos no Estatuto da criança e do adolescente,120
+Thu,Crimes Previstos no Estatuto do Idoso,37
+Thu,Crimes Resultante de Preconceito de Raça ou de Cor,2
+Thu,Curadoria dos bens do ausente,9
+Thu,Curso de Formação,139
+Thu,Custeio de Assistência Médica,26
+Thu,Da Poluição,188
+Thu,Dação em Pagamento,5
+Thu,Dano,49
+Thu,Dano (art. 163),26
+Thu,Dano Ambiental,37
+Thu,Dano ao Erário,95
+Thu,Dano Qualificado,151
+Thu,Data Base,6
+Thu,de Abuso de Autoridade,1
+Thu,De Imprensa,2
+Thu,De Tortura,4
+Thu,De Tráfico Ilícito e Uso Indevido de Drogas,576
+Thu,De Trânsito,20
+Thu,Debêntures,14
+Thu,Decadência,7
+Thu,Decorrente de Violência Doméstica,3009
+Thu,Decretação de Ofício,3
+Thu,"Defeito, nulidade ou anulação",40
+Thu,Defensoria Pública,8
+Thu,Defraudação de Penhor,1
+Thu,Demissão ou Exoneração,131
+Thu,Denunciação caluniosa,337
+Thu,Depósito,92
+Thu,Depósito Judicial,1
+Thu,Desabamento ou desmoronamento,1
+Thu,Desacato,321
+Thu,Desacato (art. 331),12
+Thu,Desapropriação,542
+Thu,Desapropriação de Imóvel Urbano,19
+Thu,Desapropriação Indireta,260
+Thu,Desapropriação por Interesse Social Comum / L 4.132/1962,10
+Thu,Desapropriação por Utilidade Pública / DL 3.365/1941,204
+Thu,Desastre ferroviário / Perigo de Desastre Ferroviário,2
+Thu,Desconsideração da Personalidade Jurídica,24
+Thu,Desconto em folha de pagamento,180
+Thu,Descontos Indevidos,2352
+Thu,Desenho Industrial,34
+Thu,Deserdação,4
+Thu,Desmembramento,1
+Thu,Desobediência,134
+Thu,Desobediência (art. 330),4
+Thu,Desobediência a decisão judicial sobre perda ou suspensão de direitos,174
+Thu,Despacho de Citação,1
+Thu,Despejo para Uso de Ascendentes e Descendentes,12
+Thu,Despejo para Uso Próprio,135
+Thu,Despejo por Denúncia Vazia,279
+Thu,Despesas Condominiais,2715
+Thu,Destruição / Subração / Ocultação de Cadáver,3
+Thu,Diárias e Outras Indenizações,99
+Thu,Difamação,56
+Thu,Difusão de doença ou praga,1
+Thu,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,1166
+Thu,Direito Autoral,415
+Thu,DIREITO CIVIL,2723
+Thu,DIREITO DA CRIANÇA E DO ADOLESCENTE,4630
+Thu,DIREITO DA SAÚDE,27
+Thu,Direito de Greve,154
+Thu,Direito de Imagem,358
+Thu,Direito de Preferência,10
+Thu,Direito de Vizinhança,1746
+Thu,DIREITO DO CONSUMIDOR,2233
+Thu,DIREITO DO TRABALHO,4
+Thu,DIREITO MARÍTIMO,4
+Thu,DIREITO PENAL,1374
+Thu,Direitos / Deveres do Condômino,86
+Thu,Direitos da Personalidade,60
+Thu,Direitos da Personalidade :: Competência de Voluntárias - JIJ,1
+Thu,Direitos e Títulos de Crédito,27
+Thu,Dirigente Sindical,36
+Thu,Disponibilidade / Aproveitamento,1
+Thu,Disposição de coisa alheia como própria,13
+Thu,Dissolução,6012
+Thu,Dívida Ativa não-tributária,568
+Thu,Dívida Pública Mobiliária,2
+Thu,Divisão e Demarcação,638
+Thu,Do Sistema Nacional de Armas,150
+Thu,Doação,207
+Thu,Doença em Pessoa da Família,9
+Thu,Domínio Público,30
+Thu,Duplicata,3833
+Thu,Duplicata Simulada,8
+Thu,Edital,54
+Thu,Eleição,33
+Thu,Empregado Público / Temporário,1826
+Thu,Emprego de Processo Proibido/Substância não permitida,1
+Thu,Emprego irregular de verbas ou rendas públicas,1
+Thu,Empreitada,459
+Thu,Empréstimo consignado,2145
+Thu,Empréstimos Compulsórios,12
+Thu,Energia Elétrica,54
+Thu,Enfiteuse,2
+Thu,Enquadramento,48
+Thu,Enriquecimento ilícito,12
+Thu,Enriquecimento sem Causa,31
+Thu,Ensino Fundamental e Médio,10768
+Thu,Ensino Fundamental e Médio :: Competência de Cível - JIJ,1
+Thu,Ensino Fundamental e Médio :: Competência de Execução Cível - JIJ,2
+Thu,Ensino Superior,3753
+Thu,Entrada e Permanência de Menores,22
+Thu,Entrada e Permanência de Menores :: Competência de Procedimento Administrativo - JIJ,2
+Thu,Entrega de Filho Menor a Pessoa Inidônea :: Competência de Crime Sumário,1
+Thu,Equilíbrio Financeiro,11
+Thu,Equivalência salarial,1
+Thu,Erro Médico,1620
+Thu,Esbulho / Turbação / Ameaça,4117
+Thu,"Esbulho possessório (art. 161, II)",1
+Thu,Escolaridade,69
+Thu,Espécies de Contratos,6907
+Thu,Espécies de Títulos de Crédito,3674
+Thu,Estabelecimentos de Ensino,983
+Thu,Estabilidade,20
+Thu,Estaduais,90
+Thu,Estágio Probatório,7
+Thu,Estatuto da criança e do adolescente,5
+Thu,Estelionato,882
+Thu,Estelionato Majorado,19
+Thu,Estimatório,2
+Thu,Estupro,1554
+Thu,Estupro (Art. 213),210
+Thu,Estupro de vulnerável,1933
+Thu,Estupro de Vulnerável,2
+Thu,Evicção ou Vicio Redibitório,31
+Thu,Exame de Saúde e/ou Aptidão Física,172
+Thu,Exame Psicotécnico / Psiquiátrico,318
+Thu,Excesso de exação,2
+Thu,Exclusão - ICMS,20
+Thu,Exclusão de associado,26
+Thu,Exclusão de filiado,1
+Thu,Exclusão de herdeiro ou legatário,12
+Thu,Execução Contratual,45
+Thu,Exercício arbitrário das próprias razões,10
+Thu,Exercício arbitrário ou abuso de poder,2
+Thu,"Exercício Ilegal da Medicina, Arte Dentária ou Farmacêutica",4
+Thu,Exibicao de Documentos,200
+Thu,Exoneração,2502
+Thu,Expedição de Certidão Positiva de Débito com Efeito de Negativa,9
+Thu,Expedição de CND,2
+Thu,Exploração do Trabalho Infantil :: Competência de Habilitações - JIJ,4
+Thu,Explosão,12
+Thu,Expurgos Inflacionários / Planos Econômicos,4340
+Thu,Extinção,2
+Thu,Extinção do Crédito Tributário,3
+Thu,Extorsão,308
+Thu,Extorsão (art. 158),4
+Thu,Extorsão mediante seqüestro,141
+Thu,Extorsão mediante seqüestro (art. 159),9
+Thu,Extorsão mediante Sequestro Seguida de Lesão Corporal Grave,3
+Thu,Extorsão mediante Seqüestro Seguida de Morte,7
+Thu,Extravio de bagagem,192
+Thu,"Extravio, sonegação ou inutilização de livro ou documento",3
+Thu,Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins,19
+Thu,Falsa identidade,26
+Thu,Falsidade de atestado médico,2
+Thu,Falsidade ideológica,207
+Thu,Falsidade material de atestado ou certidão,2
+Thu,Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais,85
+Thu,Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios,128
+Thu,Falsificação de documento particular,57
+Thu,Falsificação de documento público,252
+Thu,Falsificação de papéis públicos,9
+Thu,Falsificação do selo ou sinal público,24
+Thu,"Falsificação do sinal empregado no contraste de metal precioso ou na fiscalização alfandegária, ou para outros fins",2
+Thu,Falso testemunho ou falsa perícia,148
+Thu,Falta / Insuficiência das Condições de Encarceramento :: Competência da Fazenda Pública,693
+Thu,Família,1883
+Thu,Fato Atípico,24
+Thu,Fato Atípico :: Competência de Juizado Especial Crime,59
+Thu,Fato Atípico :: Competência de Juizado Especial Crime - Trânsito,269
+Thu,Fato Atípico :: Competência de Violência Doméstica,15
+Thu,Fato Gerador/Incidência,20
+Thu,Fatos Jurídicos,88
+Thu,Fauna,14
+Thu,Favorecimento da Prostituição,10
+Thu,FAVORECIMENTO DA PROSTITUICAO OU OUTRA FORMA DE EXPLORACAO SEXUAL DE VULNERAVEL,45
+Thu,Favorecimento real,21
+Thu,Federais,1
+Thu,Férias,928
+Thu,Ferroviário,1
+Thu,FGTS/Fundo de Garantia Por Tempo de Serviço,2
+Thu,Fiança,83
+Thu,Financiamento de Produto,199
+Thu,Financiamento ou Custeio de Produção ou Tráfico de Drogas,4
+Thu,Fiscalização,185
+Thu,Fixação,1308
+Thu,Flora,6
+Thu,Flora :: Competência de Fazenda Pública - Meio Ambiente,3
+Thu,Fornecimento de Água,2176
+Thu,Fornecimento de Energia Elétrica,7293
+Thu,Fornecimento de insumos,4
+Thu,Fornecimento de medicamentos,91
+Thu,Fornecimento de Medicamentos,3744
+Thu,Fraldas,3
+Thu,Franquia,168
+Thu,Fraude à execução,3
+Thu,Fraude de lei sobre estrangeiros,6
+Thu,Fraude na Entrega de Coisa,4
+Thu,Fraude no Pagamento por Meio de Cheque,18
+Thu,Fraude para Recebimento de Indenização ou Valor de Seguro,4
+Thu,Fraude processual,8
+Thu,Fuga de pessoa presa ou submetida a medida de segurança,2
+Thu,Funcionamento de Comércio de Derivados de Petróleo,1
+Thu,Funcionamento de Estabelecimentos Empresariais,18
+Thu,Fundação de Direito Privado,8
+Thu,Furto,2477
+Thu,Furto (art. 155),275
+Thu,Furto de coisa comum,2
+Thu,Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior,10
+Thu,Furto Privilegiado,154
+Thu,Furto Qualificado,5259
+Thu,"Furto Qualificado (Art. 155, § 4o.)",154
+Thu,Garantias Constitucionais,527
+Thu,Gestante / Adotante / Paternidade,48
+Thu,Gestão de Negócios,128
+Thu,Gratificação de Incentivo,310
+Thu,Gratificação Incorporada / Quintos e Décimos / VPNI,35
+Thu,Gratificação Natalina/13º salário,757
+Thu,Gratificação Natalina/13º Salário,57
+Thu,Gratificações da Lei 8.112/1990,7
+Thu,Gratificações de Atividade,756
+Thu,Gratificações e Adicionais,2004
+Thu,Gratificações Estaduais Específicas,7
+Thu,Gratificações Municipais Específicas,593
+Thu,Grave,283
+Thu,Gravíssima,124
+Thu,Guarda,3090
+Thu,Guarda com genitor ou responsável no exterior,1
+Thu,Habilitação / Registro Cadastral / Julgamento / Homologação,63
+Thu,Habitação,30
+Thu,Hipoteca,140
+Thu,Homicídio Privilegiado,138
+Thu,Homicídio Qualificado,16238
+Thu,Homicídio Simples,3952
+Thu,Honorarios Profissionais,4362
+Thu,Hora Extra,3
+Thu,ICMS / Incidência Sobre o Ativo Fixo,113
+Thu,ICMS/ Imposto sobre Circulação de Mercadorias,8313
+Thu,ICMS/Importação,48
+Thu,IE/ Imposto sobre Exportação,2
+Thu,Imissão,931
+Thu,Impedimento / Detenção / Prisão,3
+Thu,Impostos,3895
+Thu,Improbidade Administrativa,1154
+Thu,Imputação do Pagamento,4
+Thu,Inadimplemento,3058
+Thu,Incapacidade Laborativa Parcial,20
+Thu,Incapacidade Laborativa Permanente,15
+Thu,Incapacidade Laborativa Temporária,5
+Thu,Incapacidade Laborativa Temporária :: Competência da Fazenda Pública,19
+Thu,Incêndio,409
+Thu,Incentivos fiscais,5
+Thu,Inclusão de associado,7
+Thu,Inclusão de Dependente,25
+Thu,Inclusão Indevida em Cadastro de Inadimplentes,20339
+Thu,Inconstitucionalidade Material,37
+Thu,Incorporação Imobiliária,3
+Thu,Indenização / Terço Constitucional,413
+Thu,Indenização por Dano Ambiental,40
+Thu,Indenização por Dano Material,11835
+Thu,Indenizaçao por Dano Moral,50
+Thu,Indenização por Dano Moral,57191
+Thu,Indenizações Regulares,105
+Thu,Índice da Alíquota,6
+Thu,Índice da URV Lei 8.880/1994,22
+Thu,"Indução, Instigação ou Auxílio ao Uso de Drogas",1
+Thu,Industrial / Mercantil,10
+Thu,"Induzimento, Instigação ou Auxílio a Suicídio",4
+Thu,Infanticídio,4
+Thu,Infração Administrativa,335
+Thu,Ingresso e Concurso,195
+Thu,Ingresso e Exclusão dos Sócios na Sociedade,96
+Thu,Injúria,124
+Thu,Inquérito / Processo / Recurso Administrativo,31
+Thu,Inscrição / Documentação,72
+Thu,Inscrição na Matrícula de Registro Torrens,1
+Thu,Inserção de dados falsos em sistema de informações,33
+Thu,Inspeção Fitossanitária,4
+Thu,Inspeção Sanitária de Origem Animal,24
+Thu,Instituição de Bem de Família,2
+Thu,Integralidade,743
+Thu,Interdição,32
+Thu,Interesse Particular,13
+Thu,Internação com atividades externas,5
+Thu,Internação compulsória,8
+Thu,Internação sem atividades externas,23
+Thu,Internação/Transferência Hospitalar,4
+Thu,Interpretação / Revisão de Contrato,1223
+Thu,Intervenção do Estado na Propriedade,100
+Thu,Intervenção em Estado / Município,35
+Thu,Invalidez Permanente,97
+Thu,Inventário e Partilha,4981
+Thu,Investigação de Maternidade,21
+Thu,Investigação de Paternidade,1601
+Thu,"IOC/IOF Imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários",4
+Thu,IPI/ Imposto sobre Produtos Industrializados,2
+Thu,IPTU/ Imposto Predial e Territorial Urbano,10196
+Thu,IPVA - Imposto Sobre Propriedade de Veículos Automotores,877
+Thu,IRPF/Imposto de Renda de Pessoa Física,620
+Thu,IRPJ/Imposto de Renda de Pessoa Jurídica,4
+Thu,Irredutibilidade de Vencimentos,222
+Thu,Isonomia,123
+Thu,Isonomia/Equivalência Salarial,294
+Thu,ISS/ Imposto sobre Serviços,2767
+Thu,ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis,320
+Thu,ITCD - Imposto de Transmissão Causa Mortis,206
+Thu,ITR/ Imposto Territorial Rural,1
+Thu,Jogo e Aposta,2
+Thu,Jogos de Bingo e/ou Caça-níqueis,1
+Thu,Jornada de Trabalho,820
+Thu,Juros de Mora - Legais / Contratuais,14
+Thu,Juros/Correção Monetária,10
+Thu,Lançamento,15
+Thu,Latrocínio,2372
+Thu,Leasing Imobiliario,5
+Thu,Legal,1
+Thu,Lei de Imprensa,10
+Thu,Lesão Corporal,1
+Thu,Lesões Corporais,115
+Thu,Letra de Câmbio,12
+Thu,Leve,503
+Thu,Liberação de Veículo Apreendido,352
+Thu,Liberdade assistida,3
+Thu,Licença Capacitação (Aperfeiçoamento Profissional),6
+Thu,Licença por Acidente em Serviço,5
+Thu,Licença Prêmio,822
+Thu,Licença-Prêmio,444
+Thu,Licenças,271
+Thu,Licenças / Afastamentos,141
+Thu,Licenciamento,2
+Thu,Licenciamento / Exclusão,4
+Thu,Licenciamento de Veículo,295
+Thu,Licitações,705
+Thu,Limitação Administrativa,1
+Thu,Limitação de Juros,1
+Thu,Limite de Idade,37
+Thu,Liquidação,16
+Thu,Liquidação / Cumprimento / Execução :: Competência de Cível - Meio Ambiente,42
+Thu,Liquidação / Cumprimento / Execução :: Competência de Precatória Cível,314
+Thu,Liquidação / Cumprimento / Execução :: Competência de Precatória Registros Públicos,58
+Thu,Locação / Permissão / Concessão / Autorização / Cessão de Uso,10
+Thu,Locação de Imóvel,10962
+Thu,Locação de Móvel,415
+Thu,Lotação,33
+Thu,Magistério público da educação básica - hora-atividade (Lei 11.738/08),1029
+Thu,Magistratura,5
+Thu,Mandato,4540
+Thu,Marca,352
+Thu,Maus Tratos,188
+Thu,Maus Tratos :: Competência de Cautelares - JIJ,1
+Thu,Maus Tratos :: Competência de Família Substituta - JIJ,2
+Thu,Maus Tratos :: Competência de Habilitações - JIJ,19
+Thu,Mediação para Servir a Lascívia de Outrem,1
+Thu,Medicamento / Tratamento / Cirurgia de Eficácia não comprovada,4
+Thu,Medidas Sócioeducativas,120
+Thu,Meio Ambiente,918
+Thu,Mercado de Capitais,1
+Thu,Militar,1518
+Thu,Mineração,1
+Thu,Ministério Público,13
+Thu,Modalidade / Limite / Dispensa / Inexigibilidade,5
+Thu,Moeda Falsa / Assimilados,125
+Thu,Motim de presos,2
+Thu,Movimentos Repetitivos/Tenossinovite/LER/DORT,18
+Thu,Multa,24
+Thu,Multas e demais Sanções,7246
+Thu,Municipais,342
+Thu,Município,21
+Thu,Mútuo,5281
+Thu,Nomeação,804
+Thu,Nota de Crédito Comercial,47
+Thu,Nota de Crédito Industrial,6
+Thu,Nota de Crédito Rural,25
+Thu,Nota Promissória,3111
+Thu,Novação,12
+Thu,Nulidade / Anulação,20
+Thu,Nulidade e Anulação de Partilha e Adjudicação de Herança,44
+Thu,Nulidade e Anulação de Testamento,138
+Thu,Obrigações,15658
+Thu,Ocupação Temporária,1
+Thu,Oferecimento de Drogas para Consumo Conjunto,7
+Thu,Oferta,116
+Thu,Orçamento,10
+Thu,Ordem Urbanística,4
+Thu,Ordenação da Cidade / Plano Diretor,113
+Thu,Organização Político-administrativa / Administração Pública,18
+Thu,Organizações Religiosas,7
+Thu,Outras fraudes,5
+Thu,Outras Substâncias Nocivas a Saúde Pública,3
+Thu,Overbooking,25
+Thu,Pagamento,2417
+Thu,Pagamento Atrasado / Correção Monetária,44
+Thu,Pagamento com Sub-rogação,5
+Thu,Pagamento em Consignação,117
+Thu,Pagamento Indevido,177
+Thu,Parcelamento,25
+Thu,Parcelamento de Vencimentos,1000
+Thu,Parcelamento do solo urbano,28
+Thu,Parceria Agrícola e/ou pecuária,527
+Thu,Parlamentares,13
+Thu,Partido Político,6
+Thu,Parto Suposto,3
+Thu,Patente,48
+Thu,Patrimônio Histórico / Tombamento,14
+Thu,Patrocínio infiel,11
+Thu,Peculato,283
+Thu,Peculato mediante erro de outrem,5
+Thu,Penalidades,6
+Thu,Penhor,69
+Thu,Pensão,1934
+Thu,Pensão por Morte (Art. 74/9),484
+Thu,Perda da Propriedade,14
+Thu,Perdas e Danos,86
+Thu,Perigo para a vida ou saúde de outrem,5
+Thu,Perigo para a vida ou saúde de outrem (art. 132),5
+Thu,Pessoas Jurídicas,246
+Thu,Pessoas naturais,1291
+Thu,Petição de Herança,50
+Thu,PIS,37
+Thu,Piso Salarial,5864
+Thu,Plano de Classificação de Cargos,69
+Thu,Planos de saúde,73
+Thu,Planos de Saúde,18316
+Thu,Pobreza,2
+Thu,Poluição,4
+Thu,Por Remição,1
+Thu,Posse,7027
+Thu,Posse :: Competência de Fazenda Pública,5
+Thu,Posse de Drogas para Consumo Pessoal,370
+Thu,Posse e Exercício,109
+Thu,Posse Sexual Mediante Fraude,15
+Thu,Praticados por Particular Contra a Administração em Geral,5
+Thu,Praticagem,1
+Thu,Prazo de Validade,31
+Thu,Prefeito,24
+Thu,Preferências e Privilégios Creditórios,13
+Thu,Prescrição,8
+Thu,Prestação de Contas,23
+Thu,Prestação de Serviços,8096
+Thu,Prestação de serviços à comunidade,4
+Thu,Prevaricação,5
+Thu,Previdência privada,13159
+Thu,Previlegiada,2
+Thu,Previstos na Legislação Extravagante,2
+Thu,Processo Administrativo Disciplinar / Sindicância,26
+Thu,Processo Administrativo Disciplinar ou Sindicância,220
+Thu,Processo Disciplinar / Sindicância,17
+Thu,Processo e Procedimento,1
+Thu,Processo Legislativo,10
+Thu,Produtos Controlados / Perigosos,2
+Thu,Programa de Computador,52
+Thu,Programa de Desligamento Voluntário (PDV),3
+Thu,Promessa de Compra e Venda,19892
+Thu,Promessa de Recompensa,12
+Thu,Promoção,2327
+Thu,Promoção / Ascensão,2835
+Thu,"Promoção, constituição, financiamento ou integração de Organização Criminosa",11
+Thu,Propriedade,1971
+Thu,Propriedade Fiduciária,75
+Thu,Propriedade Intelectual / Industrial,945
+Thu,Prorrogação,1
+Thu,Protesto Indevido de Título,641
+Thu,Prova de Títulos,26
+Thu,Pulsos Excedentes,7
+Thu,Quadrilha ou Bando,135
+Thu,Quadrilha ou Bando (art. 288),2
+Thu,Quanto à Carga,2
+Thu,Quitação,2
+Thu,Readaptação,46
+Thu,Reajuste de Prestações,9
+Thu,"Reajuste de Remuneração, Soldo, Proventos ou Pensão",147
+Thu,"Reajustes de Remuneração, Proventos ou Pensão",6078
+Thu,Receptação,1618
+Thu,Receptação Qualificada,216
+Thu,Recolhimento e Tratamento de Lixo,1
+Thu,Recondução,22
+Thu,Reconhecimento / Dissolução,5769
+Thu,Recuperação extrajudicial,4
+Thu,Recuperação judicial e Falência,3725
+Thu,Recursos Administrativos,3
+Thu,Recursos Hídricos,6
+Thu,"Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública",24
+Thu,Redistribuição,1
+Thu,Redução a condição análoga à de escravo,1
+Thu,Redução da Capacidade Auditiva,38
+Thu,Redução da Capacidade Auditiva :: Competência da Fazenda Pública,1
+Thu,Reforma,19
+Thu,Regime,4
+Thu,Regime de Bens Entre os Cônjuges,118
+Thu,Regime Estatutário,114
+Thu,Regime Previdenciário,184
+Thu,Registro Civil das Pessoas Naturais,229
+Thu,Registro das Pessoas Juridicas d de Titulos E,39
+Thu,Registro de Imóveis,679
+Thu,Registro de nascimento após prazo legal,7
+Thu,Registro de Óbito após prazo legal,19
+Thu,Registro em Cadastro,2230
+Thu,Registro em Cadastro de Análise de Crédito,654
+Thu,Registro em Cadastro de Inadimplentes,11984
+Thu,Registro para comercialização de dados cadastrais de consumidores,401
+Thu,REGISTROS PÚBLICOS,72
+Thu,Regulamentação de Visitas,779
+Thu,Reintegração,574
+Thu,Reivindicação,896
+Thu,Relações de Parentesco,241
+Thu,Remissão das Dívidas,4
+Thu,Remoção,101
+Thu,Remuneração,31
+Thu,Repasse de Verbas Públicas,18
+Thu,Repetição de indébito,771
+Thu,Representação comercial,1179
+Thu,Reprodução ou adulteração de selo ou peça filatélica,1
+Thu,Rescisão,6
+Thu,Rescisão / Resolução,227
+Thu,Rescisão do contrato e devolução do dinheiro,2274
+Thu,Reserva de Dominio,1307
+Thu,Reserva de Vagas para Deficientes,30
+Thu,Reserva Remunerada,32
+Thu,Resgate de Contribuição,70
+Thu,Resistência,214
+Thu,Resistência (art. 329),2
+Thu,Responsabilidade Civil,31173
+Thu,Responsabilidade Civil do Empregador,110
+Thu,Responsabilidade Civil do Servidor Público / Indenização ao Erário,1
+Thu,Responsabilidade Contratual,21
+Thu,Responsabilidade da Administração,4859
+Thu,Responsabilidade do Fornecedor,1083
+Thu,Responsabilidade dos sócios,36
+Thu,Responsabilidade Extracontratual,2
+Thu,Restabelecimento,245
+Thu,Resultante de Preconceito de Raça ou de Cor,2
+Thu,Retificação de Área de Imóvel,13
+Thu,Retificação de Data de Nascimento,30
+Thu,Retificação de Nome,231
+Thu,Retificação de Sexo,14
+Thu,Retrocessão,1
+Thu,Reversão,327
+Thu,Revisão,3822
+Thu,Revisão do Saldo Devedor,22
+Thu,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",54
+Thu,Revogação,2
+Thu,Revogação de atos praticados em prejuízo de credores e da massa,9
+Thu,Revogação/Anulação de multa ambiental,13
+Thu,Revogação/Concessão de Licença Ambiental,23
+Thu,Rixa,1
+Thu,Rixa (art. 137),1
+Thu,Roubo,3682
+Thu,Roubo (art. 157),1426
+Thu,Roubo Majorado,16651
+Thu,Rufianismo,2
+Thu,Rural - Agrícola/Pecuário,12
+Thu,Rural (Art. 48/51),1
+Thu,Salário-Educação,1
+Thu,Salário-Família,803
+Thu,Sanções Administrativas,5
+Thu,Saneamento,14
+Thu,SATISFACAO DE LASCIVIA MEDIANTE PRESENCA DE CRIANCA OU ADOLESCENTE,11
+Thu,Saúde,2219
+Thu,Seção Cível,173
+Thu,Seguida de Morte,46
+Thu,Seguro,33009
+Thu,Seguros Marítimos,2
+Thu,Semiliberdade,2
+Thu,Seqüestro e cárcere privado,123
+Thu,Seqüestro e cárcere privado (art. 148),3
+Thu,Serviço Militar,10
+Thu,Serviço Militar dos Profissionais da Saúde,2
+Thu,Serviços,939
+Thu,Serviços Hospitalares,537
+Thu,Serviços Profissionais,475
+Thu,Servidão,292
+Thu,Servidão Administrativa,62
+Thu,Servidao de Eletroduto,362
+Thu,Servidor Público Civil,9164
+Thu,Servidores Ativos,64
+Thu,Servidores Inativos,227
+Thu,Sigilo Telefônico,1
+Thu,Sistema Financeiro da Habitação,1997
+Thu,Sistema Financeiro da Habitação :: Competência da Direção do Foro Cível,1
+Thu,Sistema Nacional de Trânsito,2837
+Thu,Sistema Remuneratório e Benefícios,22922
+Thu,Sociedade,1154
+Thu,Sonegação de papel ou objeto de valor probatório,63
+Thu,Sonegação ou destruição de correspondência,1
+Thu,Sub-rogação de Vinculo,1
+Thu,Subsídios,24
+Thu,Substituição do Produto,423
+Thu,Subtração de Incapazes,1
+Thu,Subtração de Incapazes (Art. 249),3
+Thu,Subtração ou inutilização de livro ou documento,4
+Thu,Sucessão Provisória,15
+Thu,Sucessões,1763
+Thu,Superfície,2
+Thu,Supressão de documento,47
+Thu,Suspensão,27
+Thu,Suspensão da Exigibilidade,76
+Thu,Sustação de Protesto,1701
+Thu,Sustação/Alteração de Leilão,13
+Thu,Tabelionato de Protestos de Títulos,14
+Thu,"Tabelionatos, Registros, Cartórios",1
+Thu,Tarifas,4486
+Thu,Taxa de Coleta de Lixo,228
+Thu,Taxa de Iluminação Pública,9
+Thu,Taxa de Licenciamento de Estabelecimento,288
+Thu,Taxa de Limpeza Pública,28
+Thu,Taxa de Ocupação / Laudêmio / Foro,16
+Thu,Taxa de Prevenção e Combate a Incêndio,15
+Thu,Taxa Judiciária,4
+Thu,Taxas,373
+Thu,Telefonia,38439
+Thu,Tempo de Serviço,189
+Thu,Termo Aditivo,1
+Thu,Teto Salarial,45
+Thu,Títulos da Dívida Pública,2
+Thu,Títulos de Crédito,225
+Thu,Trabalho do adolescente,2
+Thu,Tráfico de Drogas e Condutas Afins,29612
+Thu,Tráfico de influência,8
+Thu,Tráfico Internacional de Pessoas,1
+Thu,Transação,481
+Thu,Transferência,33
+Thu,Transferência de cotas,54
+Thu,Transferência ex-officio para reserva,6
+Thu,Transferência para reserva,15
+Thu,Transmissão,2
+Thu,Transporte Aéreo,855
+Thu,Transporte Aquaviário,10
+Thu,Transporte de Coisas,641
+Thu,Transporte de Pessoas,822
+Thu,Transporte Terrestre,136
+Thu,Transporte Terrestre :: Competência de Cível - JIJ,2
+Thu,Tratamento da Própria Saúde,56
+Thu,Tratamento médico-hospitalar,16
+Thu,Tratamento Médico-Hospitalar,918
+Thu,Tratamento Medico-Hospitalar e/ou Fornecimento,5230
+Thu,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos,13911
+Thu,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos :: Competência de Família Substituta - JIJ,4
+Thu,Troca ou Permuta,162
+Thu,Turismo,168
+Thu,Tutela e Curatela,571
+Thu,Ultraje Público ao Pudor (Ato/Escrito Obsceno),9
+Thu,União Estável ou Concubinato,526
+Thu,União Homoafetiva,18
+Thu,Unidade de Conservação da Natureza,3
+Thu,Unidade de terapia intensiva (UTI) / unidade de cuidados intensivos (UCI),3
+Thu,Unidade de terapia intensiva (UTI) ou unidade de cuidados intensivos (UCI),156
+Thu,Uso,7
+Thu,Uso de documento falso,507
+Thu,Uso ou Tráfico de Drogas,27
+Thu,Uso ou Tráfico de Drogas :: Competência de Cautelares - JIJ,5
+Thu,Uso ou Tráfico de Drogas :: Competência de Irregul. em Entidade de Atend. Sócioeducativo-JIJ,7
+Thu,Usucapiao (Bens Moveis),180
+Thu,Usucapião da L 6.969/1981,117
+Thu,Usucapião Especial (Constitucional),195
+Thu,Usucapião Especial Coletiva,12
+Thu,Usucapião Extraordinária,2060
+Thu,Usucapião Ordinária,660
+Thu,Usufruto,70
+Thu,Usufruto e Administração dos Bens de Filhos Menores,7
+Thu,Usurpação de função pública,3
+Thu,Vaga de garagem,18
+Thu,Variação Cambial,3
+Thu,Veículos,30
+Thu,Venda de Produtos ou Substância nas Condições dos Artigos 274 e 275,1
+Thu,Viagem ao Exterior,7
+Thu,Violação aos Princípios Administrativos,33
+Thu,Violação de direito autoral,509
+Thu,Violação de domicílio,80
+Thu,Violação de domicílio (art. 150),6
+Thu,Violação do sigilo funcional,7
+Thu,Violência ou fraude em arrematação judicial,3
+Thu,Voluntária,50
+Thu,Warrant,6
+Thu,Zoneamento Ecológico e Econômico,1
+Thu,NA,16044
+Fri,Abandono de incapaz,7
+Fri,Abandono Intelectual,32
+Fri,Abandono Intelectual :: Competência de Execução Cível - JIJ,1
+Fri,Abandono Material,59
+Fri,Abandono Material :: Competência de Procedimento Administrativo - JIJ,2
+Fri,Abatimento proporcional do preço,188
+Fri,Abono de Permanência,188
+Fri,Abono Pecuniário (Art. 78 Lei 8.112/1990),3
+Fri,Aborto provocado por terceiro,4
+Fri,Abuso Sexual,12
+Fri,Acidente Aéreo,3
+Fri,Acidente de Trabalho,55
+Fri,Acidente De Trabalho,171
+Fri,Acidente de Trânsito,2096
+Fri,Acompanhamento de Cônjuge ou Companheiro,1
+Fri,Acumulação de Cargos,16
+Fri,Acumulação de Proventos,1
+Fri,Adicional de Horas Extras,139
+Fri,Adicional de Insalubridade,314
+Fri,Adicional de Periculosidade,30
+Fri,Adicional de Produtividade,4
+Fri,Adicional de Serviço Noturno,763
+Fri,Adicional por Tempo de Serviço,4
+Fri,Adimplemento e Extinção,14
+Fri,Adjudicação,1
+Fri,Adjudicação Compulsória,97
+Fri,Administração,8
+Fri,Administração de Herança,7
+Fri,Administração judicial,7
+Fri,Admissão / Permanência / Despedida,70
+Fri,Adoção de Adolescente,1
+Fri,Adoção de Adolescente :: Competência de Cautelares - JIJ,1
+Fri,Adoção de Criança,17
+Fri,Adoção de Maior,6
+Fri,Adoção Internacional :: Competência de Cautelares - JIJ,1
+Fri,Adoção Nacional,3
+Fri,Adulteração de Sinal Identificador de Veículo Automotor,52
+Fri,Advertência,3
+Fri,Afastamento do Cargo,1
+Fri,Agêncie e Distribuição,2
+Fri,Agentes Políticos,3
+Fri,Agregação,2
+Fri,Agrotóxicos,3
+Fri,Água e/ou Esgoto,9
+Fri,Águas Públicas,32
+Fri,Alienação Fiduciária,13510
+Fri,Alienação Judicial,5
+Fri,Alienação ou Oneração Fraudulenta de Coisa Própria,1
+Fri,Alienação Parental,7
+Fri,Alimentos,1096
+Fri,Alimentos :: Competência de Execução Cível - JIJ,1
+Fri,Alíquota Progressiva,1
+Fri,Alteração de Coisa Comum,6
+Fri,Amamentação,3
+Fri,Ameaça,543
+Fri,Ameaça (art. 147),12
+Fri,Anistia,1
+Fri,Anulação,70
+Fri,Anulação de Débito Fiscal,61
+Fri,Anulação e Correção de Provas / Questões,261
+Fri,Aposentadoria,272
+Fri,Aposentadoria por Idade (Art. 48/51),1
+Fri,Aposentadoria por Invalidez,84
+Fri,Aposentadoria por Invalidez Acidentária,25
+Fri,Aposentadoria por Tempo de Contribuição (Art. 55/6),1
+Fri,Aposentadoria/Retorno aoTrabalho,1
+Fri,Apreensão,1
+Fri,Apropriação de Tesouro,1
+Fri,Apropriação indébita,119
+Fri,"Apropriação indébita (art. 168, caput)",1
+Fri,Apropriação indébita Previdenciária,2
+Fri,Apuração de haveres,11
+Fri,Aquisição,140
+Fri,Arquivamento Administrativo - Crédito de Pequeno Valor,3
+Fri,Arras ou Sinal,1
+Fri,Arrendamento Mercantil,499
+Fri,Arrendamento Rural,212
+Fri,Assédio Sexual,5
+Fri,Assembléia,13
+Fri,Assinatura Básica Mensal,163
+Fri,Assistência à Saúde,26
+Fri,Associação,57
+Fri,Associação para a Produção e Tráfico e Condutas Afins,85
+Fri,Assunção de Dívida,2
+Fri,Assunção de Obrigação no Último Ano do Mandado ou Legislatura,1
+Fri,Atentado Violento ao Pudor,313
+Fri,Atentado Violento ao Pudor (Art. 214),2
+Fri,Atividade Política,5
+Fri,Ato / Negócio Jurídico,26
+Fri,Ato Infracional,543
+Fri,"Ato Lesivo ao Patrimônio Artístico, Estético, Histórico ou Turístico",8
+Fri,Atos Administrativos,470
+Fri,Atos Unilaterais,60
+Fri,Atraso de vôo,41
+Fri,Autofalência,6
+Fri,Auxílio-Acidente (Art. 86),551
+Fri,Auxílio-Alimentação,3645
+Fri,Auxílio-Doença Acidentário,1594
+Fri,Auxílio-Doença Previdenciário,11
+Fri,Auxílio-Reclusão,1
+Fri,Auxílio-transporte,14
+Fri,Averbação / Contagem de Tempo Especial,21
+Fri,Averbação / Contagem Recíproca,2
+Fri,Bancários,1480
+Fri,Base de Cálculo,1
+Fri,Bem de Família,37
+Fri,"Benefício Assistencial (Art. 203,V CF/88)",1
+Fri,Benefícios em Espécie,152
+Fri,Benfeitorias,6
+Fri,Bens Públicos,8
+Fri,Busca e Apreensão de Menores,43
+Fri,Cadastro de Análise de Crédito,5605
+Fri,Calúnia,10
+Fri,Câmbio,2
+Fri,Cancelamento de Hipoteca,2
+Fri,Cancelamento de Protesto,43
+Fri,Cancelamento de vôo,66
+Fri,Capacidade,331
+Fri,Capitalização e Previdência Privada,1
+Fri,Cartão de Crédito,1667
+Fri,Casamento,92
+Fri,Cédula de Crédito à Exportação,1
+Fri,Cédula de Crédito Bancário,150
+Fri,Cédula de Crédito Comercial,19
+Fri,Cédula de Crédito Industrial,9
+Fri,Cédula de Crédito Rural,105
+Fri,Cédula de Produto Rural,38
+Fri,Cédula Hipotecária,13
+Fri,Cessão de Crédito,12
+Fri,Cessão de créditos não-tributários,1
+Fri,Cheque,1034
+Fri,Classificação de créditos,7
+Fri,Classificação e/ou Preterição,158
+Fri,CND/Certidão Negativa de Débito,4
+Fri,CNH - Carteira Nacional de Habilitação,508
+Fri,Coação no curso do processo,19
+Fri,Cobrança indevida de ligações,86
+Fri,Cofins,82
+Fri,Coisas,1733
+Fri,Comercialização de dados cadastrais de consumidores,158
+Fri,Comissão,14
+Fri,Comodato,40
+Fri,Compensação,5
+Fri,Complementação de Benefício/Ferroviário,3
+Fri,Compra e Venda,1321
+Fri,Compromisso,111
+Fri,Compulsória,4
+Fri,Concessão,263
+Fri,Concessão / Permissão / Autorização,21
+Fri,Concurso Público / Edital,555
+Fri,Concussão,7
+Fri,Condições Especiais para Prestação de Prova,9
+Fri,Condomínio,446
+Fri,Condomínio em Edifício,143
+Fri,Confusão,2
+Fri,Conselhos Regionais e Afins (Anuidade),10
+Fri,Consórcio,321
+Fri,Constrangimento ilegal,4
+Fri,Contra a dignidade sexual,2
+Fri,Contra a Fé Pública,2
+Fri,Contra a Honra,2
+Fri,Contra a liberdade pessoal,2
+Fri,Contra a vida,3
+Fri,Contra o Patrimônio,2
+Fri,Contrato Temporário de Mão de Obra L 8.745/1993,7
+Fri,Contratos Administrativos,324
+Fri,Contratos Bancários,7677
+Fri,Contratos de Consumo,788
+Fri,Contratos de Participacao Financeira,3143
+Fri,Contravenções Penais,199
+Fri,Contribuição Sindical,40
+Fri,Contribuição Sindical Rural,2
+Fri,Contribuição sobre a folha de salários,1
+Fri,Contribuições,43
+Fri,Contribuições Corporativas,7
+Fri,Contribuições de Melhoria,95
+Fri,"Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",8
+Fri,Contribuições Previdenciárias,736
+Fri,Contribuições Sociais,23
+Fri,Controle de Constitucionalidade,8
+Fri,Convênio,8
+Fri,Convolação de recuperação judicial em falência,1
+Fri,Correção Monetária,2
+Fri,Corretagem,321
+Fri,Corrupção ativa,26
+Fri,Corrupção de Menores,2
+Fri,Corrupção passiva,24
+Fri,Creditamento,1
+Fri,Crédito Prêmio,2
+Fri,Crédito Presumido,1
+Fri,Crédito Rural,13
+Fri,Crédito Tributário,29
+Fri,Crime contra o Pátrio-Poder e Tutela,9
+Fri,Crimes Contra a Administração da Justiça,2
+Fri,Crimes contra a Dignidade Sexual,2
+Fri,Crimes contra a Economia Popular,1
+Fri,Crimes contra a Fauna,8
+Fri,Crimes contra a Flora,12
+Fri,Crimes contra a liberdade pessoal,3
+Fri,Crimes Contra a Ordem Economica,2
+Fri,Crimes contra as Relações de Consumo,50
+Fri,Crimes contra as Telecomunicações,1
+Fri,Crimes contra Patente de Invenção,1
+Fri,Crimes da Lei de licitações,39
+Fri,Crimes de Abuso de Autoridade,2
+Fri,"Crimes de Lavagem ou Ocultação de Bens, Direitos ou Valores",16
+Fri,Crimes de Responsabilidade,21
+Fri,Crimes de Tortura,32
+Fri,Crimes de Tráfico Ilícito e Uso Indevido de Drogas,4
+Fri,Crimes de Tráfico Ilícito e uso indevido de drogas - L 6368,113
+Fri,Crimes de Trânsito,498
+Fri,Crimes do Sistema Nacional de Armas,653
+Fri,Crimes do Sistema Nacional de Armas - L 9437,2
+Fri,Crimes Falimentares,3
+Fri,Crimes Militares,1
+Fri,Crimes Previstos no Estatuto da criança e do adolescente,34
+Fri,Crimes Previstos no Estatuto do Idoso,7
+Fri,Curso de Formação,18
+Fri,Da Poluição,13
+Fri,Dação em Pagamento,1
+Fri,Dano,13
+Fri,Dano (art. 163),1
+Fri,Dano Ambiental,11
+Fri,Dano ao Erário,17
+Fri,Dano Qualificado,39
+Fri,Data Base,1
+Fri,De Tráfico Ilícito e Uso Indevido de Drogas,76
+Fri,De Trânsito,4
+Fri,Debêntures,2
+Fri,Decorrente de Violência Doméstica,822
+Fri,"Defeito, nulidade ou anulação",7
+Fri,Demissão ou Exoneração,36
+Fri,Denunciação caluniosa,27
+Fri,Depósito,22
+Fri,Depósito Judicial,1
+Fri,Desacato,27
+Fri,Desacato (art. 331),1
+Fri,Desapropriação,71
+Fri,Desapropriação de Imóvel Urbano,3
+Fri,Desapropriação Indireta,26
+Fri,Desapropriação por Interesse Social Comum / L 4.132/1962,1
+Fri,Desapropriação por Utilidade Pública / DL 3.365/1941,22
+Fri,Desconto em folha de pagamento,26
+Fri,Descontos Indevidos,257
+Fri,Desenho Industrial,4
+Fri,Desmembramento,1
+Fri,Desobediência,11
+Fri,Desobediência a decisão judicial sobre perda ou suspensão de direitos,14
+Fri,Despejo para Uso de Ascendentes e Descendentes,2
+Fri,Despejo para Uso Próprio,32
+Fri,Despejo por Denúncia Vazia,40
+Fri,Despesas Condominiais,281
+Fri,Diárias e Outras Indenizações,6
+Fri,Difamação,14
+Fri,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,331
+Fri,Direito Autoral,87
+Fri,DIREITO CIVIL,435
+Fri,DIREITO DA CRIANÇA E DO ADOLESCENTE,711
+Fri,DIREITO DA SAÚDE,7
+Fri,Direito de Greve,25
+Fri,Direito de Imagem,89
+Fri,Direito de Preferência,3
+Fri,Direito de Vizinhança,187
+Fri,DIREITO DO CONSUMIDOR,1004
+Fri,DIREITO DO TRABALHO,1
+Fri,DIREITO PENAL,231
+Fri,Direitos / Deveres do Condômino,15
+Fri,Direitos da Personalidade,12
+Fri,Direitos e Títulos de Crédito,2
+Fri,Dirigente Sindical,24
+Fri,Disponibilidade / Aproveitamento,2
+Fri,Dissolução,850
+Fri,Dívida Ativa não-tributária,221
+Fri,Dívida Pública Mobiliária,1
+Fri,Divisão e Demarcação,77
+Fri,Do Sistema Nacional de Armas,13
+Fri,Doação,30
+Fri,Doença em Pessoa da Família,3
+Fri,Domínio Público,5
+Fri,Duplicata,475
+Fri,Duplicata Simulada,7
+Fri,Edital,24
+Fri,Eleição,5
+Fri,Empregado Público / Temporário,280
+Fri,Empreitada,50
+Fri,Empréstimo consignado,531
+Fri,Empréstimos Compulsórios,6
+Fri,Energia Elétrica,19
+Fri,Enquadramento,3
+Fri,Enriquecimento ilícito,1
+Fri,Enriquecimento sem Causa,4
+Fri,Ensino Fundamental e Médio,1501
+Fri,Ensino Fundamental e Médio :: Competência de Execução Cível - JIJ,2
+Fri,Ensino Superior,603
+Fri,Entrada e Permanência de Menores,5
+Fri,Entrada e Permanência de Menores :: Competência de Procedimento Administrativo - JIJ,1
+Fri,Equivalência salarial,3
+Fri,Erro Médico,268
+Fri,Esbulho / Turbação / Ameaça,427
+Fri,Escolaridade,7
+Fri,Espécies de Contratos,1091
+Fri,Espécies de Títulos de Crédito,547
+Fri,Estabelecimentos de Ensino,246
+Fri,Estabilidade,2
+Fri,Estaduais,47
+Fri,Estelionato,291
+Fri,Estupro,550
+Fri,Estupro (Art. 213),32
+Fri,Estupro de vulnerável,848
+Fri,Evicção ou Vicio Redibitório,4
+Fri,Exame de Saúde e/ou Aptidão Física,49
+Fri,Exame Psicotécnico / Psiquiátrico,65
+Fri,Exclusão - ICMS,9
+Fri,Exclusão de associado,3
+Fri,Execução Contratual,10
+Fri,Exercício em Outro Município,1
+Fri,Exibicao de Documentos,151
+Fri,Exigência de Prática Forense,2
+Fri,Exoneração,257
+Fri,Expedição de Certidão Positiva de Débito com Efeito de Negativa,3
+Fri,Expedição de CND,2
+Fri,Explosão,2
+Fri,Expurgos Inflacionários / Planos Econômicos,4248
+Fri,Extinção do Crédito Tributário,1
+Fri,Extorsão,79
+Fri,Extorsão (art. 158),1
+Fri,Extorsão mediante seqüestro,24
+Fri,Extorsão mediante Seqüestro Seguida de Morte,3
+Fri,Extravio de bagagem,51
+Fri,Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins,1
+Fri,Falsa identidade,2
+Fri,Falsidade ideológica,15
+Fri,Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais,12
+Fri,Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios,11
+Fri,Falsificação de documento particular,5
+Fri,Falsificação de documento público,16
+Fri,Falsificação do selo ou sinal público,5
+Fri,Falso testemunho ou falsa perícia,6
+Fri,Falta / Insuficiência das Condições de Encarceramento :: Competência da Fazenda Pública,198
+Fri,Família,231
+Fri,Fato Atípico,10
+Fri,Fato Atípico :: Competência de Juizado Especial Crime,6
+Fri,Fato Atípico :: Competência de Juizado Especial Crime - Trânsito,44
+Fri,Fato Gerador/Incidência,3
+Fri,Fatos Jurídicos,7
+Fri,Fauna,3
+Fri,Favorecimento da Prostituição,2
+Fri,FAVORECIMENTO DA PROSTITUICAO OU OUTRA FORMA DE EXPLORACAO SEXUAL DE VULNERAVEL,8
+Fri,Favorecimento real,3
+Fri,Federais,1
+Fri,Férias,138
+Fri,FGTS/Fundo de Garantia Por Tempo de Serviço,2
+Fri,Fiança,6
+Fri,Financiamento de Produto,104
+Fri,Fiscalização,41
+Fri,Fixação,99
+Fri,Flora,2
+Fri,Fornecimento de Água,844
+Fri,Fornecimento de Energia Elétrica,2412
+Fri,Fornecimento de insumos,2
+Fri,Fornecimento de medicamentos,49
+Fri,Fornecimento de Medicamentos,901
+Fri,Fraldas,3
+Fri,Franquia,25
+Fri,Fraude no Pagamento por Meio de Cheque,7
+Fri,Funcionamento de Estabelecimentos Empresariais,5
+Fri,Fundação de Direito Privado,5
+Fri,Furto,925
+Fri,Furto (art. 155),33
+Fri,Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior,3
+Fri,Furto Privilegiado,45
+Fri,Furto Qualificado,1839
+Fri,"Furto Qualificado (Art. 155, § 4o.)",19
+Fri,Garantias Constitucionais,74
+Fri,Gestante / Adotante / Paternidade,23
+Fri,Gestão de Negócios,24
+Fri,Gratificação de Desempenho de Atividade Técnico-administrativa - GDATA,1
+Fri,Gratificação de Incentivo,126
+Fri,Gratificação Incorporada / Quintos e Décimos / VPNI,6
+Fri,Gratificação Natalina/13º salário,77
+Fri,Gratificação Natalina/13º Salário,5
+Fri,Gratificações da Lei 8.112/1990,1
+Fri,Gratificações de Atividade,99
+Fri,Gratificações e Adicionais,304
+Fri,Gratificações Estaduais Específicas,1
+Fri,Gratificações Municipais Específicas,63
+Fri,Grave,54
+Fri,Gravíssima,25
+Fri,Guarda,379
+Fri,Habilitação / Registro Cadastral / Julgamento / Homologação,20
+Fri,Habitação,3
+Fri,Hipoteca,36
+Fri,Homicídio Privilegiado,24
+Fri,Homicídio Qualificado,2601
+Fri,Homicídio Simples,479
+Fri,Honorarios Profissionais,534
+Fri,Hora Extra,1
+Fri,ICMS / Incidência Sobre o Ativo Fixo,33
+Fri,ICMS/ Imposto sobre Circulação de Mercadorias,2802
+Fri,ICMS/Importação,27
+Fri,IE/ Imposto sobre Exportação,1
+Fri,II/ Imposto sobre Importação,1
+Fri,Imissão,113
+Fri,Impostos,1412
+Fri,Improbidade Administrativa,275
+Fri,Inadimplemento,1360
+Fri,Incapacidade Laborativa Parcial,8
+Fri,Incapacidade Laborativa Permanente,4
+Fri,Incêndio,23
+Fri,Incentivos fiscais,3
+Fri,Inclusão de Dependente,5
+Fri,Inclusão Indevida em Cadastro de Inadimplentes,4335
+Fri,Inconstitucionalidade Material,30
+Fri,Indenização / Terço Constitucional,126
+Fri,Indenização por Dano Ambiental,6
+Fri,Indenização por Dano Material,3987
+Fri,Indenizaçao por Dano Moral,6
+Fri,Indenização por Dano Moral,16969
+Fri,Indenizações Regulares,18
+Fri,Índice da Alíquota,3
+Fri,Índice da URV Lei 8.880/1994,11
+Fri,Indisponibilidade de Bens,2
+Fri,Ineficácia de atos em relação à massa,1
+Fri,Infração Administrativa,94
+Fri,Ingresso e Concurso,35
+Fri,Ingresso e Exclusão dos Sócios na Sociedade,11
+Fri,Injúria,21
+Fri,Inquérito / Processo / Recurso Administrativo,9
+Fri,Inscrição / Documentação,44
+Fri,Inserção de dados falsos em sistema de informações,4
+Fri,Inspeção Fitossanitária,2
+Fri,Inspeção Sanitária de Origem Animal,6
+Fri,Instituição de Bem de Família,1
+Fri,Integralidade,685
+Fri,Interdição,15
+Fri,Interesse Particular,8
+Fri,Internação com atividades externas,2
+Fri,Internação compulsória,2
+Fri,Internação sem atividades externas,2
+Fri,Internação/Transferência Hospitalar,2
+Fri,Interpretação / Revisão de Contrato,580
+Fri,Interrupção,1
+Fri,Intervenção do Estado na Propriedade,17
+Fri,Intervenção em Estado / Município,4
+Fri,Invalidez Permanente,26
+Fri,Inventário e Partilha,784
+Fri,Investigação de Maternidade,1
+Fri,Investigação de Paternidade,183
+Fri,"IOC/IOF Imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários",2
+Fri,IPI/ Imposto sobre Produtos Industrializados,2
+Fri,IPTU/ Imposto Predial e Territorial Urbano,5029
+Fri,IPVA - Imposto Sobre Propriedade de Veículos Automotores,282
+Fri,IRPF/Imposto de Renda de Pessoa Física,285
+Fri,IRPJ/Imposto de Renda de Pessoa Jurídica,2
+Fri,Irredutibilidade de Vencimentos,39
+Fri,Isonomia,8
+Fri,Isonomia/Equivalência Salarial,44
+Fri,ISS/ Imposto sobre Serviços,1033
+Fri,ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis,94
+Fri,ITCD - Imposto de Transmissão Causa Mortis,83
+Fri,Jornada de Trabalho,181
+Fri,Juros de Mora - Legais / Contratuais,1
+Fri,Juros/Correção Monetária,1
+Fri,Latrocínio,707
+Fri,Lesões Corporais,11
+Fri,Letra de Câmbio,1
+Fri,Leve,76
+Fri,Liberação de Veículo Apreendido,90
+Fri,Licença Capacitação (Aperfeiçoamento Profissional),5
+Fri,Licença por Acidente em Serviço,3
+Fri,Licença Prêmio,91
+Fri,Licença-Prêmio,89
+Fri,Licenças,91
+Fri,Licenças / Afastamentos,43
+Fri,Licenciamento / Exclusão,1
+Fri,Licenciamento de Veículo,55
+Fri,Licitações,235
+Fri,Limite de Idade,13
+Fri,Liquidação,3
+Fri,Liquidação / Cumprimento / Execução :: Competência de Cível - Meio Ambiente,9
+Fri,Liquidação / Cumprimento / Execução :: Competência de Precatória Cível,304
+Fri,Liquidação / Cumprimento / Execução :: Competência de Precatória Registros Públicos,2
+Fri,Locação / Permissão / Concessão / Autorização / Cessão de Uso,2
+Fri,Locação de Imóvel,1284
+Fri,Locação de Móvel,46
+Fri,Lotação,9
+Fri,Magistério público da educação básica - hora-atividade (Lei 11.738/08),385
+Fri,Magistratura,1
+Fri,Mandato,555
+Fri,Marca,58
+Fri,Maus Tratos,30
+Fri,Maus Tratos :: Competência de Habilitações - JIJ,1
+Fri,Maus Tratos :: Competência de Medidas de Proteção - JIJ,1
+Fri,Mediação para Servir a Lascívia de Outrem,1
+Fri,Medidas Sócioeducativas,23
+Fri,Meio Ambiente,204
+Fri,Militar,228
+Fri,Ministério Público,2
+Fri,Modalidade / Limite / Dispensa / Inexigibilidade,1
+Fri,Moeda Falsa / Assimilados,13
+Fri,Movimentos Repetitivos/Tenossinovite/LER/DORT,1
+Fri,Multa,7
+Fri,Multas e demais Sanções,1241
+Fri,Municipais,183
+Fri,Município,3
+Fri,Mútuo,409
+Fri,Nomeação,135
+Fri,Nota de Crédito Comercial,10
+Fri,Nota de Crédito Industrial,1
+Fri,Nota de Crédito Rural,5
+Fri,Nota Promissória,506
+Fri,Novação,8
+Fri,Nulidade / Anulação,6
+Fri,Nulidade e Anulação de Partilha e Adjudicação de Herança,4
+Fri,Nulidade e Anulação de Testamento,13
+Fri,Obrigações,1806
+Fri,Oferta,9
+Fri,Ordenação da Cidade / Plano Diretor,30
+Fri,Organização Político-administrativa / Administração Pública,8
+Fri,Overbooking,3
+Fri,Padronizado,1
+Fri,Pagamento,322
+Fri,Pagamento Atrasado / Correção Monetária,12
+Fri,Pagamento em Consignação,13
+Fri,Pagamento Indevido,82
+Fri,Parcelamento,4
+Fri,Parcelamento de Vencimentos,431
+Fri,Parcelamento do solo urbano,1
+Fri,Parceria Agrícola e/ou pecuária,65
+Fri,Parlamentares,7
+Fri,Partido Político,3
+Fri,PASEP,1
+Fri,Patente,4
+Fri,Patrimônio Histórico / Tombamento,7
+Fri,Peculato,52
+Fri,Penalidades,3
+Fri,Penhor,13
+Fri,Pensão,696
+Fri,Pensão por Morte (Art. 74/9),224
+Fri,Perda da Propriedade,6
+Fri,Perdas e Danos,15
+Fri,Perigo de contágio de moléstia grave,1
+Fri,Perigo para a vida ou saúde de outrem,2
+Fri,Pessoas Jurídicas,34
+Fri,Pessoas naturais,200
+Fri,Petição de Herança,2
+Fri,PIS,19
+Fri,Piso Salarial,1230
+Fri,Plano de Classificação de Cargos,10
+Fri,Planos de saúde,5
+Fri,Planos de Saúde,3771
+Fri,Pobreza,1
+Fri,Pobreza :: Competência de Procedimento Administrativo - JIJ,2
+Fri,Posse,1010
+Fri,Posse de Drogas para Consumo Pessoal,161
+Fri,Posse e Exercício,39
+Fri,Posse Sexual Mediante Fraude,5
+Fri,Praticados por Particular Contra a Administração em Geral,1
+Fri,Prazo de Validade,8
+Fri,Prefeito,6
+Fri,Preferências e Privilégios Creditórios,3
+Fri,Prescrição,1
+Fri,Prestação de Contas,7
+Fri,Prestação de Serviços,1159
+Fri,Prevaricação,2
+Fri,Previdência privada,3009
+Fri,Processo Administrativo Disciplinar / Sindicância,8
+Fri,Processo Administrativo Disciplinar ou Sindicância,59
+Fri,Processo Disciplinar / Sindicância,2
+Fri,Processo e Procedimento,1
+Fri,Programa de Computador,16
+Fri,Promessa de Compra e Venda,2397
+Fri,Promessa de Recompensa,5
+Fri,Promoção,728
+Fri,Promoção / Ascensão,1229
+Fri,"Promoção, constituição, financiamento ou integração de Organização Criminosa",4
+Fri,Propriedade,219
+Fri,Propriedade Fiduciária,11
+Fri,Propriedade Intelectual / Industrial,185
+Fri,Prorrogação,2
+Fri,Protesto Indevido de Título,172
+Fri,Prova de Títulos,30
+Fri,Quadrilha ou Bando,16
+Fri,Readaptação,3
+Fri,Reajuste de Prestações,2
+Fri,"Reajuste de Remuneração, Soldo, Proventos ou Pensão",69
+Fri,"Reajustes de Remuneração, Proventos ou Pensão",5282
+Fri,Receptação,377
+Fri,Receptação Qualificada,30
+Fri,Recondução,2
+Fri,Reconhecimento / Dissolução,634
+Fri,Recuperação judicial e Falência,371
+Fri,Recursos Administrativos,1
+Fri,Recursos Hídricos,3
+Fri,"Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública",11
+Fri,Redistribuição,1
+Fri,Redução da Capacidade Auditiva,36
+Fri,Reforma,4
+Fri,Regime de Bens Entre os Cônjuges,12
+Fri,Regime Estatutário,26
+Fri,Regime Previdenciário,29
+Fri,Registro Civil das Pessoas Naturais,27
+Fri,Registro das Pessoas Juridicas d de Titulos E,4
+Fri,Registro de Imóveis,54
+Fri,Registro de Óbito após prazo legal,5
+Fri,Registro em Cadastro,95
+Fri,Registro em Cadastro de Análise de Crédito,60
+Fri,Registro em Cadastro de Inadimplentes,575
+Fri,Registro para comercialização de dados cadastrais de consumidores,39
+Fri,REGISTROS PÚBLICOS,3
+Fri,Regulamentação de Visitas,131
+Fri,Reintegração,115
+Fri,Reivindicação,110
+Fri,Relações de Parentesco,24
+Fri,Remissão das Dívidas,1
+Fri,Remoção,64
+Fri,Remuneração,5
+Fri,Repasse de Verbas Públicas,7
+Fri,Repetição de indébito,91
+Fri,Representação comercial,154
+Fri,Rescisão,3
+Fri,Rescisão / Resolução,39
+Fri,Rescisão do contrato e devolução do dinheiro,1326
+Fri,Reserva de Dominio,93
+Fri,Reserva de Vagas para Deficientes,24
+Fri,Reserva Remunerada,7
+Fri,Resgate de Contribuição,10
+Fri,Resistência,14
+Fri,Resistência (art. 329),1
+Fri,Responsabilidade Civil,10243
+Fri,Responsabilidade Civil do Empregador,11
+Fri,Responsabilidade Civil do Servidor Público / Indenização ao Erário,2
+Fri,Responsabilidade da Administração,610
+Fri,Responsabilidade do Fornecedor,293
+Fri,Responsabilidade dos sócios,3
+Fri,Responsabilidade Extracontratual,1
+Fri,Restabelecimento,97
+Fri,Retificação de Data de Nascimento,2
+Fri,Retificação de Nome,27
+Fri,Retificação de Sexo,1
+Fri,Reversão,54
+Fri,Revisão,271
+Fri,Revisão do Saldo Devedor,3
+Fri,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",6
+Fri,Revogação,1
+Fri,Revogação de atos praticados em prejuízo de credores e da massa,7
+Fri,Revogação/Anulação de multa ambiental,3
+Fri,Revogação/Anulação de multa ambiental :: Competência de Fazenda Pública - Meio Ambiente,1
+Fri,Revogação/Concessão de Licença Ambiental,7
+Fri,Roubo,769
+Fri,Roubo (art. 157),160
+Fri,Roubo Majorado,4446
+Fri,Rural - Agrícola/Pecuário,3
+Fri,Salário-Família,79
+Fri,Salário-Maternidade (Art. 71/73),1
+Fri,Sanções Administrativas,8
+Fri,Saneamento,2
+Fri,SATISFACAO DE LASCIVIA MEDIANTE PRESENCA DE CRIANCA OU ADOLESCENTE,3
+Fri,Saúde,504
+Fri,Seção Cível,24
+Fri,Seguida de Morte,10
+Fri,Seguro,5188
+Fri,Seqüestro e cárcere privado,15
+Fri,Serviço Militar,1
+Fri,Serviços,112
+Fri,Serviços Hospitalares,52
+Fri,Serviços Profissionais,325
+Fri,Servidão,33
+Fri,Servidão Administrativa,9
+Fri,Servidao de Eletroduto,37
+Fri,Servidor Público Civil,1909
+Fri,Servidores Ativos,59
+Fri,Servidores Inativos,202
+Fri,Sistema Financeiro da Habitação,320
+Fri,Sistema Nacional de Trânsito,949
+Fri,Sistema Remuneratório e Benefícios,3464
+Fri,Sociedade,111
+Fri,Sonegação de papel ou objeto de valor probatório,11
+Fri,Sub-rogação de Vinculo,2
+Fri,Subsídios,2
+Fri,Substituição do Produto,299
+Fri,Subtração de Incapazes,1
+Fri,"Subtração, ocultação ou inutilização de material de salvamento",1
+Fri,Sucessões,263
+Fri,Supressão de documento,7
+Fri,Suspensão,6
+Fri,Suspensão da Exigibilidade,23
+Fri,Sustação de Protesto,157
+Fri,Tabelionato de Protestos de Títulos,2
+Fri,Tarifas,131
+Fri,Taxa de Coleta de Lixo,78
+Fri,Taxa de Fiscalização Ambiental,1
+Fri,Taxa de Iluminação Pública,10
+Fri,Taxa de Licenciamento de Estabelecimento,181
+Fri,Taxa de Limpeza Pública,13
+Fri,Taxa de Ocupação / Laudêmio / Foro,1
+Fri,Taxa de Prevenção e Combate a Incêndio,4
+Fri,Taxa Judiciária,1
+Fri,Taxas,135
+Fri,Telefonia,5714
+Fri,Tempo de Serviço,39
+Fri,Tempo de Serviço Rural/Contribuições não Recolhidas,1
+Fri,Teto Salarial,21
+Fri,Títulos da Dívida Pública,2
+Fri,Títulos de Crédito,19
+Fri,Tráfico de Drogas e Condutas Afins,4755
+Fri,Tráfico de influência,2
+Fri,Tráfico Interno de Pessoas,1
+Fri,Transação,60
+Fri,Transferência,5
+Fri,Transferência de cotas,8
+Fri,Transferência para reserva,1
+Fri,Transporte Aéreo,117
+Fri,Transporte Aquaviário,2
+Fri,Transporte de Coisas,126
+Fri,Transporte de Pessoas,97
+Fri,Transporte Terrestre,77
+Fri,Tratamento da Própria Saúde,7
+Fri,Tratamento médico-hospitalar,6
+Fri,Tratamento Médico-Hospitalar,208
+Fri,Tratamento Medico-Hospitalar e/ou Fornecimento,554
+Fri,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos,6350
+Fri,Troca ou Permuta,25
+Fri,Turismo,86
+Fri,Tutela e Curatela,64
+Fri,União Estável ou Concubinato,73
+Fri,União Homoafetiva,1
+Fri,Unidade de Conservação da Natureza,4
+Fri,Unidade de terapia intensiva (UTI) / unidade de cuidados intensivos (UCI),4
+Fri,Unidade de terapia intensiva (UTI) ou unidade de cuidados intensivos (UCI),28
+Fri,Uso,2
+Fri,Uso de documento falso,34
+Fri,Uso ou Tráfico de Drogas,4
+Fri,Usucapiao (Bens Moveis),16
+Fri,Usucapião da L 6.969/1981,12
+Fri,Usucapião Especial (Constitucional),19
+Fri,Usucapião Especial Coletiva,1
+Fri,Usucapião Extraordinária,219
+Fri,Usucapião Ordinária,89
+Fri,Usufruto,7
+Fri,Usufruto e Administração dos Bens de Filhos Menores,1
+Fri,Vaga de garagem,7
+Fri,Veículos,1
+Fri,Viagem ao Exterior,1
+Fri,Viagem Nacional,1
+Fri,Vícios de Construção,1
+Fri,Violação aos Princípios Administrativos,10
+Fri,Violação de direito autoral,59
+Fri,Violação de domicílio,10
+Fri,Voluntária,19
+Fri,Warrant,2
+Fri,Zoneamento Ecológico e Econômico,2
+Fri,NA,5256
+Sat,Abandono Intelectual,4
+Sat,Abono de Permanência,1
+Sat,Abuso Sexual :: Competência de Família Substituta - JIJ,1
+Sat,Acidente de Trânsito,11
+Sat,Acumulação de Cargos,1
+Sat,Adicional de Horas Extras,16
+Sat,Adicional de Insalubridade,12
+Sat,Adicional de Periculosidade,1
+Sat,Adicional de Produtividade,1
+Sat,Adicional de Serviço Noturno,18
+Sat,Adicional por Tempo de Serviço,1
+Sat,Adjudicação Compulsória,4
+Sat,Admissão / Permanência / Despedida,14
+Sat,Adoção Internacional :: Competência de Preparação para Adoção - JIJ,1
+Sat,Agentes Políticos,1
+Sat,Água e/ou Esgoto,1
+Sat,Águas Públicas,2
+Sat,Alienação Fiduciária,70
+Sat,Alimentos,45
+Sat,Ameaça,9
+Sat,Anulação,2
+Sat,Anulação de Débito Fiscal,5
+Sat,Anulação e Correção de Provas / Questões,4
+Sat,Aposentadoria,13
+Sat,Aposentadoria por Idade (Art. 48/51),1
+Sat,Aposentadoria por Invalidez Acidentária,1
+Sat,Apropriação indébita,3
+Sat,Apuração de haveres,1
+Sat,Aquisição,8
+Sat,Arrendamento Mercantil,1
+Sat,Arrendamento Rural,3
+Sat,Associação,1
+Sat,Associação para a Produção e Tráfico e Condutas Afins,6
+Sat,Atentado Violento ao Pudor,8
+Sat,Ato Infracional,27
+Sat,Atos Administrativos,29
+Sat,Auxílio-Acidente (Art. 86),7
+Sat,Auxílio-Alimentação,288
+Sat,Auxílio-Doença Acidentário,12
+Sat,Bancários,4
+Sat,Bem de Família,1
+Sat,Benefícios em Espécie,4
+Sat,Bloqueio de Valores de Contas Públicas,1
+Sat,Busca e Apreensão de Menores,2
+Sat,Cadastro de Análise de Crédito,142
+Sat,Capacidade,9
+Sat,Cartão de Crédito,1
+Sat,Casamento,5
+Sat,Cédula de Crédito Bancário,2
+Sat,Cédula de Produto Rural,1
+Sat,Cheque,20
+Sat,Classificação e/ou Preterição,9
+Sat,CNH - Carteira Nacional de Habilitação,34
+Sat,Cofins,1
+Sat,Comercialização de dados cadastrais de consumidores,1
+Sat,Comodato,5
+Sat,Compensação,1
+Sat,Compensação de Prejuízo,1
+Sat,Compra e Venda,37
+Sat,Compromisso,2
+Sat,Concessão,18
+Sat,Concessão / Permissão / Autorização,1
+Sat,Concurso Público / Edital,18
+Sat,Condições Especiais para Prestação de Prova,1
+Sat,Condomínio,24
+Sat,Condomínio em Edifício,5
+Sat,Consórcio,7
+Sat,Contra o Patrimônio,1
+Sat,Contratos Administrativos,25
+Sat,Contratos Bancários,244
+Sat,Contratos de Consumo,18
+Sat,Contratos de Participacao Financeira,68
+Sat,Contravenções Penais,72
+Sat,Contribuições,3
+Sat,Contribuições de Melhoria,4
+Sat,"Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",2
+Sat,Contribuições Previdenciárias,68
+Sat,Convênio,2
+Sat,Corrupção ativa,2
+Sat,Corrupção passiva,1
+Sat,Crédito Tributário,7
+Sat,Crimes contra a Dignidade Sexual :: Competência de Violência Doméstica,1
+Sat,Crimes contra a Flora,1
+Sat,Crimes contra as Relações de Consumo,3
+Sat,Crimes da Lei de licitações,1
+Sat,Crimes de Responsabilidade,3
+Sat,Crimes de Tortura,1
+Sat,Crimes de Tráfico Ilícito e uso indevido de drogas - L 6368,5
+Sat,Crimes de Trânsito,44
+Sat,Crimes do Sistema Nacional de Armas,58
+Sat,Crimes Falimentares,1
+Sat,Crimes Previstos no Estatuto do Idoso,2
+Sat,Custeio de Assistência Médica,1
+Sat,Da Poluição,2
+Sat,Dano ao Erário,1
+Sat,De Tráfico Ilícito e Uso Indevido de Drogas,3
+Sat,Decorrente de Violência Doméstica,15
+Sat,Demissão ou Exoneração,5
+Sat,Denunciação caluniosa,1
+Sat,Desacato,1
+Sat,Desapropriação,13
+Sat,Desapropriação Indireta,3
+Sat,Desapropriação por Utilidade Pública / DL 3.365/1941,1
+Sat,Desconto em folha de pagamento,4
+Sat,Descontos Indevidos,6
+Sat,Desobediência a decisão judicial sobre perda ou suspensão de direitos,1
+Sat,Despejo para Uso Próprio,2
+Sat,Despejo por Denúncia Vazia,2
+Sat,Despesas Condominiais,11
+Sat,Difamação,1
+Sat,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,33
+Sat,DIREITO CIVIL,35
+Sat,DIREITO DA CRIANÇA E DO ADOLESCENTE,31
+Sat,DIREITO DA SAÚDE,1
+Sat,Direito de Greve,1
+Sat,Direito de Vizinhança,11
+Sat,DIREITO DO CONSUMIDOR,6
+Sat,DIREITO PENAL,4
+Sat,Direitos / Deveres do Condômino,1
+Sat,Dissolução,29
+Sat,Dívida Ativa não-tributária,10
+Sat,Divisão e Demarcação,1
+Sat,Do Sistema Nacional de Armas,1
+Sat,Doação,2
+Sat,Doença em Pessoa da Família,1
+Sat,Duplicata,15
+Sat,Empregado Público / Temporário,26
+Sat,Empréstimo consignado,9
+Sat,Energia Elétrica,1
+Sat,Ensino Fundamental e Médio,95
+Sat,Ensino Superior,25
+Sat,Erro Médico,2
+Sat,Esbulho / Turbação / Ameaça,23
+Sat,Escolaridade,1
+Sat,Espécies de Contratos,39
+Sat,Espécies de Títulos de Crédito,20
+Sat,Estabelecimentos de Ensino,1
+Sat,Estaduais,5
+Sat,Estágio Probatório,1
+Sat,Estelionato,10
+Sat,Estupro,14
+Sat,Estupro de vulnerável,37
+Sat,Exame de Saúde e/ou Aptidão Física,1
+Sat,Exame Psicotécnico / Psiquiátrico,3
+Sat,Exclusão - ICMS,1
+Sat,Execução Contratual,1
+Sat,Exibicao de Documentos,2
+Sat,Exoneração,5
+Sat,Expedição de Certidão Positiva de Débito com Efeito de Negativa,1
+Sat,Expurgos Inflacionários / Planos Econômicos,9
+Sat,Extorsão,1
+Sat,Extorsão mediante seqüestro,2
+Sat,Falsidade ideológica,1
+Sat,Falsificação de documento particular,1
+Sat,Falsificação de documento público,1
+Sat,Família,14
+Sat,Fato Atípico :: Competência de Juizado Especial Crime - Trânsito,2
+Sat,Fato Gerador/Incidência,1
+Sat,Fatos Jurídicos,1
+Sat,Férias,5
+Sat,Fiscalização,3
+Sat,Fixação,8
+Sat,Fornecimento de Água,23
+Sat,Fornecimento de Energia Elétrica,99
+Sat,Fornecimento de insumos,1
+Sat,Fornecimento de medicamentos,2
+Sat,Fornecimento de Medicamentos,67
+Sat,Franquia,1
+Sat,Funcionamento de Estabelecimentos Empresariais,1
+Sat,Furto,17
+Sat,Furto Privilegiado,1
+Sat,Furto Qualificado,41
+Sat,Garantias Constitucionais,2
+Sat,Gratificação de Incentivo,3
+Sat,Gratificação Natalina/13º salário,2
+Sat,Gratificações de Atividade,9
+Sat,Gratificações e Adicionais,12
+Sat,Gratificações Municipais Específicas,7
+Sat,Grave,2
+Sat,Gravíssima,2
+Sat,Guarda,13
+Sat,Habilitação / Registro Cadastral / Julgamento / Homologação,1
+Sat,Homicídio Privilegiado,1
+Sat,Homicídio Qualificado,127
+Sat,Homicídio Simples,40
+Sat,Honorarios Profissionais,19
+Sat,ICMS / Incidência Sobre o Ativo Fixo,6
+Sat,ICMS/ Imposto sobre Circulação de Mercadorias,314
+Sat,ICMS/Importação,5
+Sat,Imissão,4
+Sat,Impostos,115
+Sat,Improbidade Administrativa,34
+Sat,Inadimplemento,3
+Sat,Incêndio,1
+Sat,Inclusão Indevida em Cadastro de Inadimplentes,20
+Sat,Inconstitucionalidade Material,5
+Sat,Indenização / Terço Constitucional,9
+Sat,Indenização por Dano Material,9
+Sat,Indenização por Dano Moral,93
+Sat,Infração Administrativa,9
+Sat,Ingresso e Concurso,1
+Sat,Injúria,2
+Sat,Inscrição / Documentação,2
+Sat,Inspeção Sanitária de Origem Animal,1
+Sat,Integralidade,72
+Sat,Interdição,1
+Sat,Interpretação / Revisão de Contrato,3
+Sat,Intervenção em Estado / Município,2
+Sat,Invalidez Permanente,1
+Sat,Inventário e Partilha,42
+Sat,Investigação de Paternidade,8
+Sat,IPTU/ Imposto Predial e Territorial Urbano,249
+Sat,IPVA - Imposto Sobre Propriedade de Veículos Automotores,18
+Sat,IRPF/Imposto de Renda de Pessoa Física,16
+Sat,Isonomia/Equivalência Salarial,2
+Sat,ISS/ Imposto sobre Serviços,86
+Sat,ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis,21
+Sat,ITCD - Imposto de Transmissão Causa Mortis,11
+Sat,Jornada de Trabalho,38
+Sat,Latrocínio,15
+Sat,Lesões Corporais,1
+Sat,Liberação de Veículo Apreendido,2
+Sat,Licença por Acidente em Serviço,1
+Sat,Licença Prêmio,1
+Sat,Licença-Prêmio,1
+Sat,Licenças,4
+Sat,Licenças / Afastamentos,1
+Sat,Licenciamento de Veículo,3
+Sat,Licitações,14
+Sat,Liquidação / Cumprimento / Execução :: Competência de Cível - Meio Ambiente,1
+Sat,Liquidação / Cumprimento / Execução :: Competência de Precatória Cível,3
+Sat,Locação de Imóvel,47
+Sat,Locação de Móvel,3
+Sat,Magistério público da educação básica - hora-atividade (Lei 11.738/08),55
+Sat,Magistratura,1
+Sat,Mandato,6
+Sat,Marca,2
+Sat,Maus Tratos,1
+Sat,Medidas Sócioeducativas,2
+Sat,Meio Ambiente,13
+Sat,Militar,14
+Sat,Multas e demais Sanções,99
+Sat,Municipais,14
+Sat,Mútuo,10
+Sat,Nomeação,6
+Sat,Nota Promissória,11
+Sat,Obrigações,77
+Sat,Oferta,2
+Sat,Orçamento,1
+Sat,Ordenação da Cidade / Plano Diretor,3
+Sat,Pagamento,9
+Sat,Pagamento Atrasado / Correção Monetária,3
+Sat,Pagamento em Consignação,1
+Sat,Parcelamento de Vencimentos,18
+Sat,Parcelamento do solo urbano,1
+Sat,Peculato,1
+Sat,Pensão,47
+Sat,Pensão por Morte (Art. 74/9),19
+Sat,Perigo de contágio de moléstia grave,1
+Sat,Pessoas naturais,19
+Sat,PIS,2
+Sat,Piso Salarial,71
+Sat,Planos de Saúde,30
+Sat,Posse,41
+Sat,Posse de Drogas para Consumo Pessoal,74
+Sat,Posse e Exercício,2
+Sat,Prestação de Serviços,33
+Sat,Previdência privada,58
+Sat,Processo Administrativo Disciplinar ou Sindicância,4
+Sat,Promessa de Compra e Venda,84
+Sat,Promessa de Recompensa,1
+Sat,Promoção,6
+Sat,Promoção / Ascensão,61
+Sat,Propriedade,9
+Sat,Propriedade Fiduciária,1
+Sat,Propriedade Intelectual / Industrial,3
+Sat,Protesto Indevido de Título,1
+Sat,Quadrilha ou Bando,1
+Sat,"Reajuste de Remuneração, Soldo, Proventos ou Pensão",4
+Sat,"Reajustes de Remuneração, Proventos ou Pensão",339
+Sat,Receptação,7
+Sat,Receptação Qualificada,3
+Sat,Reconhecimento / Dissolução,23
+Sat,Recuperação judicial e Falência,23
+Sat,Regime de Bens Entre os Cônjuges,3
+Sat,Regime Estatutário,2
+Sat,Registro de Óbito após prazo legal,1
+Sat,Registro em Cadastro,1
+Sat,Registro em Cadastro de Análise de Crédito,1
+Sat,Registro em Cadastro de Inadimplentes,12
+Sat,Regulamentação de Visitas,6
+Sat,Reintegração,6
+Sat,Reivindicação,2
+Sat,Relações de Parentesco,1
+Sat,Remoção,1
+Sat,Repasse de Verbas Públicas,2
+Sat,Repetição de indébito,7
+Sat,Representação comercial,7
+Sat,Reserva de Dominio,2
+Sat,Resistência,2
+Sat,Responsabilidade Civil,22
+Sat,Responsabilidade da Administração,5
+Sat,Responsabilidade do Fornecedor,4
+Sat,Responsabilidade dos sócios,1
+Sat,Restabelecimento,10
+Sat,Retificação de Nome,2
+Sat,Reversão,7
+Sat,Revisão,13
+Sat,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",1
+Sat,Revogação/Concessão de Licença Ambiental,1
+Sat,Roubo,14
+Sat,Roubo (art. 157),4
+Sat,Roubo Majorado,95
+Sat,Salário-Família,6
+Sat,Saneamento,1
+Sat,Saúde,32
+Sat,Seção Cível,1
+Sat,Seguida de Morte,1
+Sat,Seguro,113
+Sat,Serviços,3
+Sat,Serviços Hospitalares,1
+Sat,Servidão Administrativa,1
+Sat,Servidao de Eletroduto,10
+Sat,Servidor Público Civil,93
+Sat,Servidores Ativos,5
+Sat,Servidores Inativos,9
+Sat,Sistema Financeiro da Habitação,7
+Sat,Sistema Nacional de Trânsito,50
+Sat,Sistema Remuneratório e Benefícios,189
+Sat,Sociedade,2
+Sat,Substituição do Produto,1
+Sat,Sucessões,7
+Sat,Suspensão da Exigibilidade,1
+Sat,Sustação de Protesto,10
+Sat,Sustação/Alteração de Leilão,1
+Sat,Taxa de Coleta de Lixo,6
+Sat,Taxa de Licenciamento de Estabelecimento,3
+Sat,Taxa de Limpeza Pública,1
+Sat,Taxa Judiciária,1
+Sat,Taxas,8
+Sat,Telefonia,95
+Sat,Tempo de Serviço,7
+Sat,Teto Salarial,3
+Sat,Tráfico de Drogas e Condutas Afins,229
+Sat,Transporte de Coisas,1
+Sat,Tratamento médico-hospitalar,1
+Sat,Tratamento Médico-Hospitalar,12
+Sat,Tratamento Medico-Hospitalar e/ou Fornecimento,17
+Sat,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos,339
+Sat,Troca ou Permuta,1
+Sat,Tutela e Curatela,1
+Sat,União Estável ou Concubinato,3
+Sat,Uso de documento falso,3
+Sat,Usucapião da L 6.969/1981,2
+Sat,Usucapião Extraordinária,8
+Sat,Usucapião Ordinária,5
+Sat,Violação de direito autoral,2
+Sat,NA,145

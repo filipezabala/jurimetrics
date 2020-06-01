@@ -1,0 +1,531 @@
+weekDay,tipo_processo,count
+Sun,Ação Rescisória,11
+Sun,Agravo,29
+Sun,Agravo de Instrumento,1739
+Sun,Agravo Interno,2
+Sun,Agravo Regimental,1
+Sun,Apelação / Remessa Necessária,1
+Sun,Apelação Cível,1410
+Sun,Apelação e Reexame Necessário,247
+Sun,Apelação-Crime,1
+Sun,Cautelar Inominada,1
+Sun,Conflito de competência,3
+Sun,Conflito de Competência,57
+Sun,Correição Parcial,2
+Sun,Embargos de Declaração,226
+Sun,Embargos de Declaração Cível,27
+Sun,Embargos Infringentes e de Nulidade,3
+Sun,Habeas Corpus,14
+Sun,Habeas Corpus Criminal,13
+Sun,Impugnação à Assistência Judiciária,1
+Sun,Incidente de Uniformizacao Jurisprudencia,123
+Sun,Mandado de Injunção,16
+Sun,Mandado de Segurança,25
+Sun,Mandado de Segurança Cível,3
+Sun,Medidas Cautelares,1
+Sun,Petição,1
+Sun,Reclamação,5
+Sun,Recurso Cível,102
+Sun,Recurso Especial,1189
+Sun,Recurso Especial e ou Extraordinário,353
+Sun,Recurso Extraordinário,923
+Sun,Reexame Necessário,88
+Sun,Remessa Necessária Cível,3
+Sun,Revisão Criminal,14
+Sun,Uniformização de Jurisprudência,1
+Mon,Ação Civil Pública,1
+Mon,Ação Direta de Inconstitucionalidade,965
+Mon,Ação Penal - Procedimento Ordinário,2
+Mon,Ação Penal - Procedimento Sumário,2
+Mon,Ação Rescisória,298
+Mon,Agravo,2460
+Mon,Agravo de Execução Penal,13
+Mon,Agravo de Instrumento,62887
+Mon,Agravo Interno,227
+Mon,Agravo Regimental,481
+Mon,Agravo Regimental Cível,10
+Mon,Agravo Regimental Criminal,7
+Mon,Apelação / Remessa Necessária,86
+Mon,Apelação Cível,36966
+Mon,Apelação Criminal,573
+Mon,Apelação e Reexame Necessário,4222
+Mon,Apelação-Crime,276
+Mon,Carta Testemunhável,7
+Mon,Cautelar Inominada,14
+Mon,Conflito de competência,127
+Mon,Conflito de Competência,2491
+Mon,Conflito de Jurisdição,53
+Mon,Correição Parcial,199
+Mon,Correição Parcial Cível,9
+Mon,Correição Parcial Criminal,34
+Mon,Crimes contra a honra,4
+Mon,Cumprimento de Sentença,4
+Mon,Declaratória de Constitucionalidade,2
+Mon,Desaforamento,1
+Mon,Direta de Inconstitucionalidade,59
+Mon,Embargos de Declaração,9461
+Mon,Embargos de Declaração Cível,1011
+Mon,Embargos de Declaração Criminal,82
+Mon,Embargos Infringentes,16
+Mon,Embargos Infringentes e de Nulidade,36
+Mon,Exceção de Impedimento,2
+Mon,Exceção de Incompetência,2
+Mon,Exceção de Suspeição,34
+Mon,Habeas Corpus,3137
+Mon,Habeas Corpus Cível,38
+Mon,Habeas Corpus Criminal,838
+Mon,Habeas Data,2
+Mon,Impugnação à Assistência Judiciária,1
+Mon,Impugnação ao Valor da Causa,1
+Mon,Incidente de Arguição de Inconstitucionalidade Cível,4
+Mon,Incidente de Assunção de Competência,1
+Mon,Incidente de Falsidade,1
+Mon,Incidente de Inconstitucionalidade,68
+Mon,Incidente de Resolucao de Demandas Repetitiva,25
+Mon,Incidente de Resolução de Demandas Repetitivas,4
+Mon,Incidente de Uniformizacao Jurisprudencia,489
+Mon,Inquérito Policial,8
+Mon,Intervenção em Município,2
+Mon,Intervenção no Estado,2
+Mon,Investigação Contra Magistrado,5
+Mon,Mandado de Injunção,820
+Mon,Mandado de Segurança,2033
+Mon,Mandado de Segurança Cível,205
+Mon,Mandado de Segurança Coletivo,9
+Mon,Mandado de Segurança Crime,80
+Mon,Mandado de Segurança Criminal,23
+Mon,Medida Cautelar Inominada,7
+Mon,Medidas Cautelares,1
+Mon,Notícia Crime,1
+Mon,Pedido de Assistência Judiciária Gratuita,2
+Mon,Petição,96
+Mon,Petição Cível,12
+Mon,Petição Criminal,1
+Mon,Reclamação,222
+Mon,Recurso Cível,11662
+Mon,Recurso Crime,6479
+Mon,Recurso de Ofício,5
+Mon,Recurso em Sentido Estrito,160
+Mon,Recurso Especial,27530
+Mon,Recurso Especial e ou Extraordinário,4973
+Mon,Recurso Extraordinário,6543
+Mon,Reexame Necessário,2089
+Mon,Remessa Necessária Cível,65
+Mon,Representação Criminal,48
+Mon,Representação Criminal / Notícia de Crime,6
+Mon,Restauração de Autos,7
+Mon,Revisão Criminal,196
+Mon,Suspensão de Execução de Sentença,1
+Mon,Suspensão de Liminar ou Antecipação de Tutela,4
+Mon,Termo Circunstanciado,4
+Mon,Tutela Antecipada Antecedente,5
+Mon,Tutela Cautelar Antecedente,4
+Mon,Tutela Provisoria,2
+Tue,Ação Direta de Inconstitucionalidade,49
+Tue,Ação Penal - Procedimento Ordinário,3
+Tue,Ação Penal - Procedimento Sumário,1
+Tue,Ação Penal de Competencia Juri,1
+Tue,Ação Rescisória,806
+Tue,Agravo,14123
+Tue,Agravo de Execução Penal,108
+Tue,Agravo de Instrumento,132553
+Tue,Agravo Interno,1040
+Tue,Agravo Regimental,651
+Tue,Agravo Regimental Cível,4
+Tue,Agravo Regimental Criminal,8
+Tue,Apelação / Remessa Necessária,251
+Tue,Apelação Cível,100835
+Tue,Apelação Criminal,654
+Tue,Apelação e Reexame Necessário,20661
+Tue,Apelação-Crime,2304
+Tue,Carta Testemunhável,7
+Tue,Cautelar Inominada,18
+Tue,Conflito de competência,132
+Tue,Conflito de Competência,2935
+Tue,Conflito de Jurisdição,122
+Tue,Correição Parcial,193
+Tue,Correição Parcial Cível,9
+Tue,Correição Parcial Criminal,19
+Tue,Crimes contra a honra,5
+Tue,Cumprimento de Sentença,2
+Tue,Declaratória de Constitucionalidade,1
+Tue,Desaforamento,2
+Tue,Direta de Inconstitucionalidade,7
+Tue,Embargos de Declaração,63010
+Tue,Embargos de Declaração Cível,3653
+Tue,Embargos de Declaração Criminal,60
+Tue,Embargos Infringentes,400
+Tue,Embargos Infringentes e de Nulidade,52
+Tue,Exceção de Impedimento,2
+Tue,Exceção de Incompetência,2
+Tue,Exceção de Suspeição,53
+Tue,Habeas Corpus,4085
+Tue,Habeas Corpus Cível,55
+Tue,Habeas Corpus Criminal,593
+Tue,Habeas Data,2
+Tue,Impugnação ao Cumprimento de Sentença,1
+Tue,Impugnação ao Valor da Causa,4
+Tue,Incidente de Arguição de Inconstitucionalidade Cível,3
+Tue,Incidente de Falsidade,1
+Tue,Incidente de Inconstitucionalidade,4
+Tue,Incidente de Resolucao de Demandas Repetitiva,5
+Tue,Incidente de Resolução de Demandas Repetitivas,6
+Tue,Incidente de Uniformizacao Jurisprudencia,291
+Tue,Inquérito Policial,3
+Tue,Intervenção em Município,1
+Tue,Mandado de Injunção,400
+Tue,Mandado de Segurança,1670
+Tue,Mandado de Segurança Cível,144
+Tue,Mandado de Segurança Coletivo,6
+Tue,Mandado de Segurança Criminal,17
+Tue,Medida Cautelar,5
+Tue,Medida Cautelar Inominada,13
+Tue,Medidas Cautelares,3
+Tue,Pedido de Assistência Judiciária Gratuita,2
+Tue,Petição,103
+Tue,Petição Cível,22
+Tue,Petição Criminal,1
+Tue,Reclamação,183
+Tue,Reclamação Regimental,1
+Tue,Recurso Cível,78917
+Tue,Recurso Crime,61
+Tue,Recurso de Ofício,2
+Tue,Recurso em Sentido Estrito,1280
+Tue,Recurso Especial,18039
+Tue,Recurso Especial e ou Extraordinário,2522
+Tue,Recurso Extraordinário,2856
+Tue,Reexame Necessário,9401
+Tue,Remessa Necessária Cível,205
+Tue,Representação Criminal,43
+Tue,Representação Criminal / Notícia de Crime,4
+Tue,Restauração de Autos,10
+Tue,Revisão Criminal,147
+Tue,Suspensão de Liminar ou Antecipação de Tutela,4
+Tue,Termo Circunstanciado,4
+Tue,Tutela Antecipada Antecedente,6
+Tue,Tutela Cautelar Antecedente,6
+Tue,Tutela Provisoria,1
+Tue,Tutela Provisória,1
+Tue,Uniformização de Jurisprudência,2
+Wed,Ação Civil Improbidade Administrativa,1
+Wed,Ação Direta de Inconstitucionalidade,16
+Wed,Ação Penal - Procedimento Ordinário,3
+Wed,Ação Penal - Procedimento Sumaríssimo,1
+Wed,Ação Rescisória,496
+Wed,Agravo,76240
+Wed,Agravo de Execução Penal,1200
+Wed,Agravo de Instrumento,194916
+Wed,Agravo em Execução,290
+Wed,Agravo Embargos Infringentes,1
+Wed,Agravo Interno,2905
+Wed,Agravo Regimental,3721
+Wed,Agravo Regimental Cível,21
+Wed,Agravo Regimental Criminal,46
+Wed,Apelação / Remessa Necessária,893
+Wed,Apelação Cível,376200
+Wed,Apelação Criminal,6397
+Wed,Apelação e Reexame Necessário,24045
+Wed,Apelação-Crime,14989
+Wed,Carta Testemunhável,76
+Wed,Cautelar Inominada,46
+Wed,Conflito de competência,328
+Wed,Conflito de Competência,5503
+Wed,Conflito de Jurisdição,1333
+Wed,Correição Parcial,946
+Wed,Correição Parcial Cível,14
+Wed,Correição Parcial Criminal,100
+Wed,Crimes contra a honra,1
+Wed,"Crimes de Calúnia, Injúria e Difamação de Competência do Juiz Singular",1
+Wed,Cumprimento de Sentença,2
+Wed,Desaforamento,40
+Wed,Desaforamento de Julgamento,7
+Wed,Direta de Inconstitucionalidade,43
+Wed,Embargos de Declaração,132798
+Wed,Embargos de Declaração Cível,10135
+Wed,Embargos de Declaração Criminal,488
+Wed,Embargos Infringentes,77
+Wed,Embargos Infringentes e de Nulidade,79
+Wed,Exceção de Impedimento,8
+Wed,Exceção de Incompetência,5
+Wed,Exceção de Suspeição,179
+Wed,Habeas Corpus,37999
+Wed,Habeas Corpus Cível,68
+Wed,Habeas Corpus Criminal,2831
+Wed,Habeas Data,4
+Wed,Impugnação à Assistência Judiciária,2
+Wed,Impugnação ao Valor da Causa,5
+Wed,Incidente de Arguição de Inconstitucionalidade Cível,1
+Wed,Incidente de Falsidade,2
+Wed,Incidente de Inconstitucionalidade,1
+Wed,Incidente de Resolucao de Demandas Repetitiva,10
+Wed,Incidente de Resolução de Demandas Repetitivas,2
+Wed,Incidente de Uniformizacao Jurisprudencia,293
+Wed,Inquérito Policial,3
+Wed,Intervenção em Município,2
+Wed,Investigação Contra Magistrado,2
+Wed,Mandado de Injunção,262
+Wed,Mandado de Segurança,2348
+Wed,Mandado de Segurança Cível,234
+Wed,Mandado de Segurança Coletivo,1
+Wed,Mandado de Segurança Crime,1
+Wed,Mandado de Segurança Criminal,62
+Wed,Medida Cautelar,12
+Wed,Medida Cautelar Inominada,17
+Wed,Medidas Cautelares,5
+Wed,Petição,170
+Wed,Petição Cível,20
+Wed,Petição Criminal,4
+Wed,Procedimento Investigatório do MP,1
+Wed,Processo Cautelar,2
+Wed,Reabilitação,2
+Wed,Reclamação,296
+Wed,Reclamação Criminal,8
+Wed,Reclamação Regimental,2
+Wed,Recurso Cível,90760
+Wed,Recurso Crime,39
+Wed,Recurso de Ofício,39
+Wed,Recurso em Sentido Estrito,10064
+Wed,Recurso Especial,22384
+Wed,Recurso Especial e ou Extraordinário,3522
+Wed,Recurso Extraordinário,9857
+Wed,Reexame Necessário,6840
+Wed,Remessa Necessária Cível,298
+Wed,Remessa Necessária Criminal,5
+Wed,Representação Criminal,39
+Wed,Representação Criminal / Notícia de Crime,7
+Wed,Restauração de Autos,32
+Wed,Revisão Criminal,142
+Wed,Suspensão de Liminar ou Antecipação de Tutela,9
+Wed,Termo Circunstanciado,8
+Wed,Tutela Antecipada Antecedente,6
+Wed,Tutela Cautelar Antecedente,7
+Wed,Tutela Provisoria,9
+Wed,Tutela Provisória,1
+Wed,Uniformização de Jurisprudência,4
+Thu,Ação Direta de Inconstitucionalidade,18
+Thu,Ação Penal - Procedimento Ordinário,135
+Thu,Ação Penal - Procedimento Sumário,30
+Thu,Ação Penal - Procedimento Sumaríssimo,21
+Thu,Ação Rescisória,521
+Thu,Agravo,75781
+Thu,Agravo de Execução Penal,1348
+Thu,Agravo de Instrumento,180677
+Thu,Agravo em Execução,199
+Thu,Agravo Interno,2284
+Thu,Agravo Regimental,5597
+Thu,Agravo Regimental Cível,16
+Thu,Agravo Regimental Criminal,48
+Thu,Apelação / Remessa Necessária,524
+Thu,Apelação Cível,475677
+Thu,Apelação Criminal,8827
+Thu,Apelação e Reexame Necessário,16751
+Thu,Apelação-Crime,13723
+Thu,Carta Testemunhável,64
+Thu,Cautelar Inominada,44
+Thu,Conflito de competência,248
+Thu,Conflito de Competência,4863
+Thu,Conflito de Jurisdição,1314
+Thu,Correição Parcial,1089
+Thu,Correição Parcial Cível,13
+Thu,Correição Parcial Criminal,200
+Thu,Crimes Ambientais,1
+Thu,Crimes contra a honra,13
+Thu,"Crimes de Calúnia, Injúria e Difamação de Competência do Juiz Singular",2
+Thu,Cumprimento de sentença,2
+Thu,Cumprimento de Sentença,9
+Thu,Desaforamento,25
+Thu,Desaforamento de Julgamento,5
+Thu,Direta de Inconstitucionalidade,4
+Thu,Embargos de Declaração,137555
+Thu,Embargos de Declaração Cível,11276
+Thu,Embargos de Declaração Criminal,1311
+Thu,Embargos Infringentes,11
+Thu,Embargos Infringentes e de Nulidade,511
+Thu,Exceção da Verdade,3
+Thu,Exceção de Impedimento,7
+Thu,Exceção de Incompetência,3
+Thu,Exceção de Incompetência de Juízo,1
+Thu,Exceção de Suspeição,190
+Thu,Habeas Corpus,40685
+Thu,Habeas Corpus Cível,118
+Thu,Habeas Corpus Criminal,4589
+Thu,Habeas Data,3
+Thu,Impugnação à Assistência Judiciária,5
+Thu,Impugnação ao Cumprimento de Sentença,1
+Thu,Impugnação ao Valor da Causa,9
+Thu,Incidente de Assunção de Competência,2
+Thu,Incidente de Falsidade,2
+Thu,Incidente de Inconstitucionalidade,3
+Thu,Incidente de Resolucao de Demandas Repetitiva,9
+Thu,Incidente de Resolução de Demandas Repetitivas,3
+Thu,Incidente de Uniformizacao Jurisprudencia,64
+Thu,Inquérito Policial,29
+Thu,Intervenção em Município,2
+Thu,Investigação Contra Magistrado,1
+Thu,Liquidação Provisória por Artigos,2
+Thu,Mandado de Injunção,292
+Thu,Mandado de Segurança,2579
+Thu,Mandado de Segurança Cível,218
+Thu,Mandado de Segurança Coletivo,1
+Thu,Mandado de Segurança Criminal,91
+Thu,Medida Cautelar,1
+Thu,Medida Cautelar Inominada,26
+Thu,Medidas Cautelares,7
+Thu,Notícia Crime,2
+Thu,Oposição,1
+Thu,Pedido de Assistência Judiciária Gratuita,2
+Thu,Petição,181
+Thu,Petição Cível,26
+Thu,Petição Criminal,8
+Thu,Procedimento Investigatório do MP,6
+Thu,Procedimento Investigatório do MP (Peças de Informação),3
+Thu,Processo Cautelar,2
+Thu,Processo Crime,1
+Thu,Reclamação,170
+Thu,Reclamação Criminal,1
+Thu,Recurso Cível,109035
+Thu,Recurso Crime,59
+Thu,Recurso de Ofício,78
+Thu,Recurso em Sentido Estrito,9533
+Thu,Recurso Especial,22156
+Thu,Recurso Especial e ou Extraordinário,4086
+Thu,Recurso Extraordinário,7386
+Thu,Reexame Necessário,5283
+Thu,Remessa Necessária Cível,184
+Thu,Remessa Necessária Criminal,7
+Thu,Representação Criminal,71
+Thu,Representação Criminal / Notícia de Crime,14
+Thu,Restauração de Autos,22
+Thu,Revisão Criminal,227
+Thu,Suspensão de Liminar ou Antecipação de Tutela,6
+Thu,Termo Circunstanciado,40
+Thu,Tutela Antecipada Antecedente,10
+Thu,Tutela Cautelar Antecedente,10
+Thu,Tutela Provisoria,9
+Thu,Tutela Provisória,1
+Thu,Uniformização de Jurisprudência,1
+Fri,Ação Civil Improbidade Administrativa,2
+Fri,Ação Direta de Inconstitucionalidade,16
+Fri,Ação Penal - Procedimento Ordinário,2
+Fri,Ação Penal - Procedimento Sumário,2
+Fri,Ação Penal - Procedimento Sumaríssimo,1
+Fri,Ação Rescisória,1558
+Fri,Agravo,2098
+Fri,Agravo de Execução Penal,19
+Fri,Agravo de Instrumento,62055
+Fri,Agravo em Execução,3
+Fri,Agravo Interno,204
+Fri,Agravo Regimental,787
+Fri,Agravo Regimental Cível,3
+Fri,Agravo Regimental Criminal,15
+Fri,Apelação / Remessa Necessária,82
+Fri,Apelação Cível,36789
+Fri,Apelação Criminal,80
+Fri,Apelação e Reexame Necessário,3709
+Fri,Apelação-Crime,417
+Fri,Carta Testemunhável,4
+Fri,Cautelar Inominada,22
+Fri,Conflito de competência,79
+Fri,Conflito de Competência,2400
+Fri,Conflito de Jurisdição,68
+Fri,Correição Parcial,133
+Fri,Correição Parcial Cível,5
+Fri,Correição Parcial Criminal,20
+Fri,Crimes contra a honra,1
+Fri,Cumprimento de sentença,1
+Fri,Cumprimento de Sentença,4
+Fri,Desaforamento,1
+Fri,Embargos de Declaração,14363
+Fri,Embargos de Declaração Cível,1463
+Fri,Embargos de Declaração Criminal,74
+Fri,Embargos Infringentes,3111
+Fri,Embargos Infringentes e de Nulidade,13134
+Fri,Exceção de Impedimento,1
+Fri,Exceção de Incompetência,1
+Fri,Exceção de Suspeição,25
+Fri,Habeas Corpus,2715
+Fri,Habeas Corpus Cível,20
+Fri,Habeas Corpus Criminal,560
+Fri,Habeas Data,14
+Fri,Impugnação à Assistência Judiciária,13
+Fri,Impugnação ao Cumprimento de Sentença,2
+Fri,Impugnação ao Valor da Causa,36
+Fri,Incidente de Assunção de Competência,1
+Fri,Incidente de Inconstitucionalidade,1
+Fri,Incidente de Resolucao de Demandas Repetitiva,30
+Fri,Incidente de Resolução de Demandas Repetitivas,2
+Fri,Incidente de Uniformizacao Jurisprudencia,88
+Fri,Inquérito Policial,5
+Fri,Intervenção no Estado,2
+Fri,Mandado de Injunção,349
+Fri,Mandado de Segurança,2665
+Fri,Mandado de Segurança Cível,172
+Fri,Mandado de Segurança Coletivo,9
+Fri,Mandado de Segurança Crime,2
+Fri,Mandado de Segurança Criminal,22
+Fri,Medida Cautelar Inominada,7
+Fri,Medidas Cautelares,7
+Fri,Notícia Crime,1
+Fri,Notificação Para Explicações,1
+Fri,Pedido de Assistência Judiciária Gratuita,1
+Fri,Petição,111
+Fri,Petição Cível,10
+Fri,Petição Criminal,1
+Fri,Prefeito - Improbidade,1
+Fri,Reclamação,137
+Fri,Recurso Cível,42018
+Fri,Recurso de Ofício,4
+Fri,Recurso em Sentido Estrito,115
+Fri,Recurso Especial,21459
+Fri,Recurso Especial e ou Extraordinário,3097
+Fri,Recurso Extraordinário,5879
+Fri,Reexame Necessário,1843
+Fri,Remessa Necessária Cível,77
+Fri,Representação Criminal,40
+Fri,Representação Criminal / Notícia de Crime,7
+Fri,Restauração de Autos,6
+Fri,Revisão Criminal,2910
+Fri,Suspensão de Liminar ou Antecipação de Tutela,6
+Fri,Termo Circunstanciado,4
+Fri,Tutela Antecipada Antecedente,2
+Fri,Tutela Cautelar Antecedente,4
+Fri,Tutela Provisoria,3
+Fri,Uniformização de Jurisprudência,29
+Sat,Ação Rescisória,8
+Sat,Agravo,113
+Sat,Agravo de Instrumento,1720
+Sat,Agravo Interno,3
+Sat,Agravo Regimental,2
+Sat,Apelação / Remessa Necessária,2
+Sat,Apelação Cível,1136
+Sat,Apelação Criminal,1
+Sat,Apelação e Reexame Necessário,176
+Sat,Apelação-Crime,1
+Sat,Conflito de competência,3
+Sat,Conflito de Competência,48
+Sat,Conflito de Jurisdição,2
+Sat,Correição Parcial,5
+Sat,Embargos de Declaração,195
+Sat,Embargos de Declaração Cível,45
+Sat,Embargos Infringentes,1
+Sat,Exceção de Impedimento,1
+Sat,Exceção de Suspeição,1
+Sat,Habeas Corpus,54
+Sat,Habeas Corpus Cível,3
+Sat,Habeas Corpus Criminal,11
+Sat,Incidente de Uniformizacao Jurisprudencia,124
+Sat,Mandado de Injunção,7
+Sat,Mandado de Segurança,27
+Sat,Mandado de Segurança Cível,3
+Sat,Petição,1
+Sat,Petição Cível,4
+Sat,Reclamação,5
+Sat,Recurso Cível,36
+Sat,Recurso em Sentido Estrito,2
+Sat,Recurso Especial,1703
+Sat,Recurso Especial e ou Extraordinário,323
+Sat,Recurso Extraordinário,1193
+Sat,Reexame Necessário,66
+Sat,Remessa Necessária Cível,3
+Sat,Revisão Criminal,7
+Sat,Suspensão de Liminar ou Antecipação de Tutela,2

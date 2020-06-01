@@ -30,9 +30,23 @@ pdm <- lapply(pdm, as_tibble)
 
 # binding
 dfs <- bind_cols(bind_rows(dfs), bind_rows(pdm))
-dfsDM <- dfs %>%
+
+# removing duplicates
+dfs <- distinct(dfs)
+
+# filtering
+dfsDM_full <- dfs %>%
   rename(danomoral = value) %>%
-  filter(danomoral == T)
+  filter(danomoral == T, decisao == 'Acordao', tipo_processo == 'Apelação Cível')
+
+dfsDM_clean <- dfsDM_full %>%
+  select(numero_processo, html)
+
+dfsDM_html <- dfsDM_full %>%
+  select(html)
 
 # writing
-xlsx::write.xlsx(dfsDM, 'danomoral2020.xlsx')
+setwd('~/Dropbox/Jurimetria/contatos/@Escola_AJURIS/dados/')
+xlsx::write.xlsx(dfsDM_full, 'danomoral2020_full.xlsx')
+xlsx::write.xlsx(dfsDM_clean,  'danomoral2020_clean.xlsx')
+write_csv(dfsDM_clean,  'danomoral2020_clean.csv')

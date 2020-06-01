@@ -6,7 +6,7 @@ Author@R: c(person("Filipe", "J. Zabala", email = "filipe.zabala@gmail.com", rol
 Maintainer: Filipe J. Zabala <filipe.zabala@gmail.com>
 URL: http://www.aclassica.com
 BugReports: https://github.com/filipezabala/jurimetrics/issues
-Description: General purpouse tools for Jurimetrics. Gathers tools to solve 
+Description: General purpose tools for Jurimetrics. Gathers tools to solve 
     problems concerning legal issues.
 Depends: R (>= 3.6.3), fpp2, forecast, ggplot2
 Imports: tidyverse

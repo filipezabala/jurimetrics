@@ -38,6 +38,8 @@ library(jurimetrics)
 ?fits
 ?theme_doj
 
+citation('jurimetrics')
+
 data(count_day_subject)
 data(count_day_subject2)
 

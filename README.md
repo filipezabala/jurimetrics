@@ -1,7 +1,7 @@
 # jurimetrics
 General Purpose Tools for Jurimetrics.
 
-```
+```r
 # installig and calling package
 devtools::install_github('filipezabala/jurimetrics', force=T)
 library(jurimetrics)

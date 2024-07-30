@@ -1,5 +1,5 @@
 # jurimetrics
-General Purpose Tools for Jurimetrics.
+General-purpose Tools for Jurimetrics.
 
 ```r
 # installig and calling package

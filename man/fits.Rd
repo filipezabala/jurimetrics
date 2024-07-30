@@ -9,11 +9,11 @@ fits(
   train = 0.8,
   steps = NULL,
   max.points = 500,
-  show.main.graph = T,
-  show.sec.graph = F,
-  show.value = T,
-  PI = F,
-  theme.doj = F
+  show.main.graph = TRUE,
+  show.sec.graph = TRUE,
+  show.value = TRUE,
+  PI = FALSE,
+  theme.doj = FALSE
 )
 }
 \arguments{
@@ -25,15 +25,15 @@ fits(
 
 \item{max.points}{Limits the maximum number of points to be used in modeling. Uses the first \code{max.points} points of the series.}
 
-\item{show.main.graph}{Logical. Should the main graphic (with the final model) be displayed?}
+\item{show.main.graph}{Logical. Should the main graphic (with the final model) be displayed? Default: `TRUE`.}
 
-\item{show.sec.graph}{Logical. Should the secondary graphics (with the training models) be displayed?}
+\item{show.sec.graph}{Logical. Should the secondary graphics (with the training models) be displayed? Default: `TRUE`.}
 
-\item{show.value}{Logical. Should the values be displayed?}
+\item{show.value}{Logical. Should the values be displayed? Default: `TRUE`.}
 
-\item{PI}{Prediction Interval used in nnar models. May take long time processing.}
+\item{PI}{Prediction Interval used in nnar models. May take long time processing. Default: `FALSE`.}
 
-\item{theme_doj}{Logical. Should the theme of Decades Of Jurimetrics be used?}
+\item{theme_doj}{Logical. Should the theme of Decades Of Jurimetrics be used? Default: `FALSE`.}
 }
 \value{
 \code{$fcast} Predicted time series using the model that minimizes the forecasting mean square error.

@@ -64,30 +64,30 @@ usethis::use_data(tjrs_00_17, overwrite = TRUE)
 usethis::use_data(tjrs_16_23, overwrite = TRUE)
 
 
-# xts
-ts_00_17 <- zooreg(tjrs_00_17, start = c(2015, 1), frequency = 12)
-head(zm2) # zooreg()
-tjrs_00_17 <- as.xts(tjrs_00_17)
-
-# gráficos
-plot(cota_inferior_xts)
-ts_plot(cota_inferior_xts, Xgrid = TRUE, Ygrid = TRUE)
-
-# modelos
-tic()
-fits(cota_inferior_xts, show.sec.graph = TRUE, PI = TRUE)
-toc() # 52.113 sec elapsed
-
-
-
-# View(jurimetrics::count_year_month)
-# contaAnoMes
-
-# 2022 com volume muito baixo
-plot(contaAnoMes)
-plot(contaAnoMes[year(index(contaAnoMes)) >= 2021 & year(index(contaAnoMes)) <= 2023,])
-plot(window(contaAnoMes, start = '2021-07-01', end = '2023-06-30'))
-
-stats::monthplot(contaAnoMes)
-forecast::ggseasonplot(contaAnoMes_ts, col=rainbow(12), year.labels = TRUE)
-class(fpp2::h02)
+# # xts
+# ts_00_17 <- zooreg(tjrs_00_17, start = c(2015, 1), frequency = 12)
+# head(zm2) # zooreg()
+# tjrs_00_17 <- as.xts(tjrs_00_17)
+#
+# # gráficos
+# plot(cota_inferior_xts)
+# ts_plot(cota_inferior_xts, Xgrid = TRUE, Ygrid = TRUE)
+#
+# # modelos
+# tic()
+# fits(cota_inferior_xts, show.sec.graph = TRUE, PI = TRUE)
+# toc() # 52.113 sec elapsed
+#
+#
+#
+# # View(jurimetrics::count_year_month)
+# # contaAnoMes
+#
+# # 2022 com volume muito baixo
+# plot(contaAnoMes)
+# plot(contaAnoMes[year(index(contaAnoMes)) >= 2021 & year(index(contaAnoMes)) <= 2023,])
+# plot(window(contaAnoMes, start = '2021-07-01', end = '2023-06-30'))
+#
+# stats::monthplot(contaAnoMes)
+# forecast::ggseasonplot(contaAnoMes_ts, col=rainbow(12), year.labels = TRUE)
+# class(fpp2::h02)

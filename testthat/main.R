@@ -40,23 +40,5 @@ library(jurimetrics)
 
 citation('jurimetrics')
 
-data(count_day_subject)
-data(count_day_subject2)
-
-data(count_day_type)
-data(count_day)
-data(count_week_day_subject)
-data(count_week_day_type)
-data(count_week_day)
-data(count_year_month_subject)
-data(count_year_month_subject2)
-
-data(count_year_month_type)
-data(count_year_month_type2)
-
-data(count_year_month)
-data(count_year_month2)
-count_year_month2$count
-
-count_year_month2 %>%
-  print(n = Inf)
+data("tjrs_00_17")
+data("tjrs_16_23")

@@ -63,6 +63,8 @@ setwd('~/Dropbox/Jurimetria/codigos/git/jurimetrics/data/')
 usethis::use_data(tjrs_00_17, overwrite = TRUE)
 usethis::use_data(tjrs_16_23, overwrite = TRUE)
 
+data(tjrs_00_17)
+data(tjrs_16_23)
 
 # # xts
 # ts_00_17 <- zooreg(tjrs_00_17, start = c(2015, 1), frequency = 12)

@@ -37,6 +37,7 @@ devtools::install_github('filipezabala/jurimetrics', force = T)
 library(jurimetrics)
 ?fits
 ?theme_doj
+?jurimetrics::tjrs_00_17
 
 citation('jurimetrics')
 

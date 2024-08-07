@@ -39,7 +39,7 @@
 #'
 #' data(tjrs_year_month)
 #' y2 <- ts(tjrs_year_month$count, start = c(2000,1), frequency = 12)
-#' fits(y2, train = 0.8, steps = 24)
+#' fits(y2, train = 0.8)
 #' @export
 fits <- function(x,
                  train = 0.8,
